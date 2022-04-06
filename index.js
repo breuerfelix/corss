@@ -22,6 +22,7 @@ const main = async () => {
     const filename = DIST_FOLDER + encodeURIComponent(url) + '.json'
     fs.writeFileSync(filename, JSON.stringify(feed))
   }
+  fs.writeFileSync('dist/test.json', JSON.stringify({test: 'bla'}))
 }
 
 main()
