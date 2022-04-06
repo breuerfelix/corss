@@ -23,6 +23,7 @@ const main = async () => {
     fs.writeFileSync(filename, JSON.stringify(feed))
   }
   fs.writeFileSync('dist/test.json', JSON.stringify({test: 'bla'}))
+  fs.writeFileSync('dist/index.html', "hello world")
 }
 
 main()
