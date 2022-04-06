@@ -1,0 +1,29 @@
+{
+  "name": "corss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "prettier --check .",
+    "lint": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breuerfelix/corss.git"
+  },
+  "keywords": [],
+  "author": "Felix Breuer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breuerfelix/corss/issues"
+  },
+  "homepage": "https://github.com/breuerfelix/corss#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
