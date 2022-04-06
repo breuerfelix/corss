@@ -19,7 +19,7 @@ const main = async () => {
     console.log('fetching feed', url)
 
     const feed = await parser.parseURL(url)
-    const filename = DIST_FOLDER + encodeURIComponent(url)
+    const filename = DIST_FOLDER + encodeURIComponent(url) + '.json'
     fs.writeFileSync(filename, JSON.stringify(feed))
   }
 }
