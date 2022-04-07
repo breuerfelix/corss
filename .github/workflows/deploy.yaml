@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
 jobs:
   fetch-and-deploy:
     concurrency: ci-${{ github.ref }}
@@ -21,4 +21,3 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-

@@ -20,8 +20,8 @@ const main = async () => {
     feeds: FEEDS,
   }
 
-  FEEDS.forEach(([slug, url]) => meta[url] = slug)
-  FEEDS.forEach(([slug, url]) => meta[slug] = url)
+  FEEDS.forEach(([slug, url]) => (meta[url] = slug))
+  FEEDS.forEach(([slug, url]) => (meta[slug] = url))
 
   for (const [slug, url] of FEEDS) {
     console.log('fetching feed', url)
@@ -39,7 +39,7 @@ const main = async () => {
 
   // TODO list of all feeds
   // index.html is needed in order for github pages to work
-  fs.writeFileSync(DIST_FOLDER + 'index.html', "hello world")
+  fs.writeFileSync(DIST_FOLDER + 'index.html', 'hello world')
   fs.writeFileSync(DIST_FOLDER + 'meta.json', JSON.stringify(meta))
 }
 
