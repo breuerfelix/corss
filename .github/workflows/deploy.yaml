@@ -22,3 +22,7 @@ jobs:
           branch: gh-pages
           folder: dist
           single-commit: true
+          clean: true
+          git-config-name: GitHub
+          git-config-email: <>
+
