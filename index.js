@@ -7,6 +7,17 @@ const FEEDS = [
   ['tagesschau', 'https://www.tagesschau.de/xml/rss2/'],
   ['spiegel', 'https://www.spiegel.de/schlagzeilen/index.rss'],
   ['reddit', 'https://www.reddit.com/.rss'],
+  ['rnd', 'https://www.rnd.de/arc/outboundfeeds/rss/'],
+  ['geo', 'https://www.geo.de/feed/rss/geo/'],
+  ['ntv', 'https://www.n-tv.de/rss'],
+  ['deutschlandfunk-nachrichten', 'https://www.deutschlandfunk.de/nachrichten-100.rss'],
+  ['deutschlandfunk-politikportal', 'https://www.deutschlandfunk.de/politikportal-100.rss'],
+  ['deutschlandfunk-wirtschaft', 'https://www.deutschlandfunk.de/wirtschaft-106.rss'],
+  ['deutschlandfunk-wissen', 'https://www.deutschlandfunk.de/wissen-106.rss'],
+  ['deutschlandfunk-kulturportal', 'https://www.deutschlandfunk.de/kulturportal-100.rss'],
+  ['deutschlandfunk-europa', 'https://www.deutschlandfunk.de/europa-112.rss'],
+  ['deutschlandfunk-gesellschaft', 'https://www.deutschlandfunk.de/gesellschaft-106.rss'],
+  ['deutschlandfunk-sportportal', 'https://www.deutschlandfunk.de/sportportal-100.rss'],
 ]
 
 const main = async () => {
