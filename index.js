@@ -6,7 +6,7 @@ const DIST_FOLDER = 'dist/'
 const FEEDS = [
   ['tagesschau', 'https://www.tagesschau.de/xml/rss2/'],
   ['spiegel', 'https://www.spiegel.de/schlagzeilen/index.rss'],
-  ['reddit', 'https://www.reddit.com/.rss'],
+  //['reddit', 'https://www.reddit.com/.rss'],
   ['rnd', 'https://www.rnd.de/arc/outboundfeeds/rss/'],
   ['geo', 'https://www.geo.de/feed/rss/geo/'],
   ['ntv', 'https://www.n-tv.de/rss'],
