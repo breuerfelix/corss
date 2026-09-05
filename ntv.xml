@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sat, 05 Sep 2026 19:42:14 +0200</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Regime opfert Öl für Machterhalt: Venezuela ist eine koloniale Autokratie nach Trumps Geschmack</title>
+                <description>Den politischen Kopf Venezuelas haben die USA im Januar entfernt. Spätestens mit dem historischen Öl-Deal zwischen Washington und Caracas wird das karibische Land zum Paradebeispiel dafür, wie sich US-Präsident Trump die Welt vorstellt.</description>
+                <link>https://www.n-tv.de/politik/Wir-machen-ein-Vermoegen-Venezuela-ist-eine-koloniale-Autokratie-nach-Trumps-Geschmack-id31271064.html</link>
+                <guid>https://www.n-tv.de/politik/Wir-machen-ein-Vermoegen-Venezuela-ist-eine-koloniale-Autokratie-nach-Trumps-Geschmack-id31271064.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 19:34:45 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271194/1788539484/Img_4_3/250/2026-09-02T190122Z_307705225_RC27BNA1NLPO_RTRMADP_3_USA-TRUMP.jpg" width="250" height="188" align="left" />Den politischen Kopf Venezuelas haben die USA im Januar entfernt. Spätestens mit dem historischen Öl-Deal zwischen Washington und Caracas wird das karibische Land zum Paradebeispiel dafür, wie sich US-Präsident Trump die Welt vorstellt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271194/1788539484/Img_4_3/250/2026-09-02T190122Z_307705225_RC27BNA1NLPO_RTRMADP_3_USA-TRUMP.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Putins verwundbare Gasflotte: Europa hängt am russischen LNG-Hahn - dreht die Ukraine ihn ab? </title>
+                <description>Im Sommer verwandelt die Ukraine Russlands wichtigste Geldquelle in eine strategische Schwachstelle: das Ölgeschäft. Dasselbe könnte sie mit russischen LNG-Lieferungen machen. 15 Tanker halten den Export am Laufen. Sie rücken in Reichweite. Doch es gibt ein Problem: Europa.</description>
+                <link>https://www.n-tv.de/wirtschaft/Europa-haengt-am-russischen-LNG-Hahn-dreht-die-Ukraine-ihn-ab-id31265765.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Europa-haengt-am-russischen-LNG-Hahn-dreht-die-Ukraine-ihn-ab-id31265765.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 05 Sep 2026 16:14:38 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31265771/1788439979/Img_4_3/250/387773714.jpg" width="250" height="188" align="left" />Im Sommer verwandelt die Ukraine Russlands wichtigste Geldquelle in eine strategische Schwachstelle: das Ölgeschäft. Dasselbe könnte sie mit russischen LNG-Lieferungen machen. 15 Tanker halten den Export am Laufen. Sie rücken in Reichweite. Doch es gibt ein Problem: Europa.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31265771/1788439979/Img_4_3/250/387773714.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unterhändler landen in Moskau: US-Gesandte Witkoff und Kushner fahren im Konvoi zu Putin </title>
+                <description>Nächster Stopp: Wladimir Putin. Die US-Unterhändler für die russisch-ukrainischen Friedensverhandlungen sind in Moskau gelandet. In wenigen Stunden dürfte Klarheit herrschen, ob Jared Kushner und Steve Witkoff neuen Schwung in die festgefahrenen Verhandlungen bringen konnten. </description>
+                <link>https://www.n-tv.de/politik/US-Gesandte-Witkoff-und-Kushner-fahren-im-Konvoi-zu-Putin-id31272865.html</link>
+                <guid>https://www.n-tv.de/politik/US-Gesandte-Witkoff-und-Kushner-fahren-im-Konvoi-zu-Putin-id31272865.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 13:20:22 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272885/1788613830/Img_4_3/250/2026-09-05T104317Z_1425676026_RC2YCNARSQBP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.jpg" width="250" height="188" align="left" />Nächster Stopp: Wladimir Putin. Die US-Unterhändler für die russisch-ukrainischen Friedensverhandlungen sind in Moskau gelandet. In wenigen Stunden dürfte Klarheit herrschen, ob Jared Kushner und Steve Witkoff neuen Schwung in die festgefahrenen Verhandlungen bringen konnten. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272885/1788613830/Img_4_3/250/2026-09-05T104317Z_1425676026_RC2YCNARSQBP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Selenskyj schließt sich an: Putin kündigt dreitägige Pause von Angriffen auf Kiew an</title>
+                <description>Die russischen Angriffe auf die ukrainische Hauptstadt werden nach Kreml-Angaben ab Mitternacht für drei Tage eingestellt. Die beschränkte Feuerpause hängt mit der Reise der beiden US-Unterhändler Witkoff und Kushner zusammen, die nach Kiew reisen werden. </description>
+                <link>https://www.n-tv.de/politik/Putin-kuendigt-dreitaegige-Pause-von-Angriffen-auf-Kiew-an-id31273063.html</link>
+                <guid>https://www.n-tv.de/politik/Putin-kuendigt-dreitaegige-Pause-von-Angriffen-auf-Kiew-an-id31273063.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 15:11:15 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273044/1788620280/Img_4_3/250/616991761.jpg" width="250" height="188" align="left" />Die russischen Angriffe auf die ukrainische Hauptstadt werden nach Kreml-Angaben ab Mitternacht für drei Tage eingestellt. Die beschränkte Feuerpause hängt mit der Reise der beiden US-Unterhändler Witkoff und Kushner zusammen, die nach Kiew reisen werden. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273044/1788620280/Img_4_3/250/616991761.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Neue Ausrichtung für CDU: Merz verabschiedet sich vom Credo &quot;Wohlstand für alle&quot; </title>
+                <description>Bundeskanzler Merz bereitet seine Partei auf eine Richtungsdebatte im Nachgang an die Landtagswahlen vor. Es brauche eine neue Erzählung, so der CDU-Chef. Dabei stellt er die Frage der Generationengerechtigkeit in den Mittelpunkt. </description>
+                <link>https://www.n-tv.de/politik/Merz-verabschiedet-sich-vom-Credo-Wohlstand-fuer-alle-id31273161.html</link>
+                <guid>https://www.n-tv.de/politik/Merz-verabschiedet-sich-vom-Credo-Wohlstand-fuer-alle-id31273161.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 17:09:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273157/1788624168/Img_4_3/250/616994479.jpg" width="250" height="188" align="left" />Bundeskanzler Merz bereitet seine Partei auf eine Richtungsdebatte im Nachgang an die Landtagswahlen vor. Es brauche eine neue Erzählung, so der CDU-Chef. Dabei stellt er die Frage der Generationengerechtigkeit in den Mittelpunkt. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273157/1788624168/Img_4_3/250/616994479.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Erst Magdeburg, dann Berlin: Die Führungskader der AfD werden längst geschult</title>
+                <description>&quot;Wir werden in Sachsen-Anhalt die Regierung stellen&quot;, sagt AfD-Chefin Alice Weidel. &quot;Wir werden auch im Bund regieren.&quot; Genau dafür bildet die Partei ihre künftigen Führungskader bereits aus, in Berlin, aber auch in den Bundesländern.</description>
+                <link>https://www.n-tv.de/politik/Die-Fuehrungskader-der-AfD-werden-laengst-geschult-id31266835.html</link>
+                <guid>https://www.n-tv.de/politik/Die-Fuehrungskader-der-AfD-werden-laengst-geschult-id31266835.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 18:36:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31266839/1788451441/Img_4_3/250/607594913.jpg" width="250" height="188" align="left" />"Wir werden in Sachsen-Anhalt die Regierung stellen", sagt AfD-Chefin Alice Weidel. "Wir werden auch im Bund regieren." Genau dafür bildet die Partei ihre künftigen Führungskader bereits aus, in Berlin, aber auch in den Bundesländern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31266839/1788451441/Img_4_3/250/607594913.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Teflon-Tour durch Sachsen-Anhalt: Ulrich Siegmund verbindet Hoffnung mit der Aussicht auf Zerstörung</title>
+                <description>Mit strahlendem Lächeln lässt Ulrich Siegmund in Sachsen-Anhalt das Image der AfD als Partei rechtsradikaler Wutbürger an sich abperlen. Programm und Personal sprechen eine andere Sprache. Das Ziel ist auch nicht der kommende Sonntag, sondern 2029.</description>
+                <link>https://www.n-tv.de/politik/Ulrich-Siegmund-verbindet-Hoffnung-mit-der-Aussicht-auf-Zerstoerung-id31270482.html</link>
+                <guid>https://www.n-tv.de/politik/Ulrich-Siegmund-verbindet-Hoffnung-mit-der-Aussicht-auf-Zerstoerung-id31270482.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 14:22:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31270849/1788535691/Img_4_3/250/615980446.jpg" width="250" height="188" align="left" />Mit strahlendem Lächeln lässt Ulrich Siegmund in Sachsen-Anhalt das Image der AfD als Partei rechtsradikaler Wutbürger an sich abperlen. Programm und Personal sprechen eine andere Sprache. Das Ziel ist auch nicht der kommende Sonntag, sondern 2029.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31270849/1788535691/Img_4_3/250/615980446.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Werder schießt Leipzig ab: Unglaublich: Elversberg feiert nächste wilde Sensation, BVB gelingt großer Comeback-Sieg</title>
+                <description>Tor-Partys auf den Plätzen der Fußball-Bundesliga: Borussia Dortmund dreht gegen Hoffenheim ein 0:2 ganz spät und Aufsteiger SV Elversberg kämpft sich in Mönchengladbach eindrucksvoll zurück und siegt kurz vor Schluss. Werder Bremen und Bayer Leverkusen rehabilitieren sich, Freiburg macht&apos;s abgeklärt.</description>
+                <link>https://www.n-tv.de/sport/fussball/Unglaublich-Elversberg-feiert-naechste-wilde-Sensation-BVB-gelingt-grosser-Comeback-Sieg-id31273319.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Unglaublich-Elversberg-feiert-naechste-wilde-Sensation-BVB-gelingt-grosser-Comeback-Sieg-id31273319.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 17:27:44 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273332/1788629082/Img_4_3/250/imago1082400598h.jpg" width="250" height="188" align="left" />Tor-Partys auf den Plätzen der Fußball-Bundesliga: Borussia Dortmund dreht gegen Hoffenheim ein 0:2 ganz spät und Aufsteiger SV Elversberg kämpft sich in Mönchengladbach eindrucksvoll zurück und siegt kurz vor Schluss. Werder Bremen und Bayer Leverkusen rehabilitieren sich, Freiburg macht's abgeklärt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273332/1788629082/Img_4_3/250/imago1082400598h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auslosung der zweiten Runde: Pokal-Kracher: Werder muss zum BVB, Frankfurt zum HSV</title>
+                <description>Die Auslosung der zweiten Runde des DFB-Pokals bringt direkt etliche Kracher: Werder Bremen muss nach Dortmund reisen, Eintracht Frankfurt nach Hamburg und Union Berlin zum FC Köln. Der FC Bayern bekommt eine machbare Aufgabe, Überraschungsmannschaft Elversberg den letzten der 2. Liga. </description>
+                <link>https://www.n-tv.de/sport/fussball/Pokal-Kracher-Werder-muss-zum-BVB-Frankfurt-zum-HSV-id31273412.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Pokal-Kracher-Werder-muss-zum-BVB-Frankfurt-zum-HSV-id31273412.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 18:32:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273435/1788632831/Img_4_3/250/imago1030643526h.jpg" width="250" height="188" align="left" />Die Auslosung der zweiten Runde des DFB-Pokals bringt direkt etliche Kracher: Werder Bremen muss nach Dortmund reisen, Eintracht Frankfurt nach Hamburg und Union Berlin zum FC Köln. Der FC Bayern bekommt eine machbare Aufgabe, Überraschungsmannschaft Elversberg den letzten der 2. Liga. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273435/1788632831/Img_4_3/250/imago1030643526h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Leipzig entging &quot;großem Inferno&quot;: Merz stuft die Drohnen-Beweise gegen Russland als &quot;gerichtsfest&quot; ein</title>
+                <description>Der Sprengsatz am Flughafen Leipzig/Halle habe sich nur &quot;durch einen kleinen Zufall&quot; nicht entzündet, mahnt Kanzler Merz und gibt sich mit Blick auf die mutmaßlich russischen Drahtzieher kämpferisch. Deutschland sei &quot;fest entschlossen&quot;, sich zu verteidigen.</description>
+                <link>https://www.n-tv.de/politik/Merz-stuft-die-Drohnen-Beweise-gegen-Russland-als-gerichtsfest-ein-id31273492.html</link>
+                <guid>https://www.n-tv.de/politik/Merz-stuft-die-Drohnen-Beweise-gegen-Russland-als-gerichtsfest-ein-id31273492.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 19:25:06 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31260357/1788634002/Img_4_3/250/611813135.jpg" width="250" height="188" align="left" />Der Sprengsatz am Flughafen Leipzig/Halle habe sich nur "durch einen kleinen Zufall" nicht entzündet, mahnt Kanzler Merz und gibt sich mit Blick auf die mutmaßlich russischen Drahtzieher kämpferisch. Deutschland sei "fest entschlossen", sich zu verteidigen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31260357/1788634002/Img_4_3/250/611813135.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Hochsensible Daten geraubt&quot;: Berliner Behördendaten im Darknet: Welche Gefahren drohen nun?</title>
+                <description>Hacker stehlen Daten von Landesbehörden und fordern ein Lösegeld - doch Berlin zahlt nicht. Die Kriminellen veröffentlichen daraufhin offenbar sensible Informationen zu Gefängnissen und Wasserwerken sowie zum Kanzleramt-Anbau.</description>
+                <link>https://www.n-tv.de/politik/Berliner-Behoerdendaten-im-Darknet-Welche-Gefahren-drohen-nun-id31273341.html</link>
+                <guid>https://www.n-tv.de/politik/Berliner-Behoerdendaten-im-Darknet-Welche-Gefahren-drohen-nun-id31273341.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 18:32:21 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273353/1788629931/Img_4_3/250/613590413.jpg" width="250" height="188" align="left" />Hacker stehlen Daten von Landesbehörden und fordern ein Lösegeld - doch Berlin zahlt nicht. Die Kriminellen veröffentlichen daraufhin offenbar sensible Informationen zu Gefängnissen und Wasserwerken sowie zum Kanzleramt-Anbau.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273353/1788629931/Img_4_3/250/613590413.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Monchi, Meck-Pomm und die AfD: &quot;Der Peak der Scheiße ist noch nicht erreicht&quot;</title>
+                <description>Monchi, Sänger von Feine Sahne Fischfilet, lebt in Meck-Pomm. Das ist seine Heimat. Eine aber, in der bei der letzten Bundestagswahl in 719 von 724 Gemeinden die AfD die stärkste Kraft gewesen ist. Das Thema &quot;Brandmauer&quot; ist für ihn deshalb ein ganz besonderes.</description>
+                <link>https://www.n-tv.de/leute/hoerbuecher/Der-Peak-der-Scheisse-ist-noch-nicht-erreicht-id31229380.html</link>
+                <guid>https://www.n-tv.de/leute/hoerbuecher/Der-Peak-der-Scheisse-ist-noch-nicht-erreicht-id31229380.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 05 Sep 2026 11:52:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31230169/1787660538/Img_4_3/250/612500105.jpg" width="250" height="188" align="left" />Monchi, Sänger von Feine Sahne Fischfilet, lebt in Meck-Pomm. Das ist seine Heimat. Eine aber, in der bei der letzten Bundestagswahl in 719 von 724 Gemeinden die AfD die stärkste Kraft gewesen ist. Das Thema "Brandmauer" ist für ihn deshalb ein ganz besonderes.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31230169/1787660538/Img_4_3/250/612500105.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Unmögliche&quot; Reese-Pfiffe: Fuchsteufelswild: Wollitz staucht eigene Fans gehörig zusammen</title>
+                <description>&quot;Was hat dieser Spieler als Mensch getan?&quot; Cottbus-Trainer Claus-Dieter Wollitz reagiert mächtig angefressen auf seine eigenen Fans. Der Grund: Schon wieder gibt es Pfiffe gegen Wolfsburgs Fabian Reese, den diese &quot;verletzen&quot;.</description>
+                <link>https://www.n-tv.de/sport/fussball/Fuchsteufelswild-Wollitz-staucht-eigene-Fans-gehoerig-zusammen-id31273484.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Fuchsteufelswild-Wollitz-staucht-eigene-Fans-gehoerig-zusammen-id31273484.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 18:47:32 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273486/1788633741/Img_4_3/250/imago1082404981h.jpg" width="250" height="188" align="left" />"Was hat dieser Spieler als Mensch getan?" Cottbus-Trainer Claus-Dieter Wollitz reagiert mächtig angefressen auf seine eigenen Fans. Der Grund: Schon wieder gibt es Pfiffe gegen Wolfsburgs Fabian Reese, den diese "verletzen".]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273486/1788633741/Img_4_3/250/imago1082404981h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ich kann es nicht glauben&quot;: Deutscher Jungstar sprintet zu überragendem Vuelta-Sieg</title>
+                <description>Nach drei Jahren endet die Durststrecke der deutschen Fahrer bei der Vuelta. Auf einer schweren Bergetappe feiert Marco Brenner einen furiosen Sieg in einem Sprint-Duell. Der 24-Jährige ist völlig überwältigt.</description>
+                <link>https://www.n-tv.de/sport/Radsport/Deutscher-Jungstar-sprintet-zu-ueberragendem-Vuelta-Sieg-id31273448.html</link>
+                <guid>https://www.n-tv.de/sport/Radsport/Deutscher-Jungstar-sprintet-zu-ueberragendem-Vuelta-Sieg-id31273448.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 18:55:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273434/1788632817/Img_4_3/250/imago1082264739h.jpg" width="250" height="188" align="left" />Nach drei Jahren endet die Durststrecke der deutschen Fahrer bei der Vuelta. Auf einer schweren Bergetappe feiert Marco Brenner einen furiosen Sieg in einem Sprint-Duell. Der 24-Jährige ist völlig überwältigt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273434/1788632817/Img_4_3/250/imago1082264739h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Gewaltiger Knall&quot;: Zwei Menschen sterben bei Flugshow-Unfall nahe Athen</title>
+                <description>Rund 50 Kilometer nördlich von Athen kommt es zu einem Unfall bei einer Flugshow. Ein griechischer Kampfjet vom Typ F-4 Phantom geht in Flammen auf. </description>
+                <link>https://www.n-tv.de/panorama/Zwei-Menschen-sterben-bei-Flugshow-Unfall-nahe-Athen-id31273311.html</link>
+                <guid>https://www.n-tv.de/panorama/Zwei-Menschen-sterben-bei-Flugshow-Unfall-nahe-Athen-id31273311.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 05 Sep 2026 18:33:02 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273306/1788628528/Img_4_3/250/617011885.jpg" width="250" height="188" align="left" />Rund 50 Kilometer nördlich von Athen kommt es zu einem Unfall bei einer Flugshow. Ein griechischer Kampfjet vom Typ F-4 Phantom geht in Flammen auf. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273306/1788628528/Img_4_3/250/617011885.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Eskalation auf US-Inlandsflug: Fluggäste kleben randalierenden Passagier an Sitz fest</title>
+                <description>Ein stark alkoholisierter Passagier beschimpft die Flugzeuginsassen und schlägt laut Medienberichten seinen Sitznachbarn. Die Maschine muss eine Zwischenlandung einlegen. Bis dahin wird der Unruhestifter mit einer radikalen Maßnahme im Zaum gehalten.</description>
+                <link>https://www.n-tv.de/panorama/Fluggaeste-kleben-randalierenden-Passagier-an-Sitz-fest-id31273172.html</link>
+                <guid>https://www.n-tv.de/panorama/Fluggaeste-kleben-randalierenden-Passagier-an-Sitz-fest-id31273172.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 05 Sep 2026 17:08:53 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273189/1788624902/Img_4_3/250/613758959.jpg" width="250" height="188" align="left" />Ein stark alkoholisierter Passagier beschimpft die Flugzeuginsassen und schlägt laut Medienberichten seinen Sitznachbarn. Die Maschine muss eine Zwischenlandung einlegen. Bis dahin wird der Unruhestifter mit einer radikalen Maßnahme im Zaum gehalten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273189/1788624902/Img_4_3/250/613758959.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Jobwechsel geplant: Unglücklich im Job? - Das ist keine gute Wechsel-Motivation!</title>
+                <description>Sie überlegen, den Job zu wechseln? Warum Unzufriedenheit dafür keine gute Ausgangsbasis ist. Und was Sie sich unbedingt fragen sollten, bevor Sie nach einer anderen Stelle suchen.</description>
+                <link>https://www.n-tv.de/ratgeber/Ungluecklich-im-Job-Das-ist-keine-gute-Wechsel-Motivation-id31087012.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Ungluecklich-im-Job-Das-ist-keine-gute-Wechsel-Motivation-id31087012.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 05 Sep 2026 19:10:23 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/3574516/1446130593/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Sie überlegen, den Job zu wechseln? Warum Unzufriedenheit dafür keine gute Ausgangsbasis ist. Und was Sie sich unbedingt fragen sollten, bevor Sie nach einer anderen Stelle suchen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/3574516/1446130593/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auch nahe Ölexport-Insel Kharg: US-Militär nimmt iranische Tanker unter Feuer </title>
+                <description>Schiffe der US-Marine werden von den Revolutionsgarden mit Raketen angegriffen. Im Gegenzug feuern die Streitkräfte der Vereinigten Staaten auf Tanker des Regimes. Drei der Wasserfahrzeuge werden außer Gefecht gesetzt. </description>
+                <link>https://www.n-tv.de/politik/US-Militaer-nimmt-iranische-Tanker-unter-Feuer-id31273015.html</link>
+                <guid>https://www.n-tv.de/politik/US-Militaer-nimmt-iranische-Tanker-unter-Feuer-id31273015.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 15:07:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273005/1788618621/Img_4_3/250/586338665.jpg" width="250" height="188" align="left" />Schiffe der US-Marine werden von den Revolutionsgarden mit Raketen angegriffen. Im Gegenzug feuern die Streitkräfte der Vereinigten Staaten auf Tanker des Regimes. Drei der Wasserfahrzeuge werden außer Gefecht gesetzt. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273005/1788618621/Img_4_3/250/586338665.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Build the Wall&quot;: Tetris-Macher wehren sich gegen Trumps Grenzbau-Videospiel</title>
+                <description>Das Weiße Haus veröffentlicht ein umstrittenes Videospiel, das an Tetris erinnert. Spieler bauen darin eine Sperranlage an der Grenze zu Mexiko. Die Tetris-Entwickler prüfen mögliche Urheberrechtsverletzungen.</description>
+                <link>https://www.n-tv.de/politik/Tetris-Macher-wehren-sich-gegen-Trumps-Grenzbau-Videospiel-id31273023.html</link>
+                <guid>https://www.n-tv.de/politik/Tetris-Macher-wehren-sich-gegen-Trumps-Grenzbau-Videospiel-id31273023.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 15:42:48 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/2276374/1788619511/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Das Weiße Haus veröffentlicht ein umstrittenes Videospiel, das an Tetris erinnert. Spieler bauen darin eine Sperranlage an der Grenze zu Mexiko. Die Tetris-Entwickler prüfen mögliche Urheberrechtsverletzungen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/2276374/1788619511/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>EU droht mit Handelsschranken: Trumps Zölle verschärfen Brüssels &quot;China-Problem&quot;</title>
+                <description>Brüssel schlägt gegenüber Peking einen härteren Kurs ein. Noch wird verhandelt, aber die EU schärft schon mögliche Waffen im Handelskonflikt. Denn die Flut chinesischer Waren bedroht die europäische Industrie. Durch die Zölle des US-Präsidenten spitzt sich die Lage zu.</description>
+                <link>https://www.n-tv.de/politik/Trumps-Zoelle-verschaerfen-Bruessels-China-Problem-id31271041.html</link>
+                <guid>https://www.n-tv.de/politik/Trumps-Zoelle-verschaerfen-Bruessels-China-Problem-id31271041.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 13:01:38 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272979/1788617244/Img_4_3/250/616949839.jpg" width="250" height="188" align="left" />Brüssel schlägt gegenüber Peking einen härteren Kurs ein. Noch wird verhandelt, aber die EU schärft schon mögliche Waffen im Handelskonflikt. Denn die Flut chinesischer Waren bedroht die europäische Industrie. Durch die Zölle des US-Präsidenten spitzt sich die Lage zu.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272979/1788617244/Img_4_3/250/616949839.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Probleme in Sachsen-Anhalt: Über Schulze braut sich der perfekte Sturm zusammen</title>
+                <description>Der Wahlkampf in Sachsen-Anhalt ist spannend - schafft es die AfD, eine absolute Mehrheit zu erringen? Ministerpräsident Sven Schulze stemmt sich gegen eine Niederlage. Dabei hat er mehr als einen Gegner. </description>
+                <link>https://www.n-tv.de/politik/Ueber-Schulze-braut-sich-der-perfekte-Sturm-zusammen-id31267090.html</link>
+                <guid>https://www.n-tv.de/politik/Ueber-Schulze-braut-sich-der-perfekte-Sturm-zusammen-id31267090.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 06:43:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31267097/1788453748/Img_4_3/250/616508248.jpg" width="250" height="188" align="left" />Der Wahlkampf in Sachsen-Anhalt ist spannend - schafft es die AfD, eine absolute Mehrheit zu erringen? Ministerpräsident Sven Schulze stemmt sich gegen eine Niederlage. Dabei hat er mehr als einen Gegner. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31267097/1788453748/Img_4_3/250/616508248.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>China-Kante mit zarter Seite: &quot;Sowas noch nie erlebt&quot;: 226-Zentimeter-Riesin mutiert zu Berliner Sensation</title>
+                <description>&quot;Einzigartig&quot;: Die 226 Zentimeter große Ziyu Zhang dominiert trotz Auftaktpleite gegen die USA alle Gespräche. Die 19-Jährige wird mit einem Spiel zur Sensation, verblüfft bereits beim Aufwärmen, gerät in wilde Wrestlingkämpfe – und ist dennoch nur ein &quot;junges Mädchen&quot;.</description>
+                <link>https://www.n-tv.de/sport/basketball/Sowas-noch-nie-erlebt-226-Zentimeter-Riesin-mutiert-zu-Berliner-Sensation-id31271640.html</link>
+                <guid>https://www.n-tv.de/sport/basketball/Sowas-noch-nie-erlebt-226-Zentimeter-Riesin-mutiert-zu-Berliner-Sensation-id31271640.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 07:45:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271653/1788548061/Img_4_3/250/imago1082348221h.jpg" width="250" height="188" align="left" />"Einzigartig": Die 226 Zentimeter große Ziyu Zhang dominiert trotz Auftaktpleite gegen die USA alle Gespräche. Die 19-Jährige wird mit einem Spiel zur Sensation, verblüfft bereits beim Aufwärmen, gerät in wilde Wrestlingkämpfe – und ist dennoch nur ein "junges Mädchen".]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271653/1788548061/Img_4_3/250/imago1082348221h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mercedes und McLaren geschlagen: Entfesselter Gasly schnappt sich sensationell die Pole in Monza</title>
+                <description>Beim Qualifying für den Großen Preis von Italien sorgt Pierre Gasly für eine riesige Überraschung. Der Alpine-Pilot fährt anstelle der Favoriten rund um den WM-Führenden Kimi Antonelli auf Platz 1. </description>
+                <link>https://www.n-tv.de/sport/formel1/Entfesselter-Gasly-schnappt-sich-sensationell-die-Pole-in-Monza-id31273345.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Entfesselter-Gasly-schnappt-sich-sensationell-die-Pole-in-Monza-id31273345.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 17:50:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273344/1788629638/Img_4_3/250/617034652.jpg" width="250" height="188" align="left" />Beim Qualifying für den Großen Preis von Italien sorgt Pierre Gasly für eine riesige Überraschung. Der Alpine-Pilot fährt anstelle der Favoriten rund um den WM-Führenden Kimi Antonelli auf Platz 1. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273344/1788629638/Img_4_3/250/617034652.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bahnhöfe werden zu Buchseiten: Deutsche Bahn kämpft gegen Literaturverdrossenheit an</title>
+                <description>Immer weniger Bücher werden in Deutschland verkauft. Die Aufmerksamkeitsspanne sinkt zunehmend. Ausgerechnet die Bahn nutzt nun freie Flächen und schlägt die Brücke: Zusammenfassungen großer Werke soll die Leselust bei Reisenden wecken.</description>
+                <link>https://www.n-tv.de/panorama/Deutsche-Bahn-kaempft-gegen-Literaturverdrossenheit-an-id31224656.html</link>
+                <guid>https://www.n-tv.de/panorama/Deutsche-Bahn-kaempft-gegen-Literaturverdrossenheit-an-id31224656.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 05 Sep 2026 18:37:14 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31224683/1787555251/Img_4_3/250/20251121-Vorlesetag-Deutz.jpg" width="250" height="188" align="left" />Immer weniger Bücher werden in Deutschland verkauft. Die Aufmerksamkeitsspanne sinkt zunehmend. Ausgerechnet die Bahn nutzt nun freie Flächen und schlägt die Brücke: Zusammenfassungen großer Werke soll die Leselust bei Reisenden wecken.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31224683/1787555251/Img_4_3/250/20251121-Vorlesetag-Deutz.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Rechtsextremer Aufmarsch: Hunderte Vermummte blockieren Hafen von Dover</title>
+                <description>In Großbritannien protestiert eine rechtsextreme Gruppe rund um den Hafen von Dover gegen Migration. Hunderte Vermummte blockieren Straßen nahe dem wichtigen Drehkreuz für den Fährverkehr in Richtung Europa. </description>
+                <link>https://www.n-tv.de/politik/Hunderte-Vermummte-blockieren-Hafen-von-Dover-id31273107.html</link>
+                <guid>https://www.n-tv.de/politik/Hunderte-Vermummte-blockieren-Hafen-von-Dover-id31273107.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 16:20:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273110/1788622240/Img_4_3/250/Screenshot 2026-09-05 152955.jpg" width="250" height="188" align="left" />In Großbritannien protestiert eine rechtsextreme Gruppe rund um den Hafen von Dover gegen Migration. Hunderte Vermummte blockieren Straßen nahe dem wichtigen Drehkreuz für den Fährverkehr in Richtung Europa. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273110/1788622240/Img_4_3/250/Screenshot 2026-09-05 152955.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Selfie-Tourismus belastet: Wofür Menschen im Urlaub Schlange stehen</title>
+                <description>Für ein Foto vor bekannten Instagram-Motiven nehmen Urlauber stundenlange Wartezeiten in Kauf. Kleine Gemeinden ächzen unter dem Ansturm. Was ist daran eigentlich noch individuell?</description>
+                <link>https://www.n-tv.de/panorama/Wofuer-Menschen-im-Urlaub-Schlange-stehen-id31255857.html</link>
+                <guid>https://www.n-tv.de/panorama/Wofuer-Menschen-im-Urlaub-Schlange-stehen-id31255857.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 05 Sep 2026 10:09:01 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31256062/1788266402/Img_4_3/250/imago864142665.jpg" width="250" height="188" align="left" />Für ein Foto vor bekannten Instagram-Motiven nehmen Urlauber stundenlange Wartezeiten in Kauf. Kleine Gemeinden ächzen unter dem Ansturm. Was ist daran eigentlich noch individuell?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31256062/1788266402/Img_4_3/250/imago864142665.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Anhaltspunkt für Verschleiß: Wie funktioniert der Kilometerzähler?</title>
+                <description>Früher war der Kilometerzähler ein mechanisches Wunderwerk. Heute setzt er vor allem auf digitale Impulse. Seine Funktion bleibt die gleiche. Und auch das Problem der Manipulierbarkeit bleibt bestehen.</description>
+                <link>https://www.n-tv.de/auto/Wie-funktioniert-der-Kilometerzaehler-id31175971.html</link>
+                <guid>https://www.n-tv.de/auto/Wie-funktioniert-der-Kilometerzaehler-id31175971.html</guid>
+                <category>Auto</category>
+                <pubDate>Sat, 05 Sep 2026 16:16:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31175986/1786349671/Img_4_3/250/21C0026_008.jpg" width="250" height="188" align="left" />Früher war der Kilometerzähler ein mechanisches Wunderwerk. Heute setzt er vor allem auf digitale Impulse. Seine Funktion bleibt die gleiche. Und auch das Problem der Manipulierbarkeit bleibt bestehen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31175986/1786349671/Img_4_3/250/21C0026_008.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nürnberg gibt erstmals Punkte ab: 0:3, 3:3, 3:4, 4:4: Aufsteiger Cottbus fügt Topfavorit Wolfsburg fiese Blamage zu</title>
+                <description>Wildes Duell zwischen Absteiger und Aufsteiger: Energie Cottbus holt bei den Wölfen ein 0:3 auf - und sichert sich ganz spät einen Punkt beim großen Topfavoriten. Nürnberg spielt nur Remis in Kiel, Darmstadt kommt nicht aus dem Keller heraus und verliert auch beim FCK.</description>
+                <link>https://www.n-tv.de/sport/fussball/0-3-3-3-3-4-4-4-Aufsteiger-Cottbus-fuegt-Topfavorit-Wolfsburg-fiese-Blamage-zu-id31272953.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/0-3-3-3-3-4-4-4-Aufsteiger-Cottbus-fuegt-Topfavorit-Wolfsburg-fiese-Blamage-zu-id31272953.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 14:59:39 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273041/1788620249/Img_4_3/250/imago1082388558h.jpg" width="250" height="188" align="left" />Wildes Duell zwischen Absteiger und Aufsteiger: Energie Cottbus holt bei den Wölfen ein 0:3 auf - und sichert sich ganz spät einen Punkt beim großen Topfavoriten. Nürnberg spielt nur Remis in Kiel, Darmstadt kommt nicht aus dem Keller heraus und verliert auch beim FCK.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273041/1788620249/Img_4_3/250/imago1082388558h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Absturz am Schiedeck : Thüringer Wanderer verunglückt tödlich in Österreich</title>
+                <description>Als Teil einer Wandergruppe ist ein 44-jähriger Thüringer auf dem Weg zum Gipfel des Schiedecks in der Steiermark. Auf einer steilen Wiese stürzt er ab und rutscht über eine Steilkante. Angeforderte Hilfe aus der Luft kommt zu spät, der Mann stirbt bei dem Unglück.</description>
+                <link>https://www.n-tv.de/panorama/Thueringer-Wanderer-verunglueckt-toedlich-in-Oesterreich-id31272564.html</link>
+                <guid>https://www.n-tv.de/panorama/Thueringer-Wanderer-verunglueckt-toedlich-in-Oesterreich-id31272564.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 05 Sep 2026 10:47:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272555/1788603410/Img_4_3/250/482018476.jpg" width="250" height="188" align="left" />Als Teil einer Wandergruppe ist ein 44-jähriger Thüringer auf dem Weg zum Gipfel des Schiedecks in der Steiermark. Auf einer steilen Wiese stürzt er ab und rutscht über eine Steilkante. Angeforderte Hilfe aus der Luft kommt zu spät, der Mann stirbt bei dem Unglück.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272555/1788603410/Img_4_3/250/482018476.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Künstler spielen &quot;Forever Young&quot;: Alphaville reagiert auf &quot;unfassbare Welle der Solidarität&quot;</title>
+                <description>Die Aus- und Wiedereinladung von Alphaville vom Glücksgefühle-Festival sorgt weiter für Wirbel. Die Band ist zwar nicht vor Ort, doch ihr Song &quot;Forever Young&quot; wird dort von etlichen Künstlern gespielt. Marian Gold ist höchst erfreut von den Reaktionen.  </description>
+                <link>https://www.n-tv.de/leute/Alphaville-reagiert-auf-unfassbare-Welle-der-Solidaritaet-id31273223.html</link>
+                <guid>https://www.n-tv.de/leute/Alphaville-reagiert-auf-unfassbare-Welle-der-Solidaritaet-id31273223.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 05 Sep 2026 17:10:52 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273224/1788626073/Img_4_3/250/616583365.jpg" width="250" height="188" align="left" />Die Aus- und Wiedereinladung von Alphaville vom Glücksgefühle-Festival sorgt weiter für Wirbel. Die Band ist zwar nicht vor Ort, doch ihr Song "Forever Young" wird dort von etlichen Künstlern gespielt. Marian Gold ist höchst erfreut von den Reaktionen.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273224/1788626073/Img_4_3/250/616583365.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bei Festspielen in Venedig: Oasis schwänzen Pressekonferenz von eigener Doku</title>
+                <description>Die Reunion der Oasis-Brüder wird in Venedig erstmals auf der Leinwand präsentiert. Doch die Gallagher-Geschwister sind offenbar nur semi-begeistert von der Promotion. Nach einem Fototermin verzichten sie auf die anschließenden Fragen der Presse. </description>
+                <link>https://www.n-tv.de/leute/Oasis-schwaenzen-Pressekonferenz-von-eigener-Doku-id31273409.html</link>
+                <guid>https://www.n-tv.de/leute/Oasis-schwaenzen-Pressekonferenz-von-eigener-Doku-id31273409.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 05 Sep 2026 18:35:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273406/1788631703/Img_4_3/250/617041357.jpg" width="250" height="188" align="left" />Die Reunion der Oasis-Brüder wird in Venedig erstmals auf der Leinwand präsentiert. Doch die Gallagher-Geschwister sind offenbar nur semi-begeistert von der Promotion. Nach einem Fototermin verzichten sie auf die anschließenden Fragen der Presse. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273406/1788631703/Img_4_3/250/617041357.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Das Gesicht aus dem Fernseher: TV-Charakterheld Michael Mendl stirbt mit 82 Jahren</title>
+                <description>Seine Stirnfalten waren sein Markenzeichen - als General von Hitler in &quot;Der Untergang&quot; und auch in der Erfolgsserie &quot;Dark&quot; von Netflix. Bevor ihn die Filmwelt entdeckte, spielte Michael Mendl lange am Theater.  Jetzt ist er verstorben.</description>
+                <link>https://www.n-tv.de/leute/TV-Charakterheld-Michael-Mendl-stirbt-mit-82-Jahren-id31272696.html</link>
+                <guid>https://www.n-tv.de/leute/TV-Charakterheld-Michael-Mendl-stirbt-mit-82-Jahren-id31272696.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 05 Sep 2026 12:02:30 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272688/1788608180/Img_4_3/250/616956433.jpg" width="250" height="188" align="left" />Seine Stirnfalten waren sein Markenzeichen - als General von Hitler in "Der Untergang" und auch in der Erfolgsserie "Dark" von Netflix. Bevor ihn die Filmwelt entdeckte, spielte Michael Mendl lange am Theater.  Jetzt ist er verstorben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272688/1788608180/Img_4_3/250/616956433.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach jahrelangem Erbstreit: Nachlass von Heinz Erhardt kommt ins Haus der Geschichte</title>
+                <description>Vor fast 50 Jahren stirbt Heinz Erhardt. Doch die Erben streiten jahrelang um seinen Nachlass. Jetzt können die Aufzeichnungen des Komikers ins Haus der Geschichte umziehen und werden dort der Öffentlichkeit zugänglich gemacht.</description>
+                <link>https://www.n-tv.de/leute/Nachlass-von-Heinz-Erhardt-kommt-ins-Haus-der-Geschichte-id31273263.html</link>
+                <guid>https://www.n-tv.de/leute/Nachlass-von-Heinz-Erhardt-kommt-ins-Haus-der-Geschichte-id31273263.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 05 Sep 2026 17:11:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31273261/1788627601/Img_4_3/250/613653101.jpg" width="250" height="188" align="left" />Vor fast 50 Jahren stirbt Heinz Erhardt. Doch die Erben streiten jahrelang um seinen Nachlass. Jetzt können die Aufzeichnungen des Komikers ins Haus der Geschichte umziehen und werden dort der Öffentlichkeit zugänglich gemacht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31273261/1788627601/Img_4_3/250/613653101.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fünf rollende Lounges: Wie Elektro-Vans den Familienbus neu erfinden</title>
+                <description>Nach Jahren im Schatten der SUV erlebt der Van dank E-Antrieb und Flachboden-Architektur ein überraschendes Comeback. Erst in Asien und so langsam auch bei uns werden aus nüchternen Familienkutschen und aufgehübschten Lieferwagen rollende Lounges mit Luxus-Ambitionen. Fünf Beispiele, wie Autobauer die Großraumlimousine neu denken.</description>
+                <link>https://www.n-tv.de/auto/Wie-Elektro-Vans-den-Familienbus-neu-erfinden-id31230273.html</link>
+                <guid>https://www.n-tv.de/auto/Wie-Elektro-Vans-den-Familienbus-neu-erfinden-id31230273.html</guid>
+                <category>Auto</category>
+                <pubDate>Sat, 05 Sep 2026 07:49:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31230404/1787663786/Img_4_3/250/1728548591-wecom-temp-8277050-f72fcc06664b257940e7bba5d762afae-1.jpg" width="250" height="188" align="left" />Nach Jahren im Schatten der SUV erlebt der Van dank E-Antrieb und Flachboden-Architektur ein überraschendes Comeback. Erst in Asien und so langsam auch bei uns werden aus nüchternen Familienkutschen und aufgehübschten Lieferwagen rollende Lounges mit Luxus-Ambitionen. Fünf Beispiele, wie Autobauer die Großraumlimousine neu denken.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31230404/1787663786/Img_4_3/250/1728548591-wecom-temp-8277050-f72fcc06664b257940e7bba5d762afae-1.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Genetische Analysen: Abstammung ausgestorbener Großkatze geklärt</title>
+                <description>Vor Tausenden Jahren lebte eine Großkatze namens Miracinonyx trumani im heutigen Nordamerika. Durch eine Analyse der Gene kann nun nicht nur deren Abstammung, sondern auch deren Lebensraum und die Art ihrer Ernährung geklärt werden.</description>
+                <link>https://www.n-tv.de/wissen/Abstammung-ausgestorbener-Grosskatze-geklaert-id31268826.html</link>
+                <guid>https://www.n-tv.de/wissen/Abstammung-ausgestorbener-Grosskatze-geklaert-id31268826.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 05 Sep 2026 07:25:32 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31268806/1788514583/Img_4_3/250/Gepard oder Puma_ Analyse klärt Abstammung von amerikanischer Gro.jpg" width="250" height="188" align="left" />Vor Tausenden Jahren lebte eine Großkatze namens Miracinonyx trumani im heutigen Nordamerika. Durch eine Analyse der Gene kann nun nicht nur deren Abstammung, sondern auch deren Lebensraum und die Art ihrer Ernährung geklärt werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31268806/1788514583/Img_4_3/250/Gepard oder Puma_ Analyse klärt Abstammung von amerikanischer Gro.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ukraine droht mit Rache: Selenskyj: Russland beschießt Kiewer Flughäfen vor US-Besuch</title>
+                <description>Nach einem Stopp in Moskau sollen die US-Unterhändler Witkoff und Kushner am Sonntag nach Kiew kommen - entgegen der üblichen Praxis für Besucher per Flugzeug. Russland spielt vor einer möglichen neuen Friedensinitiative mit den Muskeln und nimmt die Flughäfen der ukrainischen Hauptstadt ins Visier.</description>
+                <link>https://www.n-tv.de/politik/Selenskyj-Russland-beschiesst-Kiewer-Flughaefen-vor-US-Besuch-id31272795.html</link>
+                <guid>https://www.n-tv.de/politik/Selenskyj-Russland-beschiesst-Kiewer-Flughaefen-vor-US-Besuch-id31272795.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 12:55:07 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272828/1788611979/Img_4_3/250/614760862.jpg" width="250" height="188" align="left" />Nach einem Stopp in Moskau sollen die US-Unterhändler Witkoff und Kushner am Sonntag nach Kiew kommen - entgegen der üblichen Praxis für Besucher per Flugzeug. Russland spielt vor einer möglichen neuen Friedensinitiative mit den Muskeln und nimmt die Flughäfen der ukrainischen Hauptstadt ins Visier.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272828/1788611979/Img_4_3/250/614760862.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Angriffe mit neuen Drohnen: Russland nimmt die ukrainische Bahn immer massiver unter Beschuss</title>
+                <description>Mit immer häufigeren Angriffen beabsichtigt Russland die ukrainische Bahn lahmzulegen. Stundenlange Verspätungen sind mittlerweile die Regel. Selbst fahrende Züge werden von Russland unter Beschuss genommen.</description>
+                <link>https://www.n-tv.de/politik/Russland-nimmt-die-ukrainische-Bahn-immer-massiver-unter-Beschuss-id31266649.html</link>
+                <guid>https://www.n-tv.de/politik/Russland-nimmt-die-ukrainische-Bahn-immer-massiver-unter-Beschuss-id31266649.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 10:58:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31266671/1788449726/Img_4_3/250/613127021.jpg" width="250" height="188" align="left" />Mit immer häufigeren Angriffen beabsichtigt Russland die ukrainische Bahn lahmzulegen. Stundenlange Verspätungen sind mittlerweile die Regel. Selbst fahrende Züge werden von Russland unter Beschuss genommen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31266671/1788449726/Img_4_3/250/613127021.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wer mit wem in Schwerin?: Das sagt der Koalitionsrechner zur Wahl in MV</title>
+                <description>Bei der Landtagswahl in Mecklenburg-Vorpommern zeichnen sich schwierige Mehrheitsverhältnisse ab. Die bisher regierende rot-rote Koalition kann voraussichtlich nicht ohne Verstärkung weitermachen. Für die AfD alleine reicht es wohl ebenfalls nicht. Welche Bündnisse wären rechnerisch möglich?</description>
+                <link>https://www.n-tv.de/politik/Das-sagt-der-Koalitionsrechner-zur-Wahl-in-MV-id31271420.html</link>
+                <guid>https://www.n-tv.de/politik/Das-sagt-der-Koalitionsrechner-zur-Wahl-in-MV-id31271420.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 05 Sep 2026 10:50:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271386/1788542968/Img_4_3/250/217760593.jpg" width="250" height="188" align="left" />Bei der Landtagswahl in Mecklenburg-Vorpommern zeichnen sich schwierige Mehrheitsverhältnisse ab. Die bisher regierende rot-rote Koalition kann voraussichtlich nicht ohne Verstärkung weitermachen. Für die AfD alleine reicht es wohl ebenfalls nicht. Welche Bündnisse wären rechnerisch möglich?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271386/1788542968/Img_4_3/250/217760593.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mehr Schutz kritischer Anlagen: Stromnetz-Betreiber: &quot;Machen es Attentätern unnötig leicht&quot;</title>
+                <description>Amprion betreibt das zweitgrößte Stromnetz Deutschlands. Dazu gehören rund 180 Umspannwerke. Zwei davon werden Opfer von Sabotageakten. Der Chef des Netzbetreibers erwartet weitere Attacken. Er sagt: &quot;Wir machen es Attentätern unnötig leicht.&quot;</description>
+                <link>https://www.n-tv.de/wirtschaft/Stromnetz-Betreiber-Machen-es-Attentaetern-unnoetig-leicht-id31272303.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Stromnetz-Betreiber-Machen-es-Attentaetern-unnoetig-leicht-id31272303.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 05 Sep 2026 07:19:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272313/1788590783/Img_4_3/250/616327081.jpg" width="250" height="188" align="left" />Amprion betreibt das zweitgrößte Stromnetz Deutschlands. Dazu gehören rund 180 Umspannwerke. Zwei davon werden Opfer von Sabotageakten. Der Chef des Netzbetreibers erwartet weitere Attacken. Er sagt: "Wir machen es Attentätern unnötig leicht."]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272313/1788590783/Img_4_3/250/616327081.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wall Street im Minus: Starke Arbeitsmarktdaten machen US-Anlegern Sorgen </title>
+                <description>Der Jobmarkt in den USA erholt sich viel schneller als erwartet. Was für das Wirtschaftswachstum eine gute Nachricht ist, kommt an der Wall Street trotzdem nicht gut an: Die US-Börsen geben nach. </description>
+                <link>https://www.n-tv.de/wirtschaft/Starke-Arbeitsmarktdaten-machen-US-Anlegern-Sorgen-id31271980.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Starke-Arbeitsmarktdaten-machen-US-Anlegern-Sorgen-id31271980.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 04 Sep 2026 23:52:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272011/1788566855/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der Jobmarkt in den USA erholt sich viel schneller als erwartet. Was für das Wirtschaftswachstum eine gute Nachricht ist, kommt an der Wall Street trotzdem nicht gut an: Die US-Börsen geben nach. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272011/1788566855/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Investments sind Frühindikator&quot;: Welche Ziele verfolgt der CIA-Fonds IQT in Europa?</title>
+                <description>Wenn der US-Geheimdienstfonds IQT bei europäischen Startups einsteigt, schrillen oft die Alarmglocken. Verliert Europa wertvolle Schlüsseltechnologien? Im Interview ordnet Investor Thomas Oehl ein, wie viel Einfluss der CIA-Fonds dadurch wirklich gewinnt.</description>
+                <link>https://www.n-tv.de/wirtschaft/wirtschaft_startup/Welche-Ziele-verfolgt-der-CIA-Fonds-IQT-in-Europa-id31269034.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/wirtschaft_startup/Welche-Ziele-verfolgt-der-CIA-Fonds-IQT-in-Europa-id31269034.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 05 Sep 2026 09:24:12 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31269310/1788519310/Img_4_3/250/615153964.jpg" width="250" height="188" align="left" />Wenn der US-Geheimdienstfonds IQT bei europäischen Startups einsteigt, schrillen oft die Alarmglocken. Verliert Europa wertvolle Schlüsseltechnologien? Im Interview ordnet Investor Thomas Oehl ein, wie viel Einfluss der CIA-Fonds dadurch wirklich gewinnt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31269310/1788519310/Img_4_3/250/615153964.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Obwohl er Vierter wird: &quot;Haufen Feiglinge&quot;: Lauf-Olympiasieger verhöhnt Konkurrenten</title>
+                <description>Lauf-Star Jakob Ingebrigtsen geht beim Diamond-League-Finale in Brüssel leer aus. Anschließend wütet er über seine Gegner, die ihn mit seiner sonst oft eigenen Taktik schlagen. Die Ansage des Norwegers ist deutlich. </description>
+                <link>https://www.n-tv.de/sport/Haufen-Feiglinge-Lauf-Olympiasieger-verhoehnt-Konkurrenten-id31272644.html</link>
+                <guid>https://www.n-tv.de/sport/Haufen-Feiglinge-Lauf-Olympiasieger-verhoehnt-Konkurrenten-id31272644.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 11:50:57 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272588/1788604485/Img_4_3/250/616882201.jpg" width="250" height="188" align="left" />Lauf-Star Jakob Ingebrigtsen geht beim Diamond-League-Finale in Brüssel leer aus. Anschließend wütet er über seine Gegner, die ihn mit seiner sonst oft eigenen Taktik schlagen. Die Ansage des Norwegers ist deutlich. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272588/1788604485/Img_4_3/250/616882201.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Außergewöhnlicher Spieler&quot;: Stuttgarts Erlöser ist für Bundestrainer Klopp tabu</title>
+                <description>Für Jürgen Klopp gibt es beim als Beobachter des Bundesliga-Spiels zwischen dem VfB Stuttgart und dem 1. FC Köln viel zu sehen. Mehrere potenzielle Spieler für seine erste DFB-Nominierung sind dabei. Doch der &quot;Spieler des Spiels&quot; kommt nicht infrage. </description>
+                <link>https://www.n-tv.de/sport/fussball/Stuttgarts-Erloeser-ist-fuer-Bundestrainer-Klopp-tabu-id31272591.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Stuttgarts-Erloeser-ist-fuer-Bundestrainer-Klopp-tabu-id31272591.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 11:21:57 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272593/1788605144/Img_4_3/250/616944253.jpg" width="250" height="188" align="left" />Für Jürgen Klopp gibt es beim als Beobachter des Bundesliga-Spiels zwischen dem VfB Stuttgart und dem 1. FC Köln viel zu sehen. Mehrere potenzielle Spieler für seine erste DFB-Nominierung sind dabei. Doch der "Spieler des Spiels" kommt nicht infrage. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272593/1788605144/Img_4_3/250/616944253.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Du spielst wie ein Arsch&quot;: Einer der streitbarsten &quot;Selbstdarsteller&quot; des deutschen Fußballs</title>
+                <description>Er ist ohne Zweifel eine der größten Persönlichkeiten Deutschlands. Paul Breitner war nicht nur ein hervorragender Fußballer, sondern er kann auch abseits des Platzes die Massen bewegen. Heute feiert er seinen 75. Geburtstag.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Einer-der-streitbarsten-Selbstdarsteller-des-deutschen-Fussballs-id31264258.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Einer-der-streitbarsten-Selbstdarsteller-des-deutschen-Fussballs-id31264258.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 09:35:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31264250/1788448351/Img_4_3/250/imago445581.jpg" width="250" height="188" align="left" />Er ist ohne Zweifel eine der größten Persönlichkeiten Deutschlands. Paul Breitner war nicht nur ein hervorragender Fußballer, sondern er kann auch abseits des Platzes die Massen bewegen. Heute feiert er seinen 75. Geburtstag.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31264250/1788448351/Img_4_3/250/imago445581.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Prügelei in England: Hakenkreuz-Foto: Hansa distanziert sich von Hooligans</title>
+                <description>Es ist das erste Spiel von Hansa Rostock bei einem englischen Klub - doch die Begegnung beim FC Watford Ende Juli bekommt nachträglich einen Beigeschmack. Hooligans sollen mit einer Hakenkreuz-Flagge posiert haben. Der Fußball-Drittligist reagiert.  </description>
+                <link>https://www.n-tv.de/sport/fussball/Hakenkreuz-Foto-Hansa-distanziert-sich-von-Hooligans-id31272297.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Hakenkreuz-Foto-Hansa-distanziert-sich-von-Hooligans-id31272297.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 07:19:22 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272299/1788589479/Img_4_3/250/616858363.jpg" width="250" height="188" align="left" />Es ist das erste Spiel von Hansa Rostock bei einem englischen Klub - doch die Begegnung beim FC Watford Ende Juli bekommt nachträglich einen Beigeschmack. Hooligans sollen mit einer Hakenkreuz-Flagge posiert haben. Der Fußball-Drittligist reagiert.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272299/1788589479/Img_4_3/250/616858363.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Großartiges Spiel&quot;: Real patzt erstmals unter völlig frustriertem Mourinho</title>
+                <description>José Mourinho ist bei seiner Rückkehr zu Real Madrid erstmals geschlagen. Und das, obwohl sein Team dominiert, Chancen und sogar einen Elfmeter hat. Doch Superstar Kylian Mbappé verschießt - und der Trainer hadert. </description>
+                <link>https://www.n-tv.de/sport/fussball/Real-patzt-erstmals-unter-voellig-frustriertem-Mourinho-id31272280.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Real-patzt-erstmals-unter-voellig-frustriertem-Mourinho-id31272280.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 06:46:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272285/1788588473/Img_4_3/250/616881877.jpg" width="250" height="188" align="left" />José Mourinho ist bei seiner Rückkehr zu Real Madrid erstmals geschlagen. Und das, obwohl sein Team dominiert, Chancen und sogar einen Elfmeter hat. Doch Superstar Kylian Mbappé verschießt - und der Trainer hadert. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272285/1788588473/Img_4_3/250/616881877.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bittere Frage steht im Raum: Deutschland leidet nach &quot;Scheiß-Spiel&quot; zum Auftakt der Heim-WM</title>
+                <description>Viel Zeit zum Grübeln bleibt Deutschlands Basketballerinnen nach der Auftaktklatsche nicht. Mit Japan wartet bereits die nächste schwere Aufgabe. Die Mannschaft muss zeigen, dass sie körperlich und mental bereit ist für die Heim-WM.</description>
+                <link>https://www.n-tv.de/sport/basketball/Deutschland-leidet-nach-Scheiss-Spiel-zum-Auftakt-der-Heim-WM-id31271957.html</link>
+                <guid>https://www.n-tv.de/sport/basketball/Deutschland-leidet-nach-Scheiss-Spiel-zum-Auftakt-der-Heim-WM-id31271957.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 05 Sep 2026 05:45:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31272343/1788592387/Img_4_3/250/616878706.jpg" width="250" height="188" align="left" />Viel Zeit zum Grübeln bleibt Deutschlands Basketballerinnen nach der Auftaktklatsche nicht. Mit Japan wartet bereits die nächste schwere Aufgabe. Die Mannschaft muss zeigen, dass sie körperlich und mental bereit ist für die Heim-WM.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31272343/1788592387/Img_4_3/250/616878706.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klopp sieht Stuttgart-Party: Traumsolo und Blitz-Joker: Eiskalter VfB besiegt Köln</title>
+                <description>Mit einem Sieg hätte der 1. FC Köln an die Tabellenspitze der Fußball-Bundesliga springen können. Daraus wird aber nichts: Der VfB Stuttgart gewinnt mit 4:1 und durchkreuzt damit die Pläne. Vor allem Josha Vagnoman erlebt schon wieder ein Auf und Ab.</description>
+                <link>https://www.n-tv.de/sport/fussball/Traumsolo-und-Blitz-Joker-Eiskalter-VfB-besiegt-Koeln-id31271955.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Traumsolo-und-Blitz-Joker-Eiskalter-VfB-besiegt-Koeln-id31271955.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 04 Sep 2026 22:25:28 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271979/1788561388/Img_4_3/250/616853740.jpg" width="250" height="188" align="left" />Mit einem Sieg hätte der 1. FC Köln an die Tabellenspitze der Fußball-Bundesliga springen können. Daraus wird aber nichts: Der VfB Stuttgart gewinnt mit 4:1 und durchkreuzt damit die Pläne. Vor allem Josha Vagnoman erlebt schon wieder ein Auf und Ab.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271979/1788561388/Img_4_3/250/616853740.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Es ist schrecklich&quot;: Stabhochsprung-König Duplantis verzichtet auf Start</title>
+                <description>Deutschlands Leichtathletik-Asse verpassen beim Diamond-League-Finale in Brüssel das Podium. Gar nicht erst antreten kann Stabhochsprung-Weltrekordler Armand Duplantis.</description>
+                <link>https://www.n-tv.de/sport/leichtathletik/Stabhochsprung-Koenig-Duplantis-verzichtet-auf-Start-id31271950.html</link>
+                <guid>https://www.n-tv.de/sport/leichtathletik/Stabhochsprung-Koenig-Duplantis-verzichtet-auf-Start-id31271950.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 04 Sep 2026 22:02:21 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271949/1788559140/Img_4_3/250/616842556.jpg" width="250" height="188" align="left" />Deutschlands Leichtathletik-Asse verpassen beim Diamond-League-Finale in Brüssel das Podium. Gar nicht erst antreten kann Stabhochsprung-Weltrekordler Armand Duplantis.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271949/1788559140/Img_4_3/250/616842556.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Die Hallen werden zu klein&quot;: Box-Champion Kabayel will ins Stadion - und sucht &quot;Jäger&quot;</title>
+                <description>Weltmeister im Schwergewicht ist Agit Kabayel offiziell schon seit Ende Juni. Am Samstag folgt die Kür: In seiner Heimat Bochum erhält der 33-Jährige auf dem Balkon des Rathauses den grün-goldenen WM-Gürtel. Im Interview mit RTL/ntv spricht er über die schwierige Suche nach einem Gegner, seinen größten sportlichen Traum und die Rolle als Vorbild. </description>
+                <link>https://www.n-tv.de/sport/Box-Champion-Kabayel-will-ins-Stadion-und-sucht-Jaeger-id31261293.html</link>
+                <guid>https://www.n-tv.de/sport/Box-Champion-Kabayel-will-ins-Stadion-und-sucht-Jaeger-id31261293.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 04 Sep 2026 19:51:59 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/30226252/1782743319/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Weltmeister im Schwergewicht ist Agit Kabayel offiziell schon seit Ende Juni. Am Samstag folgt die Kür: In seiner Heimat Bochum erhält der 33-Jährige auf dem Balkon des Rathauses den grün-goldenen WM-Gürtel. Im Interview mit RTL/ntv spricht er über die schwierige Suche nach einem Gegner, seinen größten sportlichen Traum und die Rolle als Vorbild. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/30226252/1782743319/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
