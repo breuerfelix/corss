@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sun, 13 Sep 2026 01:39:39 +0200</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>&quot;Kein Grund zum Aufgeben&quot;: Söder schließt Kanzlersturz durch die CSU aus</title>
+                <description>Nach der Wahlniederlage der CDU in Sachsen-Anhalt reißt die Kritik am Kurs von Parteichef Merz nicht ab. Auch innerhalb der eigenen Partei sieht sich der Kanzler massiv unter Druck. In einem Interview stärkt CSU-Chef Söder ihm derweil den Rücken.</description>
+                <link>https://www.n-tv.de/politik/Soeder-schliesst-Kanzlersturz-durch-die-CSU-aus-id31299625.html</link>
+                <guid>https://www.n-tv.de/politik/Soeder-schliesst-Kanzlersturz-durch-die-CSU-aus-id31299625.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 21:57:15 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299641/1789248788/Img_4_3/250/610368983.jpg" width="250" height="188" align="left" />Nach der Wahlniederlage der CDU in Sachsen-Anhalt reißt die Kritik am Kurs von Parteichef Merz nicht ab. Auch innerhalb der eigenen Partei sieht sich der Kanzler massiv unter Druck. In einem Interview stärkt CSU-Chef Söder ihm derweil den Rücken.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299641/1789248788/Img_4_3/250/610368983.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bilger zu Wahl in Sachsen-Anhalt : Verkehrsminister sieht Bahn-Frust als Grund für CDU-Debakel </title>
+                <description>Die Wähler in Sachsen-Anhalt haben die CDU auch wegen der maroden Infrastruktur in Deutschland abgestraft, glaubt Verkehrsminister Bilger. Es müsse das Ziel der Politik sein, dass die Menschen wieder stolz auf ihre Bahn sein könnten. </description>
+                <link>https://www.n-tv.de/politik/Verkehrsminister-sieht-Bahn-Frust-als-Grund-fuer-CDU-Debakel-id31299715.html</link>
+                <guid>https://www.n-tv.de/politik/Verkehrsminister-sieht-Bahn-Frust-als-Grund-fuer-CDU-Debakel-id31299715.html</guid>
+                <category>Politik</category>
+                <pubDate>Sun, 13 Sep 2026 01:13:01 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299716/1789256225/Img_4_3/250/611986610.jpg" width="250" height="188" align="left" />Die Wähler in Sachsen-Anhalt haben die CDU auch wegen der maroden Infrastruktur in Deutschland abgestraft, glaubt Verkehrsminister Bilger. Es müsse das Ziel der Politik sein, dass die Menschen wieder stolz auf ihre Bahn sein könnten. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299716/1789256225/Img_4_3/250/611986610.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Luftabwehr der Ukraine: Der Mangel ist so groß, F-16 fliegen schon ohne Raketen</title>
+                <description>Die Ukraine wird nicht nur von ballistischen Raketen bedroht, auch neue Jet-Drohnen stellen eine erhebliche Gefahr dar. Am gefährlichsten: ein Hybrid aus Drohne und Marschflugkörper namens Banderol.</description>
+                <link>https://www.n-tv.de/politik/Der-Mangel-ist-so-gross-F-16-fliegen-schon-ohne-Raketen-id31297042.html</link>
+                <guid>https://www.n-tv.de/politik/Der-Mangel-ist-so-gross-F-16-fliegen-schon-ohne-Raketen-id31297042.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 19:28:33 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31297074/1789145183/Img_4_3/250/523181315.jpg" width="250" height="188" align="left" />Die Ukraine wird nicht nur von ballistischen Raketen bedroht, auch neue Jet-Drohnen stellen eine erhebliche Gefahr dar. Am gefährlichsten: ein Hybrid aus Drohne und Marschflugkörper namens Banderol.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31297074/1789145183/Img_4_3/250/523181315.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wendepunkt für Europa&quot;: Isar Aerospace macht aus Deutschland noch keine Raumfahrtnation</title>
+                <description>Mit dem geglückten Raketenstart feiert Isar Aerospace einen historischen Erfolg für Europa. Doch der Weg zum Routinebetrieb ist lang. Die Zukunft des Startups entscheidet sich nicht auf der Startrampe, sondern in Brüssel und Berlin.</description>
+                <link>https://www.n-tv.de/wirtschaft/Isar-Aerospace-macht-aus-Deutschland-noch-keine-Raumfahrtnation-id31288178.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Isar-Aerospace-macht-aus-Deutschland-noch-keine-Raumfahrtnation-id31288178.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 15:47:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31288223/1788969471/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Mit dem geglückten Raketenstart feiert Isar Aerospace einen historischen Erfolg für Europa. Doch der Weg zum Routinebetrieb ist lang. Die Zukunft des Startups entscheidet sich nicht auf der Startrampe, sondern in Brüssel und Berlin.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31288223/1788969471/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ziemlich coole Sache&quot;: Trump sorgt mit Aussage in Irland für große Aufregung</title>
+                <description>Seit Jahrzehnten spaltet die Frage nach der Zugehörigkeit die Iren und Nordiren. US-Präsident Donald Trump spricht sich nun für eine Wiedervereinigung aus. Er denke, das werde &quot;ohnehin irgendwann passieren&quot;.</description>
+                <link>https://www.n-tv.de/politik/Trump-sorgt-mit-Aussage-in-Irland-fuer-grosse-Aufregung-id31299130.html</link>
+                <guid>https://www.n-tv.de/politik/Trump-sorgt-mit-Aussage-in-Irland-fuer-grosse-Aufregung-id31299130.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 16:55:56 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299199/1789232445/Img_4_3/250/618762013.jpg" width="250" height="188" align="left" />Seit Jahrzehnten spaltet die Frage nach der Zugehörigkeit die Iren und Nordiren. US-Präsident Donald Trump spricht sich nun für eine Wiedervereinigung aus. Er denke, das werde "ohnehin irgendwann passieren".]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299199/1789232445/Img_4_3/250/618762013.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Bereiten uns auf Oktober vor&quot;: Selenskyj-Vertrauter rechnet mit neuen Russland-Gesprächen</title>
+                <description>Nach der Reise der Trump-Berater nach Moskau und Kiew hält Selenskyjs Vertrauter neue Friedensgespräche im Oktober für möglich. Der Kreml schließt das nicht aus, äußert sich jedoch skeptisch über die Erfolgsaussichten. </description>
+                <link>https://www.n-tv.de/politik/Selenskyj-Vertrauter-rechnet-mit-neuen-Russland-Gespraechen-id31299701.html</link>
+                <guid>https://www.n-tv.de/politik/Selenskyj-Vertrauter-rechnet-mit-neuen-Russland-Gespraechen-id31299701.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 23:12:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299710/1789254589/Img_4_3/250/567460211.jpg" width="250" height="188" align="left" />Nach der Reise der Trump-Berater nach Moskau und Kiew hält Selenskyjs Vertrauter neue Friedensgespräche im Oktober für möglich. Der Kreml schließt das nicht aus, äußert sich jedoch skeptisch über die Erfolgsaussichten. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299710/1789254589/Img_4_3/250/567460211.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Doch kein Solarinfarkt?: &quot;Die Energiewirtschaft sagt, das Stromnetz ist überlastet - das stimmt nicht&quot;</title>
+                <description>An sonnigen Feiertagen wie Pfingsten fliegt uns das Stromnetz um die Ohren? Der Solarzubau ist kritisch? Von diesem Narrativ hat Andreas Piepenbrink die Nase voll. &quot;Es stimmt nicht&quot;, sagt der Chef des Energieunternehmens E3/DC im Interview. Das Problem ist ihm zufolge ein ganz anderes.</description>
+                <link>https://www.n-tv.de/wirtschaft/E3-DC-Chef-Piepenbrink-Die-Energiewirtschaft-sagt-das-Ortsnetz-sei-ueberlastet-das-stimmt-nicht-id31286267.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/E3-DC-Chef-Piepenbrink-Die-Energiewirtschaft-sagt-das-Ortsnetz-sei-ueberlastet-das-stimmt-nicht-id31286267.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 18:14:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31287086/1788958525/Img_4_3/250/600052748.jpg" width="250" height="188" align="left" />An sonnigen Feiertagen wie Pfingsten fliegt uns das Stromnetz um die Ohren? Der Solarzubau ist kritisch? Von diesem Narrativ hat Andreas Piepenbrink die Nase voll. "Es stimmt nicht", sagt der Chef des Energieunternehmens E3/DC im Interview. Das Problem ist ihm zufolge ein ganz anderes.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31287086/1788958525/Img_4_3/250/600052748.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ex-HDJler, Influencer, Maaßen: Das sind die AfD-Männer, die Sachsen-Anhalt regieren könnten</title>
+                <description>Die AfD steht in Sachsen-Anhalt vor der Machtübernahme. Ihre radikalen Ziele sind klar. Doch wer soll sie umsetzen? Hier sind die wichtigsten der gehandelten Namen.</description>
+                <link>https://www.n-tv.de/politik/Das-sind-die-AfD-Maenner-die-Sachsen-Anhalt-regieren-koennten-id31298319.html</link>
+                <guid>https://www.n-tv.de/politik/Das-sind-die-AfD-Maenner-die-Sachsen-Anhalt-regieren-koennten-id31298319.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 11:31:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298457/1789208334/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die AfD steht in Sachsen-Anhalt vor der Machtübernahme. Ihre radikalen Ziele sind klar. Doch wer soll sie umsetzen? Hier sind die wichtigsten der gehandelten Namen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298457/1789208334/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Musk und Altman stimmen zu: Anthropic-Chef fordert langsameres Tempo bei KI-Entwicklung</title>
+                <description>KI entwickelt sich rasant - und könnte laut Experten bald zur realen Gefahr für die Menschheit werden. Ein jüngster Zwischenfall sorgt nun für Bewegung bei den großen KI-Entwicklern und könnte ein Weckruf für die Branche sein.</description>
+                <link>https://www.n-tv.de/wirtschaft/Anthropic-Chef-fordert-langsameres-Tempo-bei-KI-Entwicklung-id31299590.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Anthropic-Chef-fordert-langsameres-Tempo-bei-KI-Entwicklung-id31299590.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 21:46:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299601/1789246370/Img_4_3/250/577867355.jpg" width="250" height="188" align="left" />KI entwickelt sich rasant - und könnte laut Experten bald zur realen Gefahr für die Menschheit werden. Ein jüngster Zwischenfall sorgt nun für Bewegung bei den großen KI-Entwicklern und könnte ein Weckruf für die Branche sein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299601/1789246370/Img_4_3/250/577867355.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dänin gewinnt goldenen Löwen: Preisträger in Venedig richten scharfe Worte an Deutschland</title>
+                <description>Zwei israelische Filmemacher gewinnen den Spezialpreis in Venedig. In ihrer Rede kritisieren sie die tödlichen Gewalttaten gegen die palästinensische Bevölkerung - und andere westliche Regierungen. Auch Deutschland kriegt sein Fett weg.</description>
+                <link>https://www.n-tv.de/leute/Preistraeger-in-Venedig-richten-scharfe-Worte-an-Deutschland-id31299613.html</link>
+                <guid>https://www.n-tv.de/leute/Preistraeger-in-Venedig-richten-scharfe-Worte-an-Deutschland-id31299613.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 12 Sep 2026 21:59:44 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299634/1789248316/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Zwei israelische Filmemacher gewinnen den Spezialpreis in Venedig. In ihrer Rede kritisieren sie die tödlichen Gewalttaten gegen die palästinensische Bevölkerung - und andere westliche Regierungen. Auch Deutschland kriegt sein Fett weg.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299634/1789248316/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sabalenka entthront: Rybakina gewinnt erstmals die US Open</title>
+                <description>Im Finale von New York treffen die beiden derzeit besten Tennisspielerinnen aufeinander. Jelena Rybakina beendet die Titelserie von Aryna Sabalenka. Zahlreiche Showgrößen schauen zu.</description>
+                <link>https://www.n-tv.de/sport/Rybakina-gewinnt-erstmals-die-US-Open-id31299734.html</link>
+                <guid>https://www.n-tv.de/sport/Rybakina-gewinnt-erstmals-die-US-Open-id31299734.html</guid>
+                <category>Sport</category>
+                <pubDate>Sun, 13 Sep 2026 00:50:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299735/1789260360/Img_4_3/250/618936580.jpg" width="250" height="188" align="left" />Im Finale von New York treffen die beiden derzeit besten Tennisspielerinnen aufeinander. Jelena Rybakina beendet die Titelserie von Aryna Sabalenka. Zahlreiche Showgrößen schauen zu.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299735/1789260360/Img_4_3/250/618936580.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Schöne Geschichte&quot;: Eiskalter Füllkrug rettet Werder Remis in Köln</title>
+                <description>Eine Stunde lang liegt der 1. FC Köln im Samstagabend-Spiel der Bundesliga gegen Werder Bremen in Front. Aber die Grün-Weißen haben ja Niclas Füllkrug wieder in ihrer Sturmreihe - und nehmen am Ende doch was mit in den Norden. </description>
+                <link>https://www.n-tv.de/sport/fussball/Eiskalter-Fuellkrug-rettet-Werder-Remis-in-Koeln-id31299558.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Eiskalter-Fuellkrug-rettet-Werder-Remis-in-Koeln-id31299558.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 20:24:10 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299565/1789243874/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Eine Stunde lang liegt der 1. FC Köln im Samstagabend-Spiel der Bundesliga gegen Werder Bremen in Front. Aber die Grün-Weißen haben ja Niclas Füllkrug wieder in ihrer Sturmreihe - und nehmen am Ende doch was mit in den Norden. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299565/1789243874/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wölfe patzen am Millerntor: St. Pauli schockt Wolfsburger Millionen-Team kurz vor Schluss</title>
+                <description>Der VfL Wolfsburg schlägt im Sommer auf dem Transfermarkt mächtig zu, ist in der 2. Fußball-Bundesliga der Topfavorit auf den Aufstieg. Im Topspiel des 5. Spieltags schießt der FC St. Pauli die Wölfe allerdings schon von den Aufstiegsrängen.</description>
+                <link>https://www.n-tv.de/sport/fussball/St-Pauli-schockt-Wolfsburger-Millionen-Team-kurz-vor-Schluss-id31299683.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/St-Pauli-schockt-Wolfsburger-Millionen-Team-kurz-vor-Schluss-id31299683.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 22:25:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299694/1789253038/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der VfL Wolfsburg schlägt im Sommer auf dem Transfermarkt mächtig zu, ist in der 2. Fußball-Bundesliga der Topfavorit auf den Aufstieg. Im Topspiel des 5. Spieltags schießt der FC St. Pauli die Wölfe allerdings schon von den Aufstiegsrängen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299694/1789253038/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Frankfurt gewinnt Derby: Desolate Gladbacher gehen in Freiburg unter - BVB siegt weiter</title>
+                <description>Am 3. Bundesliga-Spieltag verschärft sich die Krise von Borussia Mönchengladbach dramatisch. In Freiburg fliegt die Fohlen-Elf auseinander - und Chefkritiker Kleindienst vom Platz. Der BVB siegt weiter, Frankfurt jubelt im Rheinhessen-Derby.</description>
+                <link>https://www.n-tv.de/sport/fussball/Desolate-Gladbacher-gehen-in-Freiburg-unter-BVB-siegt-weiter-id31299206.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Desolate-Gladbacher-gehen-in-Freiburg-unter-BVB-siegt-weiter-id31299206.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 17:23:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299303/1789233555/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Am 3. Bundesliga-Spieltag verschärft sich die Krise von Borussia Mönchengladbach dramatisch. In Freiburg fliegt die Fohlen-Elf auseinander - und Chefkritiker Kleindienst vom Platz. Der BVB siegt weiter, Frankfurt jubelt im Rheinhessen-Derby.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299303/1789233555/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Keine Entspannung in Sicht: Niedrigwasser setzt Schifffahrt am Bodensee unter Druck</title>
+                <description>Trockene Ufer, erschwerte Bedingungen für Boote und Probleme für die Schifffahrt: Der Bodensee leidet unter außergewöhnlichem Niedrigwasser. Am Pegel Konstanz wurde ein historischer Tiefststand für Anfang September unterschritten.</description>
+                <link>https://www.n-tv.de/wirtschaft/Niedrigwasser-setzt-Schifffahrt-am-Bodensee-unter-Druck-id31299467.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Niedrigwasser-setzt-Schifffahrt-am-Bodensee-unter-Druck-id31299467.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 20:35:41 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299471/1789239124/Img_4_3/250/616912807.jpg" width="250" height="188" align="left" />Trockene Ufer, erschwerte Bedingungen für Boote und Probleme für die Schifffahrt: Der Bodensee leidet unter außergewöhnlichem Niedrigwasser. Am Pegel Konstanz wurde ein historischer Tiefststand für Anfang September unterschritten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299471/1789239124/Img_4_3/250/616912807.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bei Gipfel in Indien: Brics-Staaten rufen zu &quot;maximaler Zurückhaltung&quot; in Golfregion auf</title>
+                <description>Die Brics-Staaten rufen im Nahost-Konflikt zu &quot;maximaler Mäßigung&quot; auf und lehnen Zwangsvertreibungen aus Gaza klar ab. Bei dem zweitägigen Gipfel sind unter anderem Russlands Präsident Putin sowie seine Amtskollegen aus dem Iran und China angereist.</description>
+                <link>https://www.n-tv.de/politik/Brics-Staaten-rufen-zu-maximaler-Zurueckhaltung-in-Golfregion-auf-id31299149.html</link>
+                <guid>https://www.n-tv.de/politik/Brics-Staaten-rufen-zu-maximaler-Zurueckhaltung-in-Golfregion-auf-id31299149.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 16:57:41 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299186/1789229696/Img_4_3/250/618762520.jpg" width="250" height="188" align="left" />Die Brics-Staaten rufen im Nahost-Konflikt zu "maximaler Mäßigung" auf und lehnen Zwangsvertreibungen aus Gaza klar ab. Bei dem zweitägigen Gipfel sind unter anderem Russlands Präsident Putin sowie seine Amtskollegen aus dem Iran und China angereist.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299186/1789229696/Img_4_3/250/618762520.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bochum verspielt Sieg: Furioses Magdeburg frisst Kaiserslautern - Trauer in Braunschweig</title>
+                <description>Der 1. FC Magdeburg verpasst dem 1. FC Kaiserslautern am 5. Spieltag der 2. Liga die erste Pleite und setzt sich oben fest. Bochum hat Fürth lange im Griff, ehe der VfL das Spiel aus der Hand gibt. Ein Todesfall überschattet das Spiel in Braunschweig.</description>
+                <link>https://www.n-tv.de/sport/fussball/Furioses-Magdeburg-frisst-Kaiserslautern-Trauer-in-Braunschweig-id31299004.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Furioses-Magdeburg-frisst-Kaiserslautern-Trauer-in-Braunschweig-id31299004.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 14:54:07 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298995/1789224423/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der 1. FC Magdeburg verpasst dem 1. FC Kaiserslautern am 5. Spieltag der 2. Liga die erste Pleite und setzt sich oben fest. Bochum hat Fürth lange im Griff, ehe der VfL das Spiel aus der Hand gibt. Ein Todesfall überschattet das Spiel in Braunschweig.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298995/1789224423/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Satzball nicht genutzt: Deutsches Doppel Krawietz/Pütz verliert Tiebreak-Krimi um US-Open-Krone</title>
+                <description>Kevin Krawietz und Tim Pütz ziehen im Doppel-Endspiel der US Open den Kürzeren: Gegen ein amerikanisch-britisches Duo verlieren sie denkbar knapp. </description>
+                <link>https://www.n-tv.de/sport/tennis/Deutsches-Doppel-Krawietz-Puetz-verliert-Tiebreak-Krimi-um-US-Open-Krone-id31299506.html</link>
+                <guid>https://www.n-tv.de/sport/tennis/Deutsches-Doppel-Krawietz-Puetz-verliert-Tiebreak-Krimi-um-US-Open-Krone-id31299506.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 19:52:15 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299535/1789242063/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Kevin Krawietz und Tim Pütz ziehen im Doppel-Endspiel der US Open den Kürzeren: Gegen ein amerikanisch-britisches Duo verlieren sie denkbar knapp. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299535/1789242063/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>In rechtsextremem Magazin: Anzeigen warben bei AfD-Wählern für BSW-Zweitstimme</title>
+                <description>Mit etwas mehr als fünf Prozent der Stimmen zieht das BSW in den Landtag in Sachsen-Anhalt ein. Einzig diese Partei schließt eine Unterstützung der AfD nicht kategorisch aus. Nun legt eine Recherche nahe, dass das BSW seine Stimmen auch Rechtsextremen zu verdanken hat.</description>
+                <link>https://www.n-tv.de/politik/Anzeigen-warben-bei-AfD-Waehlern-fuer-BSW-Zweitstimme-id31298762.html</link>
+                <guid>https://www.n-tv.de/politik/Anzeigen-warben-bei-AfD-Waehlern-fuer-BSW-Zweitstimme-id31298762.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 14:06:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31293445/1789070591/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Mit etwas mehr als fünf Prozent der Stimmen zieht das BSW in den Landtag in Sachsen-Anhalt ein. Einzig diese Partei schließt eine Unterstützung der AfD nicht kategorisch aus. Nun legt eine Recherche nahe, dass das BSW seine Stimmen auch Rechtsextremen zu verdanken hat.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31293445/1789070591/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vor Angriff auf Hugging Face: KI-Agenten steuerten weitere Website von selbst an</title>
+                <description>Ein KI-gesteuerter Hackerangriff auf die Plattform Hugging Face sorgt im Juli für Aufregung. Schnell übernimmt OpenAI die Verantwortung für den Fall. Nun teilt der US-Konzern mit, dass dies nicht der erste Vorfall dieser Art war.</description>
+                <link>https://www.n-tv.de/wirtschaft/KI-Agenten-steuerten-weitere-Website-von-selbst-an-id31298894.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/KI-Agenten-steuerten-weitere-Website-von-selbst-an-id31298894.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 14:55:12 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31271556/1788545595/Img_4_3/250/616789252.jpg" width="250" height="188" align="left" />Ein KI-gesteuerter Hackerangriff auf die Plattform Hugging Face sorgt im Juli für Aufregung. Schnell übernimmt OpenAI die Verantwortung für den Fall. Nun teilt der US-Konzern mit, dass dies nicht der erste Vorfall dieser Art war.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31271556/1788545595/Img_4_3/250/616789252.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Therapeut liebt &quot;Friends&quot;-Star : Jim Curtis spürt mit Jennifer Aniston &quot;echte Freude&quot; </title>
+                <description>Mit Jennifer Aniston hat sich Jim Curtis&apos; Verständnis von Liebe offenbar gewandelt. Der &quot;Friends&quot;-Star scheint ihn so glücklich wie nie zu machen. Er spüre &quot;echte Freude&quot;, erzählte der Hypnotherapeut in einem weiteren Interview. </description>
+                <link>https://www.n-tv.de/leute/Jim-Curtis-spuert-mit-Jennifer-Aniston-echte-Freude-id31299717.html</link>
+                <guid>https://www.n-tv.de/leute/Jim-Curtis-spuert-mit-Jennifer-Aniston-echte-Freude-id31299717.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sun, 13 Sep 2026 00:04:23 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31255506/1789257848/Img_4_3/250/GettyImages-2247250671.jpg" width="250" height="188" align="left" />Mit Jennifer Aniston hat sich Jim Curtis' Verständnis von Liebe offenbar gewandelt. Der "Friends"-Star scheint ihn so glücklich wie nie zu machen. Er spüre "echte Freude", erzählte der Hypnotherapeut in einem weiteren Interview. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31255506/1789257848/Img_4_3/250/GettyImages-2247250671.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>100-Millionen-Dollar-Anwesen: Darum wollen Pierce Brosnan und seine Frau Keely aus Malibu weg</title>
+                <description>26 Jahre lang war das Anwesen am Broad Beach das Zuhause von Pierce Brosnan und Keely Shaye Smith. Jetzt wollen der &quot;James Bond&quot;-Darsteller und seine Frau weg von der kalifornischen Küste. Dafür gibt es mehrere Gründe.</description>
+                <link>https://www.n-tv.de/leute/Darum-wollen-Pierce-Brosnan-und-seine-Frau-Keely-aus-Malibu-weg-id31299020.html</link>
+                <guid>https://www.n-tv.de/leute/Darum-wollen-Pierce-Brosnan-und-seine-Frau-Keely-aus-Malibu-weg-id31299020.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 12 Sep 2026 15:40:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31157222/1785845691/Img_4_3/250/517037495.jpg" width="250" height="188" align="left" />26 Jahre lang war das Anwesen am Broad Beach das Zuhause von Pierce Brosnan und Keely Shaye Smith. Jetzt wollen der "James Bond"-Darsteller und seine Frau weg von der kalifornischen Küste. Dafür gibt es mehrere Gründe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31157222/1785845691/Img_4_3/250/517037495.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Russell enttäuscht erneut: &quot;Schockierter&quot; Norris schnappt Wunderkind Antonelli Pole Position weg</title>
+                <description>Beim ersten Formel-1-Qualifying auf dem neuen Stadtkurs in Madrid bleibt die befürchtete Crash-Orgie aus. Weltmeister Lando Norris rast überraschend und hauchdünn auf Pole Position.</description>
+                <link>https://www.n-tv.de/sport/formel1/Schockierter-Norris-schnappt-Wunderkind-Antonelli-Pole-Position-weg-id31299205.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Schockierter-Norris-schnappt-Wunderkind-Antonelli-Pole-Position-weg-id31299205.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 17:04:24 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299267/1789232580/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Beim ersten Formel-1-Qualifying auf dem neuen Stadtkurs in Madrid bleibt die befürchtete Crash-Orgie aus. Weltmeister Lando Norris rast überraschend und hauchdünn auf Pole Position.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299267/1789232580/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bald ein Fußweg neben der Farm?: Prinz Andrew droht neuer Ärger rund um sein Zuhause</title>
+                <description>Auch nach seinem Rückzug wegen des Epstein-Skandals steht Ex-Prinz Andrew weiter im Fokus der Öffentlichkeit. Nun setzt sich eine Initiative dafür ein, erloschene alte Wegerechte rund um sein Anwesen zu erneuern.</description>
+                <link>https://www.n-tv.de/leute/Prinz-Andrew-droht-neuer-Aerger-rund-um-sein-Zuhause-id31299158.html</link>
+                <guid>https://www.n-tv.de/leute/Prinz-Andrew-droht-neuer-Aerger-rund-um-sein-Zuhause-id31299158.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 12 Sep 2026 16:53:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299185/1789229692/Img_4_3/250/598962296.jpg" width="250" height="188" align="left" />Auch nach seinem Rückzug wegen des Epstein-Skandals steht Ex-Prinz Andrew weiter im Fokus der Öffentlichkeit. Nun setzt sich eine Initiative dafür ein, erloschene alte Wegerechte rund um sein Anwesen zu erneuern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299185/1789229692/Img_4_3/250/598962296.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Völlig unnötige&quot; Ballverluste: Frankreich zu stark: Deutsche Basketballerinnen verpassen WM-Finale</title>
+                <description>Der Traum der deutschen Basketballerinnen vom Finale bei der Heim-WM platzt gegen Frankreich. Gegen die Favoritinnen hält die DBB-Auswahl nur eine Hälfte mit. Es bleibt die Hoffnung auf Bronze.</description>
+                <link>https://www.n-tv.de/sport/basketball/Frankreich-zu-stark-Deutsche-Basketballerinnen-verpassen-WM-Finale-id31299403.html</link>
+                <guid>https://www.n-tv.de/sport/basketball/Frankreich-zu-stark-Deutsche-Basketballerinnen-verpassen-WM-Finale-id31299403.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 18:11:25 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299386/1789238417/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der Traum der deutschen Basketballerinnen vom Finale bei der Heim-WM platzt gegen Frankreich. Gegen die Favoritinnen hält die DBB-Auswahl nur eine Hälfte mit. Es bleibt die Hoffnung auf Bronze.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299386/1789238417/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Auf Gesundheit konzentrieren&quot;: Influencerin Julia Beautx zieht sich aus Öffentlichkeit zurück</title>
+                <description>Julia Beautx erreicht als Influencerin ein Millionenpublikum, steht vor der Fernsehkamera und ist in ihrem Podcast zu hören. Doch nun zieht die 27-Jährige einen Schlussstrich: Nach Jahren in der Öffentlichkeit nimmt sie eine Auszeit - auf unbestimmte Zeit.</description>
+                <link>https://www.n-tv.de/leute/Influencerin-Julia-Beautx-zieht-sich-aus-Oeffentlichkeit-zurueck-id31299041.html</link>
+                <guid>https://www.n-tv.de/leute/Influencerin-Julia-Beautx-zieht-sich-aus-Oeffentlichkeit-zurueck-id31299041.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 12 Sep 2026 16:06:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299068/1789226461/Img_4_3/250/450297811.jpg" width="250" height="188" align="left" />Julia Beautx erreicht als Influencerin ein Millionenpublikum, steht vor der Fernsehkamera und ist in ihrem Podcast zu hören. Doch nun zieht die 27-Jährige einen Schlussstrich: Nach Jahren in der Öffentlichkeit nimmt sie eine Auszeit - auf unbestimmte Zeit.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299068/1789226461/Img_4_3/250/450297811.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wäre lieb zu meinem Bruder&quot;: Die Welt schaut auf William und Harry</title>
+                <description>Jeder, der einen Bruder hat oder Geschwister, weiß, da gibt es &apos;Ups and Downs&apos;. Ab einem gewissen Alter sollte man jedoch in der Lage sein, einen Strich unter alte Streitigkeiten zu ziehen. Können das auch William und Harry? </description>
+                <link>https://www.n-tv.de/panorama/Die-Welt-schaut-auf-William-und-Harry-id31282133.html</link>
+                <guid>https://www.n-tv.de/panorama/Die-Welt-schaut-auf-William-und-Harry-id31282133.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 12 Sep 2026 15:02:10 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/2310897/1789225434/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Jeder, der einen Bruder hat oder Geschwister, weiß, da gibt es 'Ups and Downs'. Ab einem gewissen Alter sollte man jedoch in der Lage sein, einen Strich unter alte Streitigkeiten zu ziehen. Können das auch William und Harry? ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/2310897/1789225434/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Tausende bei Trauerritualen: Jüngster König der Welt in Uganda beigesetzt</title>
+                <description>Im Alter von drei Jahren wird Oyo Nyimba Kabamba Iguru Rukidi IV. zum König von Uganda gekrönt. Mit nur 34 Jahren ist er jetzt an Krebs gestorben und wird mit alten Ritualen beigesetzt. Derweil ist ein Streit um seine Nachfolge entbrannt.</description>
+                <link>https://www.n-tv.de/panorama/Juengster-Koenig-der-Welt-in-Uganda-beigesetzt-id31299288.html</link>
+                <guid>https://www.n-tv.de/panorama/Juengster-Koenig-der-Welt-in-Uganda-beigesetzt-id31299288.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 12 Sep 2026 17:57:01 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299292/1789233332/Img_4_3/250/618732673.jpg" width="250" height="188" align="left" />Im Alter von drei Jahren wird Oyo Nyimba Kabamba Iguru Rukidi IV. zum König von Uganda gekrönt. Mit nur 34 Jahren ist er jetzt an Krebs gestorben und wird mit alten Ritualen beigesetzt. Derweil ist ein Streit um seine Nachfolge entbrannt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299292/1789233332/Img_4_3/250/618732673.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kampf zurück auf die Bühne: Comeback von Céline Dion &quot;wird spektakulär&quot;</title>
+                <description>Am Samstag feiert Céline Dion ihr großes Bühnencomeback in Paris. Wie sehr die am Stiff-Person-Syndrom erkrankte Sängerin dafür gekämpft hat, betont ein Insider, der sie als &quot;unglaublich widerstandsfähig&quot; beschreibt.</description>
+                <link>https://www.n-tv.de/leute/Comeback-von-Celine-Dion-wird-spektakulaer-id31299475.html</link>
+                <guid>https://www.n-tv.de/leute/Comeback-von-Celine-Dion-wird-spektakulaer-id31299475.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 12 Sep 2026 19:39:56 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31244452/1789239396/Img_4_3/250/615333367.jpg" width="250" height="188" align="left" />Am Samstag feiert Céline Dion ihr großes Bühnencomeback in Paris. Wie sehr die am Stiff-Person-Syndrom erkrankte Sängerin dafür gekämpft hat, betont ein Insider, der sie als "unglaublich widerstandsfähig" beschreibt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31244452/1789239396/Img_4_3/250/615333367.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Grundlagen-Frage: Fischgrät und Co.: Welches Parkett passt in kleine Räume?</title>
+                <description>Parkett ist nicht ganz günstig, hält aber meist lange. Umso besser, wenn man dann weiß, welche Variante gut zur Wohnung passt. Hier sind Tipps für die Entscheidungsfindung.</description>
+                <link>https://www.n-tv.de/ratgeber/Fischgraet-und-Co-Welches-Parkett-passt-in-kleine-Raeume-id31288598.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Fischgraet-und-Co-Welches-Parkett-passt-in-kleine-Raeume-id31288598.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 12 Sep 2026 18:42:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31288026/1788973902/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Parkett ist nicht ganz günstig, hält aber meist lange. Umso besser, wenn man dann weiß, welche Variante gut zur Wohnung passt. Hier sind Tipps für die Entscheidungsfindung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31288026/1788973902/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Boot kentert mit drei Insassen: 15-Jähriger treibt tagelang allein in Alaskas Gewässer</title>
+                <description>Zwei Männer und ein Teenager brechen mit einem Fischerboot zu einer Tour in Alaska auf. Als sie nach mehreren Tagen nicht zurückkehren, beginnt die Küstenwache die Suche. Nach langer Ungewissheit finden die Retter einen Überlebenden.</description>
+                <link>https://www.n-tv.de/panorama/15-Jaehriger-treibt-tagelang-allein-in-Alaskas-Gewaesser-id31298911.html</link>
+                <guid>https://www.n-tv.de/panorama/15-Jaehriger-treibt-tagelang-allein-in-Alaskas-Gewaesser-id31298911.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 12 Sep 2026 15:39:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299091/1789227007/Img_4_3/250/Alaska_Teenager.jpg" width="250" height="188" align="left" />Zwei Männer und ein Teenager brechen mit einem Fischerboot zu einer Tour in Alaska auf. Als sie nach mehreren Tagen nicht zurückkehren, beginnt die Küstenwache die Suche. Nach langer Ungewissheit finden die Retter einen Überlebenden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299091/1789227007/Img_4_3/250/Alaska_Teenager.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mann in Rot souverän : Mas baut Vorsprung auf Königsetappe aus und steht vor Vuelta-Triumph</title>
+                <description>Primoz Roglic träumt von einem rekordträchtigen fünften Sieg bei der Vuelta. Doch auf der Königsetappe hat er gegen Enric Mas keine Chance. Der Spanier kann den Sekt kaltstellen.</description>
+                <link>https://www.n-tv.de/sport/Radsport/Mas-baut-Vorsprung-auf-Koenigsetappe-aus-und-steht-vor-Vuelta-Triumph-id31299416.html</link>
+                <guid>https://www.n-tv.de/sport/Radsport/Mas-baut-Vorsprung-auf-Koenigsetappe-aus-und-steht-vor-Vuelta-Triumph-id31299416.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 18:21:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299413/1789237141/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Primoz Roglic träumt von einem rekordträchtigen fünften Sieg bei der Vuelta. Doch auf der Königsetappe hat er gegen Enric Mas keine Chance. Der Spanier kann den Sekt kaltstellen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299413/1789237141/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bundesweite Proteste: Zehntausende demonstrieren gegen Rechtsextremismus</title>
+                <description>Eine Woche nach dem Wahlsieg der AfD in Sachsen-Anhalt setzen Zehntausende Menschen in Deutschland ein Zeichen gegen Rechtsextremismus. Auf einigen Kundgebungen wird auch der Ruf nach einem Verbotsverfahren der Partei lauter.</description>
+                <link>https://www.n-tv.de/politik/Zehntausende-demonstrieren-gegen-Rechtsextremismus-id31299400.html</link>
+                <guid>https://www.n-tv.de/politik/Zehntausende-demonstrieren-gegen-Rechtsextremismus-id31299400.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 19:09:46 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299404/1789236714/Img_4_3/250/618777808.jpg" width="250" height="188" align="left" />Eine Woche nach dem Wahlsieg der AfD in Sachsen-Anhalt setzen Zehntausende Menschen in Deutschland ein Zeichen gegen Rechtsextremismus. Auf einigen Kundgebungen wird auch der Ruf nach einem Verbotsverfahren der Partei lauter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299404/1789236714/Img_4_3/250/618777808.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gerechtigkeit auch an der Tanke?: Woidke: &quot;Brauchen dringend einen Spritpreisdeckel&quot;</title>
+                <description>Der Ölpreis steigt, auch Benzin und Diesel sind teurer geworden. Nicht nur in der SPD werden die Rufe nach einem Preisdeckel für Sprit lauter. Dabei machen laut einer Studie besonders Steuern und Regeln den Kraftstoff an deutschen Tankstellen so teuer.  </description>
+                <link>https://www.n-tv.de/politik/Woidke-Brauchen-dringend-einen-Spritpreisdeckel-id31298967.html</link>
+                <guid>https://www.n-tv.de/politik/Woidke-Brauchen-dringend-einen-Spritpreisdeckel-id31298967.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 15:20:26 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31299008/1789225022/Img_4_3/250/618714634.jpg" width="250" height="188" align="left" />Der Ölpreis steigt, auch Benzin und Diesel sind teurer geworden. Nicht nur in der SPD werden die Rufe nach einem Preisdeckel für Sprit lauter. Dabei machen laut einer Studie besonders Steuern und Regeln den Kraftstoff an deutschen Tankstellen so teuer.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31299008/1789225022/Img_4_3/250/618714634.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kanzler im Umfrage-Tief: &quot;Die schlechten Werte muss Merz sich schon selbst zuschreiben&quot;</title>
+                <description>Die Umfragewerte des Bundeskanzlers sind auf einem historischen Tiefstand. Kann ein Regierungschef in diesen Zeiten überhaupt beliebt sein? Die kontrollierte Masochismus-Strategie könnte eine Lösung sein, sagt Politikberater Johannes Hillje.</description>
+                <link>https://www.n-tv.de/politik/Die-schlechten-Werte-muss-Merz-sich-schon-selbst-zuschreiben-id31297528.html</link>
+                <guid>https://www.n-tv.de/politik/Die-schlechten-Werte-muss-Merz-sich-schon-selbst-zuschreiben-id31297528.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 12 Sep 2026 13:05:13 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31297535/1789157037/Img_4_3/250/618222394.jpg" width="250" height="188" align="left" />Die Umfragewerte des Bundeskanzlers sind auf einem historischen Tiefstand. Kann ein Regierungschef in diesen Zeiten überhaupt beliebt sein? Die kontrollierte Masochismus-Strategie könnte eine Lösung sein, sagt Politikberater Johannes Hillje.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31297535/1789157037/Img_4_3/250/618222394.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ölexporte massiv unter Druck: Wichtige saudische Pipeline stillgelegt - wird Benzin noch teurer?</title>
+                <description>Nach Drohnenangriffen muss Saudi-Arabien auch noch eine zentrale Ölpipeline abschalten - bisher eine Alternative zur Straße von Hormus. Der Ölpreis und damit die Spritpreise in Deutschland könnten empfindlich steigen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Wichtige-saudische-Pipeline-stillgelegt-wird-Benzin-noch-teurer-id31298215.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Wichtige-saudische-Pipeline-stillgelegt-wird-Benzin-noch-teurer-id31298215.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 08:40:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298236/1789199788/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach Drohnenangriffen muss Saudi-Arabien auch noch eine zentrale Ölpipeline abschalten - bisher eine Alternative zur Straße von Hormus. Der Ölpreis und damit die Spritpreise in Deutschland könnten empfindlich steigen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298236/1789199788/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Umgehung von Seeweg: Saudi-Arabien muss Ost-West-Pipeline nach Angriffen schließen</title>
+                <description>Bisher konnte Saudi-Arabien die Störungen in der Straße von Hormus mithilfe einer Pipeline umgehen. Nach einem Drohnenangriff muss Riad sie stilllegen. Zusammen mit der Kontrolle der Huthi über die Meerenge Bab al-Mandab verschärft sich die Lage für das Königreich. </description>
+                <link>https://www.n-tv.de/wirtschaft/Saudi-Arabien-muss-Ost-West-Pipeline-nach-Angriffen-schliessen-id31298044.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Saudi-Arabien-muss-Ost-West-Pipeline-nach-Angriffen-schliessen-id31298044.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 05:32:28 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298069/1789189885/Img_4_3/250/618619534.jpg" width="250" height="188" align="left" />Bisher konnte Saudi-Arabien die Störungen in der Straße von Hormus mithilfe einer Pipeline umgehen. Nach einem Drohnenangriff muss Riad sie stilllegen. Zusammen mit der Kontrolle der Huthi über die Meerenge Bab al-Mandab verschärft sich die Lage für das Königreich. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298069/1789189885/Img_4_3/250/618619534.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Beziehungen ausbauen: Nvidia plant offenbar Milliardeneinstieg bei Anthropic-Börsengang</title>
+                <description>Anthropics Börsengang könnte einer der größten der Geschichte werden. US-Chipkonzern Nvidia will sich Insidern zufolge dabei beteiligen. Das KI-Start-Up ist auf den Chip-Giganten angewiesen.  </description>
+                <link>https://www.n-tv.de/wirtschaft/Nvidia-plant-offenbar-Milliardeneinstieg-bei-Anthropic-Boersengang-id31298005.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Nvidia-plant-offenbar-Milliardeneinstieg-bei-Anthropic-Boersengang-id31298005.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 12 Sep 2026 06:27:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298019/1789187169/Img_4_3/250/618013714.jpg" width="250" height="188" align="left" />Anthropics Börsengang könnte einer der größten der Geschichte werden. US-Chipkonzern Nvidia will sich Insidern zufolge dabei beteiligen. Das KI-Start-Up ist auf den Chip-Giganten angewiesen.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298019/1789187169/Img_4_3/250/618013714.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gigantisches Preisgeld winkt: Deutscher Reit-Gigant will das &quot;Unmögliche möglich machen&quot;</title>
+                <description>Für Richard Vogel verlief die Heim-WM nicht ganz so erfolgreich wie erhofft. Mit dem Gewinn des Grand-Slam-Titels in Kanada könnte er nun Außergewöhnliches erreichen.</description>
+                <link>https://www.n-tv.de/sport/Grosser-Preis-von-Calgary-Deutscher-Reit-Gigant-Richard-Vogel-will-das-Unmoegliche-moeglich-machen-id31298578.html</link>
+                <guid>https://www.n-tv.de/sport/Grosser-Preis-von-Calgary-Deutscher-Reit-Gigant-Richard-Vogel-will-das-Unmoegliche-moeglich-machen-id31298578.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 11:22:51 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298568/1789211939/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Für Richard Vogel verlief die Heim-WM nicht ganz so erfolgreich wie erhofft. Mit dem Gewinn des Grand-Slam-Titels in Kanada könnte er nun Außergewöhnliches erreichen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298568/1789211939/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Exot bei Frankreichs Pokal: Inselteam vor Kanadas Küste reist 4200 Kilometer für ein Spiel</title>
+                <description>600 Einwohner, Nordamerika viel näher als Frankreich - aber AS Miquelonnaise spielt im französischen Pokal mit. Es ist eine historische Partie, für die der Klub mehr als 4000 Kilometer aufs Festland reist.</description>
+                <link>https://www.n-tv.de/sport/fussball/Inselteam-vor-Kanadas-Kueste-reist-4200-Kilometer-fuer-ein-Spiel-id31290095.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Inselteam-vor-Kanadas-Kueste-reist-4200-Kilometer-fuer-ein-Spiel-id31290095.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 12:29:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31290129/1789028466/Img_4_3/250/imago0848504266h.jpg" width="250" height="188" align="left" />600 Einwohner, Nordamerika viel näher als Frankreich - aber AS Miquelonnaise spielt im französischen Pokal mit. Es ist eine historische Partie, für die der Klub mehr als 4000 Kilometer aufs Festland reist.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31290129/1789028466/Img_4_3/250/imago0848504266h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>12.000 Mal bei US Open gemacht: &quot;Nervt nicht nur mich&quot;: Was Gegner an Alexander Zverev so aufregt</title>
+                <description>Die Aufschlagroutine von Alexander Zverev sorgt bei den US Open für großes Aufsehen. Sein Halbfinalgegner übt Kritik - und auch Tennis-Legende Boris Becker hat eine Meinung dazu.</description>
+                <link>https://www.n-tv.de/sport/tennis/Nervt-nicht-nur-mich-Was-Gegner-an-Alexander-Zverev-so-aufregt-id31298305.html</link>
+                <guid>https://www.n-tv.de/sport/tennis/Nervt-nicht-nur-mich-Was-Gegner-an-Alexander-Zverev-so-aufregt-id31298305.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 10:06:06 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298307/1789204095/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Aufschlagroutine von Alexander Zverev sorgt bei den US Open für großes Aufsehen. Sein Halbfinalgegner übt Kritik - und auch Tennis-Legende Boris Becker hat eine Meinung dazu.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298307/1789204095/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Blamage-Gefahr für FC Bayern: Eines der ungleichsten Duelle, das es in der Bundesliga jemals gab</title>
+                <description>Der Kader von Aufsteiger SV Elversberg ist ungefähr so viel wert wie Bayern Münchens Top-Talent Lennart Karl. Am Sonntag wartet eines der ungleichsten Duelle, das die Bundesliga in 63 Jahren gesehen hat.</description>
+                <link>https://www.n-tv.de/sport/fussball/FC-Bayern-spielt-im-Ort-ohne-Bahnhof-Eines-der-ungleichsten-Duelle-der-Bundesliga-Geschichte-id31298278.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/FC-Bayern-spielt-im-Ort-ohne-Bahnhof-Eines-der-ungleichsten-Duelle-der-Bundesliga-Geschichte-id31298278.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 10:16:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31297234/1789208248/Img_4_3/250/imago1082912335h.jpg" width="250" height="188" align="left" />Der Kader von Aufsteiger SV Elversberg ist ungefähr so viel wert wie Bayern Münchens Top-Talent Lennart Karl. Am Sonntag wartet eines der ungleichsten Duelle, das die Bundesliga in 63 Jahren gesehen hat.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31297234/1789208248/Img_4_3/250/imago1082912335h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sein Gegner pfeift auf alles: Gieriger Zverev stellt sich auf gewaltigen Sturm ein</title>
+                <description>Alexander Zverev gelingt der dritte Finaleinzug bei einem Grand-Slam-Turnier in Serie. In New York ist die Chance auf den Titel groß. Sein amerikanischer Rivale gibt sich unbeeindruckt.</description>
+                <link>https://www.n-tv.de/sport/tennis/Gieriger-Zverev-stellt-sich-auf-gewaltigen-Sturm-ein-id31298165.html</link>
+                <guid>https://www.n-tv.de/sport/tennis/Gieriger-Zverev-stellt-sich-auf-gewaltigen-Sturm-ein-id31298165.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 06:52:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298110/1789195367/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Alexander Zverev gelingt der dritte Finaleinzug bei einem Grand-Slam-Turnier in Serie. In New York ist die Chance auf den Titel groß. Sein amerikanischer Rivale gibt sich unbeeindruckt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298110/1789195367/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Super-Torwart für Klopp?: &quot;Absolute Frechheit&quot; sichert lachendem FC Schalke 04 den Sieg</title>
+                <description>Das Warten hat ein Ende: Angeführt von Robin Gosens feiert Aufsteiger Schalke 04 den ersten Sieg in der Fußball-Bundesliga seit mehr als drei Jahren. Das macht Trainer Miron Muslic stolz. </description>
+                <link>https://www.n-tv.de/sport/fussball/Absolute-Frechheit-sichert-lachendem-FC-Schalke-04-den-Sieg-id31298114.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Absolute-Frechheit-sichert-lachendem-FC-Schalke-04-den-Sieg-id31298114.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 07:25:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298147/1789194401/Img_4_3/250/imago1082947987h.jpg" width="250" height="188" align="left" />Das Warten hat ein Ende: Angeführt von Robin Gosens feiert Aufsteiger Schalke 04 den ersten Sieg in der Fußball-Bundesliga seit mehr als drei Jahren. Das macht Trainer Miron Muslic stolz. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298147/1789194401/Img_4_3/250/imago1082947987h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Deutschland sinnt auf Revanche: &quot;Dieses Spiel hat sich in mein Gehirn gebrannt&quot;</title>
+                <description>Deutschland erreicht erstmals im Frauen-Basketball das Halbfinale einer WM. Nach dem Sieg über Belgien wartet nun das nächste europäische Schwergewicht. Und mit Frankreich haben die DBB-Frauen noch eine Rechnung offen.</description>
+                <link>https://www.n-tv.de/sport/Deutschland-sinnt-bei-Basketball-WM-auf-Revanche-Dieses-Spiel-hat-sich-in-mein-Gehirn-gebrannt-id31298167.html</link>
+                <guid>https://www.n-tv.de/sport/Deutschland-sinnt-bei-Basketball-WM-auf-Revanche-Dieses-Spiel-hat-sich-in-mein-Gehirn-gebrannt-id31298167.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 07:45:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298174/1789196350/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Deutschland erreicht erstmals im Frauen-Basketball das Halbfinale einer WM. Nach dem Sieg über Belgien wartet nun das nächste europäische Schwergewicht. Und mit Frankreich haben die DBB-Frauen noch eine Rechnung offen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298174/1789196350/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Desaströse Statistik: Alexander Zverev bekommt Finalgegner, der eigentlich chancenlos ist</title>
+                <description>Ben Shelton fordert Alexander Zverev im Endspiel von New York heraus. Der US-Star setzt sich in einem amerikanischen Duell durch. Seine Bilanz gegen Zverev ist verheerend.</description>
+                <link>https://www.n-tv.de/sport/tennis/Alexander-Zverev-bekommt-Finalgegner-der-eigentlich-chancenlos-ist-id31298104.html</link>
+                <guid>https://www.n-tv.de/sport/tennis/Alexander-Zverev-bekommt-Finalgegner-der-eigentlich-chancenlos-ist-id31298104.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 06:20:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298106/1789191907/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Ben Shelton fordert Alexander Zverev im Endspiel von New York heraus. Der US-Star setzt sich in einem amerikanischen Duell durch. Seine Bilanz gegen Zverev ist verheerend.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298106/1789191907/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Cantona als Vorbild: Als eine schwedische Legende den Derby-Gegner böse provozierte</title>
+                <description>In Schweden sind die kleinen Filmchen, die eine Werbeagentur für den IFK Göteborg vor 20 Jahren produzierte, eine Legende. Damals inszenierte der Klub eine hinterlistige Kampagne vor dem Derby gegen den Lokalrivalen.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-eine-schwedische-Legende-den-Derby-Gegner-boese-provozierte-id31290607.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-eine-schwedische-Legende-den-Derby-Gegner-boese-provozierte-id31290607.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 08:29:38 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31290497/1789035420/Img_4_3/250/imago1019684407h.jpg" width="250" height="188" align="left" />In Schweden sind die kleinen Filmchen, die eine Werbeagentur für den IFK Göteborg vor 20 Jahren produzierte, eine Legende. Damals inszenierte der Klub eine hinterlistige Kampagne vor dem Derby gegen den Lokalrivalen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31290497/1789035420/Img_4_3/250/imago1019684407h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mas bleibt vorne: Roglic&apos; (zu) späte Attacke aufs Rote Trikot verpufft</title>
+                <description>Der spanische Radprofi Enric Mas bleibt cool und verteidigt das Rote Trikot bei der Vuelta: Primoz Roglic&apos; Angriff am Schlussanstieg wehrt er ohne Probleme ab. Doch den Tagessieg holt ein anderer.</description>
+                <link>https://www.n-tv.de/sport/Roglic-zu-spaete-Attacke-aufs-Rote-Trikot-verpufft-id31298217.html</link>
+                <guid>https://www.n-tv.de/sport/Roglic-zu-spaete-Attacke-aufs-Rote-Trikot-verpufft-id31298217.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 12 Sep 2026 07:32:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31298216/1789198370/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der spanische Radprofi Enric Mas bleibt cool und verteidigt das Rote Trikot bei der Vuelta: Primoz Roglic' Angriff am Schlussanstieg wehrt er ohne Probleme ab. Doch den Tagessieg holt ein anderer.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31298216/1789198370/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Banken, Behörden, Bewerbungen: KI-Apps eröffnen Chancen - doch nicht alle können sie nutzen</title>
+                <description>Fast alle reden von KI. ChatGPT, Claude, Copilot und Co können praktische Helfer im Alltag sein. Gerade Menschen, denen die Apps eine Erleichterung brächten, drohen allerdings abgehängt zu werden.</description>
+                <link>https://www.n-tv.de/panorama/KI-Apps-eroeffnen-Chancen-doch-nicht-alle-koennen-sie-nutzen-id31259541.html</link>
+                <guid>https://www.n-tv.de/panorama/KI-Apps-eroeffnen-Chancen-doch-nicht-alle-koennen-sie-nutzen-id31259541.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 12 Sep 2026 16:20:25 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31259658/1788336468/Img_4_3/250/536386463.jpg" width="250" height="188" align="left" />Fast alle reden von KI. ChatGPT, Claude, Copilot und Co können praktische Helfer im Alltag sein. Gerade Menschen, denen die Apps eine Erleichterung brächten, drohen allerdings abgehängt zu werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31259658/1788336468/Img_4_3/250/536386463.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Abfallsammler auf hoher See: Ogyres Müll-Flotte fischt gegen Meeresverseuchung an</title>
+                <description>Zwei italienische Gründer sagen der Müllverschmutzung in den Weltmeeren den Kampf an. Innerhalb weniger Jahre hat sich ihr Startup zu einem breiten Netzwerk aus lokalen Fischern und globalen Unternehmen entwickelt.</description>
+                <link>https://www.n-tv.de/panorama/Ogyres-Muell-Flotte-fischt-gegen-Meeresverseuchung-an-id31287443.html</link>
+                <guid>https://www.n-tv.de/panorama/Ogyres-Muell-Flotte-fischt-gegen-Meeresverseuchung-an-id31287443.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 12 Sep 2026 14:14:03 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31287478/1788962428/Img_4_3/250/Brasilien_Foto_Kit Media Ogyre 2025.jpg" width="250" height="188" align="left" />Zwei italienische Gründer sagen der Müllverschmutzung in den Weltmeeren den Kampf an. Innerhalb weniger Jahre hat sich ihr Startup zu einem breiten Netzwerk aus lokalen Fischern und globalen Unternehmen entwickelt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31287478/1788962428/Img_4_3/250/Brasilien_Foto_Kit Media Ogyre 2025.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
