@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sat, 26 Sep 2026 20:00:04 +0200</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Erstes solches Treffen seit 2022: Wadephul trifft Lawrow in New York zu kurzem Gespräch</title>
+                <description>Nach Beginn des russischen Angriffskriegs in der Ukraine kommt es mehr als vier Jahre lang nicht zu einem bilateralen Gespräch der Außenminister Deutschlands und Russlands. Nun trifft Chefdiplomat Wadephul am Rande der UN-Generaldebatte überraschend auf seinen Amtskollegen Lawrow.</description>
+                <link>https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html</link>
+                <guid>https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 18:08:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351402/1790443134/Img_4_3/250/621665734.jpg" width="250" height="188" align="left" />Nach Beginn des russischen Angriffskriegs in der Ukraine kommt es mehr als vier Jahre lang nicht zu einem bilateralen Gespräch der Außenminister Deutschlands und Russlands. Nun trifft Chefdiplomat Wadephul am Rande der UN-Generaldebatte überraschend auf seinen Amtskollegen Lawrow.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351402/1790443134/Img_4_3/250/621665734.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trump poltert über &quot;FAKE NEWS&quot;: CNN darf nicht an Präsidenten-Reise nach Tennessee teilnehmen</title>
+                <description>Präsident Trump sperrt drei US-Medien von der Berichterstattung aus dem Weißen Haus aus. Nach einer Niederlage der Regierung vor Gericht bekommen CNN, MS NOW und Politico wieder Zugang. Doch die nächste Attacke auf die Pressefreiheit lässt nicht lange auf sich warten.</description>
+                <link>https://www.n-tv.de/politik/CNN-darf-nicht-an-Praesidenten-Reise-nach-Tennessee-teilnehmen-id31351305.html</link>
+                <guid>https://www.n-tv.de/politik/CNN-darf-nicht-an-Praesidenten-Reise-nach-Tennessee-teilnehmen-id31351305.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 17:23:28 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351348/1790440996/Img_4_3/250/621662761.jpg" width="250" height="188" align="left" />Präsident Trump sperrt drei US-Medien von der Berichterstattung aus dem Weißen Haus aus. Nach einer Niederlage der Regierung vor Gericht bekommen CNN, MS NOW und Politico wieder Zugang. Doch die nächste Attacke auf die Pressefreiheit lässt nicht lange auf sich warten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351348/1790440996/Img_4_3/250/621662761.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Köln/Rhein-Ruhr hat Nachsehen: Offiziell: München erhält Zuschlag für deutsche Olympia-Bewerbung </title>
+                <description>Die Wahlleute des Deutschen Olympischen Sportbunds haben sich entschieden: München soll für Deutschland in das Rennen für zukünftige Olympische und Paralympische Spiele gehen. Während im Westen Deutschlands die Enttäuschung groß ist, kann auch im Norden gejubelt werden.</description>
+                <link>https://www.n-tv.de/sport/Offiziell-Muenchen-erhaelt-Zuschlag-fuer-deutsche-Olympia-Bewerbung-id31351071.html</link>
+                <guid>https://www.n-tv.de/sport/Offiziell-Muenchen-erhaelt-Zuschlag-fuer-deutsche-Olympia-Bewerbung-id31351071.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 14:43:05 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351336/1790441244/Img_4_3/250/621660898.jpg" width="250" height="188" align="left" />Die Wahlleute des Deutschen Olympischen Sportbunds haben sich entschieden: München soll für Deutschland in das Rennen für zukünftige Olympische und Paralympische Spiele gehen. Während im Westen Deutschlands die Enttäuschung groß ist, kann auch im Norden gejubelt werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351336/1790441244/Img_4_3/250/621660898.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ersatzteile sind Mangelware: VW-Fahrern drohen nach Rückruf sogar zwei Werkstattbesuche</title>
+                <description>Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem Mehraufwand führt. Auch bei Audi und Seat gibt es Rückrufe.</description>
+                <link>https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 26 Sep 2026 15:06:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351014/1790431972/Img_4_3/250/621442546.jpg" width="250" height="188" align="left" />Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem Mehraufwand führt. Auch bei Audi und Seat gibt es Rückrufe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351014/1790431972/Img_4_3/250/621442546.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Israel und Palästina: &quot;Wir nutzen den Schmerz der Nakba, den Schmerz des 7. Oktober&quot;</title>
+                <description>Der Bruder des Palästinensers Aziz Abu Sarah starb nach Folter in einem israelischen Gefängnis, Hamas-Terroristen töteten die Eltern von Maoz Inon. Heute sind sie Freunde. Im Interview hat Inon eine Botschaft an die Bundesregierung.</description>
+                <link>https://www.n-tv.de/politik/Palaestinensisch-israelisches-Interview-mit-Aziz-Abu-Sarah-und-Maoz-Inon-Wut-ist-wie-Atomkraft-Wie-will-man-sie-nutzen-id31346616.html</link>
+                <guid>https://www.n-tv.de/politik/Palaestinensisch-israelisches-Interview-mit-Aziz-Abu-Sarah-und-Maoz-Inon-Wut-ist-wie-Atomkraft-Wie-will-man-sie-nutzen-id31346616.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 17:24:37 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351515/1790446357/Img_4_3/250/463572790.jpg" width="250" height="188" align="left" />Der Bruder des Palästinensers Aziz Abu Sarah starb nach Folter in einem israelischen Gefängnis, Hamas-Terroristen töteten die Eltern von Maoz Inon. Heute sind sie Freunde. Im Interview hat Inon eine Botschaft an die Bundesregierung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351515/1790446357/Img_4_3/250/463572790.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff</title>
+                <description>Eine Zeitung aus Israel behauptet, Premier Netanjahu sei vor einem Angriff der Hamas gewarnt worden. Der streitet alles ab und geht gegen &quot;Haaretz&quot; vor. Nun legt ein weiteres Medium nach. Demnach soll Ägyptens Geheimdienstchef sogar nach Israel gereist sein, um Unheil abzuwenden. </description>
+                <link>https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html</link>
+                <guid>https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 18:13:14 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351516/1790446380/Img_4_3/250/436919245.jpg" width="250" height="188" align="left" />Eine Zeitung aus Israel behauptet, Premier Netanjahu sei vor einem Angriff der Hamas gewarnt worden. Der streitet alles ab und geht gegen "Haaretz" vor. Nun legt ein weiteres Medium nach. Demnach soll Ägyptens Geheimdienstchef sogar nach Israel gereist sein, um Unheil abzuwenden. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351516/1790446380/Img_4_3/250/436919245.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Scheich rief vor Hamas-Terror an: 7. Oktober: Weiterer Bericht legt nahe, dass Netanjahu vorgewarnt wurde</title>
+                <description>Die Zeitung &quot;Haaretz&quot; wirft schon vor ein paar Tagen dem israelischen Regierungschef Netanjahu vor, bereits vor dem 7. Oktober 2023 über anstehende Angriffe der Hamas informiert worden zu sein. Netanjahu streitet das vehement ab. Doch auch ein neuer Bericht kommt zu diesem Ergebnis.</description>
+                <link>https://www.n-tv.de/politik/7-Oktober-Weiterer-Bericht-legt-nahe-dass-Netanjahu-vorgewarnt-wurde-id31350959.html</link>
+                <guid>https://www.n-tv.de/politik/7-Oktober-Weiterer-Bericht-legt-nahe-dass-Netanjahu-vorgewarnt-wurde-id31350959.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 13:53:12 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350958/1790429890/Img_4_3/250/imago0859952679h.jpg" width="250" height="188" align="left" />Die Zeitung "Haaretz" wirft schon vor ein paar Tagen dem israelischen Regierungschef Netanjahu vor, bereits vor dem 7. Oktober 2023 über anstehende Angriffe der Hamas informiert worden zu sein. Netanjahu streitet das vehement ab. Doch auch ein neuer Bericht kommt zu diesem Ergebnis.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350958/1790429890/Img_4_3/250/imago0859952679h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verliert CDU-Mann neue Position?: Sardinien-Reise von Jens Spahn sorgt für großen Unmut in Fraktion</title>
+                <description>Mitten in der laufenden Sitzungswoche taucht plötzlich ein Foto von Jens Spahn auf Sardinien auf. Seinen Unionskollegen aus der wichtigen Arbeitsgruppe Haushalt stößt das sauer auf. Der geschasste Fraktionschef droht seine neue Aufgabe schon wieder zu verlieren.</description>
+                <link>https://www.n-tv.de/politik/Sardinien-Reise-von-Jens-Spahn-sorgt-fuer-grossen-Unmut-in-Fraktion-id31350726.html</link>
+                <guid>https://www.n-tv.de/politik/Sardinien-Reise-von-Jens-Spahn-sorgt-fuer-grossen-Unmut-in-Fraktion-id31350726.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 11:34:21 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350750/1790421982/Img_4_3/250/621420613.jpg" width="250" height="188" align="left" />Mitten in der laufenden Sitzungswoche taucht plötzlich ein Foto von Jens Spahn auf Sardinien auf. Seinen Unionskollegen aus der wichtigen Arbeitsgruppe Haushalt stößt das sauer auf. Der geschasste Fraktionschef droht seine neue Aufgabe schon wieder zu verlieren.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350750/1790421982/Img_4_3/250/621420613.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Keine menschliche Kontrolle?: Bericht: USA und Russland verwässern Regulierung tödlicher KI-Waffen</title>
+                <description>In der Schweiz kommen Hunderte Diplomaten zusammen, um über einen möglichen Vertrag zur Nutzung von tödlichen autonomen Waffen zu verhandeln. Laut einem US-Medium gibt es greifbare Fortschritte - bis am letzten Tag Moskau und Washington gemeinsame Sache machen.</description>
+                <link>https://www.n-tv.de/politik/Bericht-USA-und-Russland-verwaessern-Regulierung-toedlicher-KI-Waffen-id31351147.html</link>
+                <guid>https://www.n-tv.de/politik/Bericht-USA-und-Russland-verwaessern-Regulierung-toedlicher-KI-Waffen-id31351147.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 15:58:40 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351218/1790436371/Img_4_3/250/AP24124397374007.jpg" width="250" height="188" align="left" />In der Schweiz kommen Hunderte Diplomaten zusammen, um über einen möglichen Vertrag zur Nutzung von tödlichen autonomen Waffen zu verhandeln. Laut einem US-Medium gibt es greifbare Fortschritte - bis am letzten Tag Moskau und Washington gemeinsame Sache machen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351218/1790436371/Img_4_3/250/AP24124397374007.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>175.000 Menschen auf der Straße: Gewerkschaften machen bei Großprotest Front gegen Reformpläne</title>
+                <description>Die Bundesregierung will zahlreiche Reformen durchführen. Viele davon bedeuten Einschnitte für Bürger. Deswegen mobilisieren Gewerkschaften Protest, rund 175.000 Menschen folgen dem Aufruf. DGB-Chefin Fahimi stellt klar, dass man sich soziale Standards nicht wieder nehmen lasse. </description>
+                <link>https://www.n-tv.de/politik/Gewerkschaften-machen-bei-Grossprotest-Front-gegen-Reformplaene-id31351496.html</link>
+                <guid>https://www.n-tv.de/politik/Gewerkschaften-machen-bei-Grossprotest-Front-gegen-Reformplaene-id31351496.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 19:33:10 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351509/1790445952/Img_4_3/250/621665245.jpg" width="250" height="188" align="left" />Die Bundesregierung will zahlreiche Reformen durchführen. Viele davon bedeuten Einschnitte für Bürger. Deswegen mobilisieren Gewerkschaften Protest, rund 175.000 Menschen folgen dem Aufruf. DGB-Chefin Fahimi stellt klar, dass man sich soziale Standards nicht wieder nehmen lasse. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351509/1790445952/Img_4_3/250/621665245.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Königsmacher in Magdeburg: Das BSW will mit der AfD zusammenarbeiten, aber nicht koalieren</title>
+                <description>Die Regierungsbildung in Sachsen-Anhalt ist nach wie vor verfahren. Die demokratischen Kräfte sind zu schwach für ein Bündnis und mit der AfD will niemand koalieren. Das BSW hält sich zumindest eine Hintertür offen - wenn die Inhalte stimmen.</description>
+                <link>https://www.n-tv.de/politik/Das-BSW-will-mit-der-AfD-zusammenarbeiten-aber-nicht-koalieren-id31351010.html</link>
+                <guid>https://www.n-tv.de/politik/Das-BSW-will-mit-der-AfD-zusammenarbeiten-aber-nicht-koalieren-id31351010.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 15:06:11 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351021/1790432259/Img_4_3/250/621613738.jpg" width="250" height="188" align="left" />Die Regierungsbildung in Sachsen-Anhalt ist nach wie vor verfahren. Die demokratischen Kräfte sind zu schwach für ein Bündnis und mit der AfD will niemand koalieren. Das BSW hält sich zumindest eine Hintertür offen - wenn die Inhalte stimmen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351021/1790432259/Img_4_3/250/621613738.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Antonelli begrenzt Schaden: 0,1 Sekunden - Russell trotzt Safety-Car-Pech und Verstappens Angriff</title>
+                <description>George Russell fährt beim Grand Prix von Aserbaidschan einsam dem Sieg entgegen - bis das Safety Car herausfährt und sein Vorsprung futsch ist. Gegen den anstürmenden Max Verstappen behält der Mercedes-Pilot aber die Nerven. Kimi Antonelli betreibt Schadensbegrenzung.</description>
+                <link>https://www.n-tv.de/sport/formel1/0-1-Sekunden-Russell-trotzt-Safety-Car-Pech-und-Verstappens-Angriff-id31351007.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/0-1-Sekunden-Russell-trotzt-Safety-Car-Pech-und-Verstappens-Angriff-id31351007.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 14:45:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351165/1790435308/Img_4_3/250/image.jpg" width="250" height="188" align="left" />George Russell fährt beim Grand Prix von Aserbaidschan einsam dem Sieg entgegen - bis das Safety Car herausfährt und sein Vorsprung futsch ist. Gegen den anstürmenden Max Verstappen behält der Mercedes-Pilot aber die Nerven. Kimi Antonelli betreibt Schadensbegrenzung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351165/1790435308/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Im ungünstigen aller Momente&quot;: Jürgen Klopp spricht ausführlich über Wirtz, obwohl er das gar nicht will</title>
+                <description>Wann wird Florian Wirtz wieder der Alte? Bundestrainer Jürgen Klopp will darüber gar nicht sprechen. Macht es dann aber doch. Und liefert eine Erklärung, warum der Ausnahmefußballer noch Zeit braucht.</description>
+                <link>https://www.n-tv.de/sport/fussball/Juergen-Klopp-spricht-ausfuehrlich-ueber-Wirtz-obwohl-er-das-gar-nicht-will-id31351314.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Juergen-Klopp-spricht-ausfuehrlich-ueber-Wirtz-obwohl-er-das-gar-nicht-will-id31351314.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 19:03:47 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351426/1790443566/Img_4_3/250/618189553.jpg" width="250" height="188" align="left" />Wann wird Florian Wirtz wieder der Alte? Bundestrainer Jürgen Klopp will darüber gar nicht sprechen. Macht es dann aber doch. Und liefert eine Erklärung, warum der Ausnahmefußballer noch Zeit braucht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351426/1790443566/Img_4_3/250/618189553.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Aber: &quot;Happy&quot; mit ter Stegen: Bundestrainer Klopp wechselt auf der Torwart-Position</title>
+                <description>Die Kritik an Marc-Andre ter Stegen hat Jürgen Klopp überrascht - und trotzdem bekommt er eine Pause. Im Nations-League-Spiel gegen Griechenland steht stattdessen Alexander Nübel im Tor.</description>
+                <link>https://www.n-tv.de/sport/fussball/Bundestrainer-Klopp-wechselt-auf-der-Torwart-Position-id31351090.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Bundestrainer-Klopp-wechselt-auf-der-Torwart-Position-id31351090.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 15:06:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351111/1790434382/Img_4_3/250/621614533.jpg" width="250" height="188" align="left" />Die Kritik an Marc-Andre ter Stegen hat Jürgen Klopp überrascht - und trotzdem bekommt er eine Pause. Im Nations-League-Spiel gegen Griechenland steht stattdessen Alexander Nübel im Tor.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351111/1790434382/Img_4_3/250/621614533.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ex-Schulleiter im Gespräch: &quot;Dass bildungsferne Familien kein Interesse am Erfolg ihrer Kinder haben, ist völliger Quatsch&quot;</title>
+                <description>Als Schulleiter erwirbt sich Engin Çatık den Ruf, sogenannte Problemschulen zu befrieden - mit Empathie und konsequentem Handeln. Über sein Grundprinzip des radikalen Vertrauens hat er nun ein Buch geschrieben.</description>
+                <link>https://www.n-tv.de/panorama/Dass-bildungsferne-Familien-kein-Interesse-am-Erfolg-ihrer-Kinder-haben-ist-voelliger-Quatsch-id31321692.html</link>
+                <guid>https://www.n-tv.de/panorama/Dass-bildungsferne-Familien-kein-Interesse-am-Erfolg-ihrer-Kinder-haben-ist-voelliger-Quatsch-id31321692.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 15:59:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31321710/1789739537/Img_4_3/250/imago0800171784h.jpg" width="250" height="188" align="left" />Als Schulleiter erwirbt sich Engin Çatık den Ruf, sogenannte Problemschulen zu befrieden - mit Empathie und konsequentem Handeln. Über sein Grundprinzip des radikalen Vertrauens hat er nun ein Buch geschrieben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31321710/1789739537/Img_4_3/250/imago0800171784h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Garten winterfest machen: Gartenarbeit im Herbst: Warum die Reihenfolge zählt</title>
+                <description>Wer sich ab Oktober um Hecken, Beete und den Rasen kümmert, hat im nächsten Frühjahr weniger Arbeit. Doch dabei sollte man die richtige Reihenfolge der Arbeitsschritte berücksichtigen.</description>
+                <link>https://www.n-tv.de/ratgeber/Gartenarbeit-im-Herbst-Warum-die-Reihenfolge-zaehlt-id31317567.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Gartenarbeit-im-Herbst-Warum-die-Reihenfolge-zaehlt-id31317567.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 26 Sep 2026 19:04:40 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/6757724/1759929393/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Wer sich ab Oktober um Hecken, Beete und den Rasen kümmert, hat im nächsten Frühjahr weniger Arbeit. Doch dabei sollte man die richtige Reihenfolge der Arbeitsschritte berücksichtigen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/6757724/1759929393/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Oktagon 94 im Liveblog: Dulatov wird Kurzarbeiter - Sieg in unter einer Minute</title>
+                <description>Für mehr als 58.000 Menschen wird das Frankfurter Waldstadion zur großen MMA-Show. Oktagon 94 setzt wieder neue Maßstäbe und garantiert ein Käfig-Spektakel mit dem &quot;Neandertaler&quot; Frederic Vosgröne, Max Coga und Christian Eckerlin. Es könnte der letzte Auftritt im Käfig des bekanntesten MMA-Kämpfers Deutschlands werden.</description>
+                <link>https://www.n-tv.de/sport/mma/Dulatov-wird-Kurzarbeiter-Sieg-in-unter-einer-Minute-id31351300.html</link>
+                <guid>https://www.n-tv.de/sport/mma/Dulatov-wird-Kurzarbeiter-Sieg-in-unter-einer-Minute-id31351300.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 18:42:37 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351602/1790451448/Img_4_3/250/129_OKT94T_Kikinder_low.jpg" width="250" height="188" align="left" />Für mehr als 58.000 Menschen wird das Frankfurter Waldstadion zur großen MMA-Show. Oktagon 94 setzt wieder neue Maßstäbe und garantiert ein Käfig-Spektakel mit dem "Neandertaler" Frederic Vosgröne, Max Coga und Christian Eckerlin. Es könnte der letzte Auftritt im Käfig des bekanntesten MMA-Kämpfers Deutschlands werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351602/1790451448/Img_4_3/250/129_OKT94T_Kikinder_low.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Reaktion auf Vorfall in Ceuta: Dobrindt fordert Schnellabschiebungen bei Flüchtlingsansturm</title>
+                <description>Innenminister Dobrindt schlägt seinen EU-Kollegen Schnellverfahren für Abschiebungen vor, wenn Situationen wie in Ceuta auftreten. Eine besondere Rolle könnte dabei auch der Grenzschutzagentur Frontex zukommen.  </description>
+                <link>https://www.n-tv.de/politik/Dobrindt-fordert-Schnellabschiebungen-bei-Fluechtlingsansturm-id31351223.html</link>
+                <guid>https://www.n-tv.de/politik/Dobrindt-fordert-Schnellabschiebungen-bei-Fluechtlingsansturm-id31351223.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 15:57:48 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351234/1790436829/Img_4_3/250/610447175.jpg" width="250" height="188" align="left" />Innenminister Dobrindt schlägt seinen EU-Kollegen Schnellverfahren für Abschiebungen vor, wenn Situationen wie in Ceuta auftreten. Eine besondere Rolle könnte dabei auch der Grenzschutzagentur Frontex zukommen.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351234/1790436829/Img_4_3/250/610447175.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Warten auf den großen Durchbruch: Bei der Quantencomputer-Revolution mischt Deutschland ganz vorne mit</title>
+                <description>Bei Entwicklungen wie der Künstlichen Intelligenz dominieren amerikanische Technologiekonzerne nahezu uneinholbar. Anders sieht es bei Quantencomputern aus. Hier spielen mehrere deutsche Unternehmen ganz vorne mit. Allerdings hat der Standort einen entscheidenden Nachteil. </description>
+                <link>https://www.n-tv.de/wirtschaft/Bei-der-Quantencomputer-Revolution-mischt-Deutschland-ganz-vorne-mit-id31348813.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Bei-der-Quantencomputer-Revolution-mischt-Deutschland-ganz-vorne-mit-id31348813.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 26 Sep 2026 17:21:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31349054/1790351571/Img_4_3/250/2026-09-24T062439Z_658013736_RC2BANAPW784_RTRMADP_3_GERMANY-TECH.jpg" width="250" height="188" align="left" />Bei Entwicklungen wie der Künstlichen Intelligenz dominieren amerikanische Technologiekonzerne nahezu uneinholbar. Anders sieht es bei Quantencomputern aus. Hier spielen mehrere deutsche Unternehmen ganz vorne mit. Allerdings hat der Standort einen entscheidenden Nachteil. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31349054/1790351571/Img_4_3/250/2026-09-24T062439Z_658013736_RC2BANAPW784_RTRMADP_3_GERMANY-TECH.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>700.000 Menschen bei Messe: Papst Leo XIV. geißelt Materialismus vor Megakulisse</title>
+                <description>Der Besuch von Papst Leo XIV. in Paris wird zu einem Mega-Event. 700.000 Menschen strömen zur Messe, darunter ist auch viel Politprominenz. Nachdem er den Menschen auf der Prachtstraße Champs-Élysées zugejubelt hat, wendet er sich in seiner Predigt der falschen Verheißung materieller Güter zu. </description>
+                <link>https://www.n-tv.de/panorama/Papst-Leo-XIV-geisselt-Materialismus-vor-Megakulisse-id31351273.html</link>
+                <guid>https://www.n-tv.de/panorama/Papst-Leo-XIV-geisselt-Materialismus-vor-Megakulisse-id31351273.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 17:22:46 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351278/1790438583/Img_4_3/250/621651163.jpg" width="250" height="188" align="left" />Der Besuch von Papst Leo XIV. in Paris wird zu einem Mega-Event. 700.000 Menschen strömen zur Messe, darunter ist auch viel Politprominenz. Nachdem er den Menschen auf der Prachtstraße Champs-Élysées zugejubelt hat, wendet er sich in seiner Predigt der falschen Verheißung materieller Güter zu. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351278/1790438583/Img_4_3/250/621651163.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kinder seien auch glücklich: Prinz Harry bereut Rückkehr nach Großbritannien nicht</title>
+                <description>Derzeit befindet sich Prinz Harry wieder auf der anderen Seite des Atlantiks, in einem Interview schwärmt er jedoch von seiner Heimat Großbritannien. Er verdeutlicht, wie glücklich er und die Kinder über die Rückkehr seien. Nach den Gründen gefragt, weicht er aber aus. </description>
+                <link>https://www.n-tv.de/leute/Prinz-Harry-bereut-Rueckkehr-nach-Grossbritannien-nicht-id31351350.html</link>
+                <guid>https://www.n-tv.de/leute/Prinz-Harry-bereut-Rueckkehr-nach-Grossbritannien-nicht-id31351350.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 26 Sep 2026 17:31:52 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351347/1790441011/Img_4_3/250/620641090.jpg" width="250" height="188" align="left" />Derzeit befindet sich Prinz Harry wieder auf der anderen Seite des Atlantiks, in einem Interview schwärmt er jedoch von seiner Heimat Großbritannien. Er verdeutlicht, wie glücklich er und die Kinder über die Rückkehr seien. Nach den Gründen gefragt, weicht er aber aus. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351347/1790441011/Img_4_3/250/620641090.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ein Toter, ein Schwerverletzter: Gewaltverbrechen erschüttern Delmenhorst</title>
+                <description>In derselben Nacht kommt es in Delmenhorst zu zwei Angriffen mit Stichwaffen. Für einen 25-Jährigen kommt jede Hilfe zu spät. Ein 13-Jähriger wird schwer verletzt ins Krankenhaus gebracht. Die Polizei tappt noch im Dunkeln.</description>
+                <link>https://www.n-tv.de/panorama/Gewaltverbrechen-erschuettern-Delmenhorst-id31351386.html</link>
+                <guid>https://www.n-tv.de/panorama/Gewaltverbrechen-erschuettern-Delmenhorst-id31351386.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 18:15:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351334/1790442789/Img_4_3/250/image.jpg" width="250" height="188" align="left" />In derselben Nacht kommt es in Delmenhorst zu zwei Angriffen mit Stichwaffen. Für einen 25-Jährigen kommt jede Hilfe zu spät. Ein 13-Jähriger wird schwer verletzt ins Krankenhaus gebracht. Die Polizei tappt noch im Dunkeln.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351334/1790442789/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Autor plaudert Privates aus: Ehe-Aus von Gisele Bündchen und Tom Brady kündigte sich an</title>
+                <description>Das Ehe-Aus zwischen Gisele Bündchen und Tom Brady erschüttert seinerzeit die Promiwelt. Doch wie ein Autor nun verrät, kündigte sich das Beziehungsende über längere Zeit an. Ausgerechnet die unterschiedlichen Sternzeichen sollen schließlich das Fass zum Überlaufen gebracht haben.</description>
+                <link>https://www.n-tv.de/leute/Ehe-Aus-von-Gisele-Buendchen-und-Tom-Brady-kuendigte-sich-an-id31351064.html</link>
+                <guid>https://www.n-tv.de/leute/Ehe-Aus-von-Gisele-Buendchen-und-Tom-Brady-kuendigte-sich-an-id31351064.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 26 Sep 2026 15:33:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351066/1790433622/Img_4_3/250/400903432.jpg" width="250" height="188" align="left" />Das Ehe-Aus zwischen Gisele Bündchen und Tom Brady erschüttert seinerzeit die Promiwelt. Doch wie ein Autor nun verrät, kündigte sich das Beziehungsende über längere Zeit an. Ausgerechnet die unterschiedlichen Sternzeichen sollen schließlich das Fass zum Überlaufen gebracht haben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351066/1790433622/Img_4_3/250/400903432.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Einzeller-Experiment geglückt: Bedingungen für Leben auf Saturn-Eismond günstiger als angenommen</title>
+                <description>Der Eismond Enceladus ist einer der vielversprechendsten Orte für außerirdisches Leben. Ein deutsches Forschungsteam ahmt die Verhältnisse im Labor nach und staunt über das Wachstum eines Tiefsee-Einzellers. </description>
+                <link>https://www.n-tv.de/wissen/Bedingungen-fuer-Leben-auf-Saturn-Eismond-guenstiger-als-angenommen-id31350740.html</link>
+                <guid>https://www.n-tv.de/wissen/Bedingungen-fuer-Leben-auf-Saturn-Eismond-guenstiger-als-angenommen-id31350740.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 26 Sep 2026 12:07:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350730/1790421547/Img_4_3/250/epi_1080506674_DPA BF_kuxpb256uv-v1-ax-ms6144.jpeg_Saturnmond Enceladus.jpg" width="250" height="188" align="left" />Der Eismond Enceladus ist einer der vielversprechendsten Orte für außerirdisches Leben. Ein deutsches Forschungsteam ahmt die Verhältnisse im Labor nach und staunt über das Wachstum eines Tiefsee-Einzellers. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350730/1790421547/Img_4_3/250/epi_1080506674_DPA BF_kuxpb256uv-v1-ax-ms6144.jpeg_Saturnmond Enceladus.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sterbeurkunde publik gemacht: Presley Gerber wurde bereits eingeäschert</title>
+                <description>Knapp eine Woche nach dem Tod von Presley Gerber gibt ein offizielles Dokument Auskunft über den Verbleib seiner sterblichen Überreste. Die Familie von Cindy Crawford und Rande Gerber bereitet offenbar bereits die Trauerfeier vor.</description>
+                <link>https://www.n-tv.de/leute/Presley-Gerber-wurde-bereits-eingeaeschert-id31350798.html</link>
+                <guid>https://www.n-tv.de/leute/Presley-Gerber-wurde-bereits-eingeaeschert-id31350798.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 26 Sep 2026 12:26:05 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350799/1790423987/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Knapp eine Woche nach dem Tod von Presley Gerber gibt ein offizielles Dokument Auskunft über den Verbleib seiner sterblichen Überreste. Die Familie von Cindy Crawford und Rande Gerber bereitet offenbar bereits die Trauerfeier vor.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350799/1790423987/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Erbitterter Promoter-Streit: &quot;Feige kleine Scheißer&quot; - Furys und Joshuas Schlacht vor Blitz-Kollaps</title>
+                <description>Kaum ist die ersehnte Battle of Britain zwischen Tyson Fury und Anthony Joshua offiziell, steht die Schlacht um Großbritannien vor dem K.o. - hinter den Kulissen tobt ein erbitterter Streit zweier Promoter. </description>
+                <link>https://www.n-tv.de/sport/Feige-kleine-Scheisser-Furys-und-Joshuas-Schlacht-vor-Blitz-Kollaps-id31350793.html</link>
+                <guid>https://www.n-tv.de/sport/Feige-kleine-Scheisser-Furys-und-Joshuas-Schlacht-vor-Blitz-Kollaps-id31350793.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 12:51:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350820/1790424929/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Kaum ist die ersehnte Battle of Britain zwischen Tyson Fury und Anthony Joshua offiziell, steht die Schlacht um Großbritannien vor dem K.o. - hinter den Kulissen tobt ein erbitterter Streit zweier Promoter. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350820/1790424929/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Pfefferspray wäre sinnvoller&quot;: Erhöhen Tracking-Apps wirklich die Sicherheit?</title>
+                <description>Manche Leute teilen ganz selbstverständlich übers Handy ihren Standort mit Familie und Freunden. Das kann praktisch sein. Doch es gibt auch einiges zu bedenken.</description>
+                <link>https://www.n-tv.de/panorama/Erhoehen-Tracking-Apps-wirklich-die-Sicherheit-id31338839.html</link>
+                <guid>https://www.n-tv.de/panorama/Erhoehen-Tracking-Apps-wirklich-die-Sicherheit-id31338839.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 17:32:58 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31338973/1790166193/Img_4_3/250/618537781.jpg" width="250" height="188" align="left" />Manche Leute teilen ganz selbstverständlich übers Handy ihren Standort mit Familie und Freunden. Das kann praktisch sein. Doch es gibt auch einiges zu bedenken.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31338973/1790166193/Img_4_3/250/618537781.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Touristen sterben bei Explosion : Leichen von sechs Vermissten aus Trümmern in Athen geborgen</title>
+                <description>Eine Explosion erschüttert Athens historische Plaka: Vier US-Touristen sterben in den Trümmern, auch zwei weitere Vermisste werden tot geborgen. Nun geraten frühere Warnungen vor möglichen Gaslecks in den Fokus.</description>
+                <link>https://www.n-tv.de/panorama/Nach-Explosion-in-Athen-Leichen-von-sechs-Vermissten-aus-Truemmern-geborgen-id31350965.html</link>
+                <guid>https://www.n-tv.de/panorama/Nach-Explosion-in-Athen-Leichen-von-sechs-Vermissten-aus-Truemmern-geborgen-id31350965.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 14:03:17 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350963/1790430846/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Eine Explosion erschüttert Athens historische Plaka: Vier US-Touristen sterben in den Trümmern, auch zwei weitere Vermisste werden tot geborgen. Nun geraten frühere Warnungen vor möglichen Gaslecks in den Fokus.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350963/1790430846/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trauer und Wiederaufbaupläne: Nepal ist nach Flutwelle noch weit von Alltag entfernt</title>
+                <description>Die verheerende Sturzflut hat in Nepal Tausende Menschenleben verändert. Betroffene müssen nun mit Trauer, Unsicherheit und dem langwierigen Wiederaufbau umgehen.</description>
+                <link>https://www.n-tv.de/panorama/Nepal-ist-nach-Flutwelle-noch-weit-von-Alltag-entfernt-id31347654.html</link>
+                <guid>https://www.n-tv.de/panorama/Nepal-ist-nach-Flutwelle-noch-weit-von-Alltag-entfernt-id31347654.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 15:05:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31347727/1790340359/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die verheerende Sturzflut hat in Nepal Tausende Menschenleben verändert. Betroffene müssen nun mit Trauer, Unsicherheit und dem langwierigen Wiederaufbau umgehen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31347727/1790340359/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dänisches Thriller-Dynamit: &quot;Der Prätorianer&quot; will nicht spielen</title>
+                <description>Eine kalte Novembernacht in Kopenhagen. Eine grausam zugerichtete Leiche wird entdeckt. Antike Goldmünzen mit einem Skorpion wurden auf ihren Augenlidern drapiert. Alles sieht nach der Tat eines Psychopathen aus - und nach dem brillanten Start einer neuen Thrillerreihe.</description>
+                <link>https://www.n-tv.de/leute/hoerbuecher/Der-Praetorianer-will-nicht-spielen-id31333240.html</link>
+                <guid>https://www.n-tv.de/leute/hoerbuecher/Der-Praetorianer-will-nicht-spielen-id31333240.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 26 Sep 2026 13:37:24 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31333290/1790067597/Img_4_3/250/imago0383055047h.jpg" width="250" height="188" align="left" />Eine kalte Novembernacht in Kopenhagen. Eine grausam zugerichtete Leiche wird entdeckt. Antike Goldmünzen mit einem Skorpion wurden auf ihren Augenlidern drapiert. Alles sieht nach der Tat eines Psychopathen aus - und nach dem brillanten Start einer neuen Thrillerreihe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31333290/1790067597/Img_4_3/250/imago0383055047h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verliebt in Paris: Kim Kardashian knutscht vor dem Eiffelturm</title>
+                <description>Kim Kardashian und Lewis Hamilton lassen es sich in Paris richtig gut gehen. Mit einem innigen Kuss vor dem Eiffelturm gewährt der Reality-Star nun einen besonders privaten Einblick in die Beziehung.</description>
+                <link>https://www.n-tv.de/leute/Kim-Kardashian-knutscht-vor-dem-Eiffelturm-id31350802.html</link>
+                <guid>https://www.n-tv.de/leute/Kim-Kardashian-knutscht-vor-dem-Eiffelturm-id31350802.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 26 Sep 2026 12:57:17 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350821/1790425016/Img_4_3/250/1Screenshot 2026-09-26 121134.jpg" width="250" height="188" align="left" />Kim Kardashian und Lewis Hamilton lassen es sich in Paris richtig gut gehen. Mit einem innigen Kuss vor dem Eiffelturm gewährt der Reality-Star nun einen besonders privaten Einblick in die Beziehung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350821/1790425016/Img_4_3/250/1Screenshot 2026-09-26 121134.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verkehr läuft wieder an: Kabeldiebstahl in NRW legt Bahn lahm</title>
+                <description>Auf der Schiene rund um Gelsenkirchen geht zwischenzeitlich gar nichts mehr. Unbekannte haben dort Kabel durchtrennt. Betroffen sind auch Fernverkehrsstrecken. Erste Erkenntnisse der Polizei deuten auf Kabeldiebstahl hin.</description>
+                <link>https://www.n-tv.de/panorama/Kabeldiebstahl-in-NRW-legt-Bahn-lahm-id31350882.html</link>
+                <guid>https://www.n-tv.de/panorama/Kabeldiebstahl-in-NRW-legt-Bahn-lahm-id31350882.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 14:01:05 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350885/1790428104/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Auf der Schiene rund um Gelsenkirchen geht zwischenzeitlich gar nichts mehr. Unbekannte haben dort Kabel durchtrennt. Betroffen sind auch Fernverkehrsstrecken. Erste Erkenntnisse der Polizei deuten auf Kabeldiebstahl hin.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350885/1790428104/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>30.000 neue Produkte 2025: Fachleute warnen vor ungeprüften Nahrungsergänzungsmitteln</title>
+                <description>Nahrungsergänzungsmittel boomen, doch behördlich geprüft wird vor dem Verkauf hierzulande nichts. Mediziner und Verbraucherschützer verlangen deshalb von der Bundesregierung schärfere Regeln. Nachbarländer wie Frankreich oder die Schweiz sind längst weiter.</description>
+                <link>https://www.n-tv.de/panorama/Fachleute-warnen-vor-ungeprueften-Nahrungsergaenzungsmitteln-id31350413.html</link>
+                <guid>https://www.n-tv.de/panorama/Fachleute-warnen-vor-ungeprueften-Nahrungsergaenzungsmitteln-id31350413.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 08:16:39 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350437/1790409167/Img_4_3/250/imago0864562738h.jpg" width="250" height="188" align="left" />Nahrungsergänzungsmittel boomen, doch behördlich geprüft wird vor dem Verkauf hierzulande nichts. Mediziner und Verbraucherschützer verlangen deshalb von der Bundesregierung schärfere Regeln. Nachbarländer wie Frankreich oder die Schweiz sind längst weiter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350437/1790409167/Img_4_3/250/imago0864562738h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Xi beendet Besuch bei Trump: China und USA richten Hotline für KI-Vorfälle ein</title>
+                <description>Für Donald Trump soll bei der Entwicklung von KI &quot;alles genau so bleiben, wie es ist&quot; - außer vielleicht, dass KI in Zukunft Superintelligenz heißt. Beim dreitägigen Staatsbesuchs des chinesischen Staatschefs Xi einigt man sich dennoch auf eine Vorsichtsmaßnahme - und noch weitere kleinere Deals.  </description>
+                <link>https://www.n-tv.de/politik/China-und-USA-richten-Hotline-fuer-KI-Vorfaelle-ein-id31350865.html</link>
+                <guid>https://www.n-tv.de/politik/China-und-USA-richten-Hotline-fuer-KI-Vorfaelle-ein-id31350865.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 13:12:58 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350881/1790426932/Img_4_3/250/2026-09-25T145411Z_2060476140_RC2EQNAJ09T9_RTRMADP_3_USA-CHINA.jpg" width="250" height="188" align="left" />Für Donald Trump soll bei der Entwicklung von KI "alles genau so bleiben, wie es ist" - außer vielleicht, dass KI in Zukunft Superintelligenz heißt. Beim dreitägigen Staatsbesuchs des chinesischen Staatschefs Xi einigt man sich dennoch auf eine Vorsichtsmaßnahme - und noch weitere kleinere Deals.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350881/1790426932/Img_4_3/250/2026-09-25T145411Z_2060476140_RC2EQNAJ09T9_RTRMADP_3_USA-CHINA.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kein Mikro für Paul Ziemiak: Die Linke macht es ihren Kritikern leicht - falsch liegen die trotzdem</title>
+                <description>Es ist nicht schwer, die Linke als antisemitisch zu verteufeln, immer wieder gibt es entsprechende Vorfälle in der Partei. Die Kritik aus der Union ist dennoch völlig überzogen - und hoffentlich keine billige Inszenierung.</description>
+                <link>https://www.n-tv.de/politik/politik_kommentare/Die-Linke-macht-es-ihren-Kritikern-leicht-falsch-liegen-die-trotzdem-id31350106.html</link>
+                <guid>https://www.n-tv.de/politik/politik_kommentare/Die-Linke-macht-es-ihren-Kritikern-leicht-falsch-liegen-die-trotzdem-id31350106.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 11:16:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350109/1790381590/Img_4_3/250/621460927.jpg" width="250" height="188" align="left" />Es ist nicht schwer, die Linke als antisemitisch zu verteufeln, immer wieder gibt es entsprechende Vorfälle in der Partei. Die Kritik aus der Union ist dennoch völlig überzogen - und hoffentlich keine billige Inszenierung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350109/1790381590/Img_4_3/250/621460927.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Anfrage der Linken: Knappe Mehrheit der Afghanen auf Abschiebeliste sind keine Straftäter</title>
+                <description>Rund 55 Prozent der Afghanen auf der Abschiebeliste haben keine strafrechtliche Verurteilung. Dennoch sollen sie in ein Land zurück, das von den Taliban regiert wird - und in dem Kritikern zufolge Gewalt und Not herrschen.</description>
+                <link>https://www.n-tv.de/politik/Knappe-Mehrheit-der-Afghanen-auf-Abschiebeliste-sind-keine-Straftaeter-id31350686.html</link>
+                <guid>https://www.n-tv.de/politik/Knappe-Mehrheit-der-Afghanen-auf-Abschiebeliste-sind-keine-Straftaeter-id31350686.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 26 Sep 2026 11:48:56 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31309924/1789502253/Img_4_3/250/610036253.jpg" width="250" height="188" align="left" />Rund 55 Prozent der Afghanen auf der Abschiebeliste haben keine strafrechtliche Verurteilung. Dennoch sollen sie in ein Land zurück, das von den Taliban regiert wird - und in dem Kritikern zufolge Gewalt und Not herrschen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31309924/1789502253/Img_4_3/250/610036253.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Prozess in Alabama abgewendet: Tiktok stimmt Vergleich und damit Millionenzahlung zu</title>
+                <description>Der US-Bundesstaat Alabama wirft Tiktok vor, Minderjährige in eine Social-Media-Sucht zu treiben. Kurz vor Prozessbeginn lenkt die Videoplattform ein und will zahlen. Der Betrag liegt im dreistelligen Millionenbereich, steht aber noch nicht genau fest.</description>
+                <link>https://www.n-tv.de/wirtschaft/Tiktok-stimmt-Vergleich-und-damit-Millionenzahlung-zu-id31350637.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Tiktok-stimmt-Vergleich-und-damit-Millionenzahlung-zu-id31350637.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 26 Sep 2026 11:33:48 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350642/1790418351/Img_4_3/250/606587540.jpg" width="250" height="188" align="left" />Der US-Bundesstaat Alabama wirft Tiktok vor, Minderjährige in eine Social-Media-Sucht zu treiben. Kurz vor Prozessbeginn lenkt die Videoplattform ein und will zahlen. Der Betrag liegt im dreistelligen Millionenbereich, steht aber noch nicht genau fest.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350642/1790418351/Img_4_3/250/606587540.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nächster Ausbruch: KI von OpenAI lud Nutzer-Bilder auf Online-Plattformen hoch</title>
+                <description>OpenAI verliert erneut die Kontrolle über seine KI: Nutzerbilder aus Daten von ChatGPT-Nutzern tauchen plötzlich auf fremden Plattformen auf. Die Sicherheitsalarmglocken werden lauter.</description>
+                <link>https://www.n-tv.de/wirtschaft/KI-von-OpenAI-lud-Nutzer-Bilder-auf-Online-Plattformen-hoch-id31350448.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/KI-von-OpenAI-lud-Nutzer-Bilder-auf-Online-Plattformen-hoch-id31350448.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 26 Sep 2026 10:53:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350454/1790412505/Img_4_3/250/2026-09-24T234900Z_1930453634_RC2ALNA5L3CJ_RTRMADP_3_AI-OPENAI-CYBERSECURITY.jpg" width="250" height="188" align="left" />OpenAI verliert erneut die Kontrolle über seine KI: Nutzerbilder aus Daten von ChatGPT-Nutzern tauchen plötzlich auf fremden Plattformen auf. Die Sicherheitsalarmglocken werden lauter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350454/1790412505/Img_4_3/250/2026-09-24T234900Z_1930453634_RC2ALNA5L3CJ_RTRMADP_3_AI-OPENAI-CYBERSECURITY.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ablageort zugestimmt: Pakete landen immer häufiger vor der Haustür</title>
+                <description>Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketdienst soll es einfach vor die Tür legen, finden viele. Doch das ist nicht ohne Risiko.</description>
+                <link>https://www.n-tv.de/wirtschaft/Pakete-landen-immer-haeufiger-vor-der-Haustuer-id31350398.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Pakete-landen-immer-haeufiger-vor-der-Haustuer-id31350398.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 26 Sep 2026 07:02:50 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350395/1790406594/Img_4_3/250/621577567.jpg" width="250" height="188" align="left" />Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketdienst soll es einfach vor die Tür legen, finden viele. Doch das ist nicht ohne Risiko.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350395/1790406594/Img_4_3/250/621577567.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Heftige Abrechnung: &quot;Verdient es nicht&quot;: Weltmeister Norris wütet gegen Unglücksraben</title>
+                <description>Formel-1-Weltmeister Lando Norris verliert in Baku wichtige Punkte im Kampf um die WM-Wertung. Die Verantwortung dafür trägt Konkurrent Franco Colapinto. Der räumt mit seinem Alpine gleich zwei Wagen ab. Norris ist mächtig wütend.</description>
+                <link>https://www.n-tv.de/sport/formel1/Verdient-es-nicht-Weltmeister-Norris-wuetet-gegen-Ungluecksraben-id31351567.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Verdient-es-nicht-Weltmeister-Norris-wuetet-gegen-Ungluecksraben-id31351567.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 19:35:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351569/1790449252/Img_4_3/250/imago1083814266h.jpg" width="250" height="188" align="left" />Formel-1-Weltmeister Lando Norris verliert in Baku wichtige Punkte im Kampf um die WM-Wertung. Die Verantwortung dafür trägt Konkurrent Franco Colapinto. Der räumt mit seinem Alpine gleich zwei Wagen ab. Norris ist mächtig wütend.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351569/1790449252/Img_4_3/250/imago1083814266h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Finalschmach: Bayern-Basketballer zerlegen Meister gnadenlos</title>
+                <description>Vor drei Monaten erleben die Basketballer des FC Bayern die schmerzhafteste Stunde ihrer jungen Geschichte. Gegen Alba Berlin verspielen sie dramatisch die Meisterschaft. Nun, beim ersten Aufeinandertreffen seit der Finalserie, läuft es alles andere als spannend ab.</description>
+                <link>https://www.n-tv.de/sport/Bayern-Basketballer-zerlegen-Meister-gnadenlos-id31351563.html</link>
+                <guid>https://www.n-tv.de/sport/Bayern-Basketballer-zerlegen-Meister-gnadenlos-id31351563.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 18:51:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31351560/1790448558/Img_4_3/250/imago1083816665h.jpg" width="250" height="188" align="left" />Vor drei Monaten erleben die Basketballer des FC Bayern die schmerzhafteste Stunde ihrer jungen Geschichte. Gegen Alba Berlin verspielen sie dramatisch die Meisterschaft. Nun, beim ersten Aufeinandertreffen seit der Finalserie, läuft es alles andere als spannend ab.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31351560/1790448558/Img_4_3/250/imago1083816665h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Als Zehner im DFB-Team gefordert: Klopp erteilt Sorgenkind Wirtz denkbar einfachen Auftrag </title>
+                <description>Florian Wirtz ersetzt Jamal Musiala beim Spiel der deutschen Nationalmannschaft gegen Griechenland. Weil es in Liverpool nicht wirklich läuft, kommt er aber nicht mit breiter Brust zum DFB. Verleiht Jürgen Klopp dem Sorgenkind nun wieder Flügel?</description>
+                <link>https://www.n-tv.de/sport/fussball/Klopp-erteilt-Sorgenkind-Wirtz-denkbar-einfachen-Auftrag-id31350641.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Klopp-erteilt-Sorgenkind-Wirtz-denkbar-einfachen-Auftrag-id31350641.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 10:58:14 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31336426/1790422341/Img_4_3/250/imago1083153304h.jpg" width="250" height="188" align="left" />Florian Wirtz ersetzt Jamal Musiala beim Spiel der deutschen Nationalmannschaft gegen Griechenland. Weil es in Liverpool nicht wirklich läuft, kommt er aber nicht mit breiter Brust zum DFB. Verleiht Jürgen Klopp dem Sorgenkind nun wieder Flügel?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31336426/1790422341/Img_4_3/250/imago1083153304h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Historische Demütigung&quot;: Als die legendären &quot;Busby Babes&quot; erstmals auf Europa losgelassen wurden   </title>
+                <description>Das Ende dieser wunderbaren Truppe war tragisch - doch als die Reise nach Europa vor genau 70 Jahren begann, stellten die &quot;Busby Babes&quot; aus Manchester gleich einen Rekord für die Ewigkeit auf.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-die-legendaeren-Busby-Babes-erstmals-auf-Europa-losgelassen-wurden-id31349079.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-die-legendaeren-Busby-Babes-erstmals-auf-Europa-losgelassen-wurden-id31349079.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 10:28:11 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31349059/1790351551/Img_4_3/250/imago0003456949h.jpg" width="250" height="188" align="left" />Das Ende dieser wunderbaren Truppe war tragisch - doch als die Reise nach Europa vor genau 70 Jahren begann, stellten die "Busby Babes" aus Manchester gleich einen Rekord für die Ewigkeit auf.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31349059/1790351551/Img_4_3/250/imago0003456949h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Es wird brutal hart&quot; : Kein Sawe, kein Problem: In Berlin wackeln mehrere Rekorde</title>
+                <description>In der Hauptstadt findet am Sonntag das größte Lauf-Highlight Deutschlands statt. Auch wenn der Weltrekordler verletzungsbedingt fehlt, sollen beim Berlin-Marathon (live bei RTL) mehrere Bestmarken fallen. Eine deutsche Durchstarterin spielte eine prominente Rolle.</description>
+                <link>https://www.n-tv.de/sport/leichtathletik/Berlin-Marathon-2026-Pfeiffer-und-Assefa-attackieren-Rekorde-kein-Sawe-kein-Problem-id31338531.html</link>
+                <guid>https://www.n-tv.de/sport/leichtathletik/Berlin-Marathon-2026-Pfeiffer-und-Assefa-attackieren-Rekorde-kein-Sawe-kein-Problem-id31338531.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 08:01:07 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31338554/1790162894/Img_4_3/250/imago1075363071h.jpg" width="250" height="188" align="left" />In der Hauptstadt findet am Sonntag das größte Lauf-Highlight Deutschlands statt. Auch wenn der Weltrekordler verletzungsbedingt fehlt, sollen beim Berlin-Marathon (live bei RTL) mehrere Bestmarken fallen. Eine deutsche Durchstarterin spielte eine prominente Rolle.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31338554/1790162894/Img_4_3/250/imago1075363071h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Und jetzt komplizierter?: Jürgen Klopp bekommt das perfekte Geschenk zum Debüt</title>
+                <description>Das Debüt hat Jürgen Klopp absolviert, in den nächsten Tagen geht es für seine deutsche Fußball-Nationalmannschaft weiter. Es könnte komplizierter werden.</description>
+                <link>https://www.n-tv.de/sport/fussball/Juergen-Klopp-bekommt-das-perfekte-Geschenk-zum-Debuet-id31349100.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Juergen-Klopp-bekommt-das-perfekte-Geschenk-zum-Debuet-id31349100.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 07:39:42 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31349399/1790422361/Img_4_3/250/2026-09-24T205957Z_917930939_UP1EM9O1MBV11_RTRMADP_3_SOCCER-UEFANATIONS-NLD-GER.jpg" width="250" height="188" align="left" />Das Debüt hat Jürgen Klopp absolviert, in den nächsten Tagen geht es für seine deutsche Fußball-Nationalmannschaft weiter. Es könnte komplizierter werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31349399/1790422361/Img_4_3/250/2026-09-24T205957Z_917930939_UP1EM9O1MBV11_RTRMADP_3_SOCCER-UEFANATIONS-NLD-GER.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klagewelle droht: Manchester City steht vor &quot;bodenlosem Abgrund der Hölle&quot;</title>
+                <description>Schuldig in 114 von 115 Punkten: Eine Kommission kommt zu dem Schluss, dass Manchester City die Finanzregeln der Premier League jahrelang missachtet hat. Ein Beben, das den englischen Fußball erschüttert - und dessen Folgen noch nicht absehbar sind.</description>
+                <link>https://www.n-tv.de/sport/fussball/Manchester-City-steht-vor-bodenlosem-Abgrund-der-Hoelle-id31350447.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Manchester-City-steht-vor-bodenlosem-Abgrund-der-Hoelle-id31350447.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 09:07:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350385/1790412788/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Schuldig in 114 von 115 Punkten: Eine Kommission kommt zu dem Schluss, dass Manchester City die Finanzregeln der Premier League jahrelang missachtet hat. Ein Beben, das den englischen Fußball erschüttert - und dessen Folgen noch nicht absehbar sind.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350385/1790412788/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;War das alles?&quot;: Heftiges Pfeifkonzert stürzt Mancini und Italien direkt in die Krise</title>
+                <description>Roberto Mancini soll Italiens Fußball wieder zu altem Glanz verhelfen. Sein Start als Krisenmanager und Hoffnungsträger geht aber in die Hose. Die Fans reagieren eindeutig.</description>
+                <link>https://www.n-tv.de/sport/fussball/Heftiges-Pfeifkonzert-stuerzt-Mancini-und-Italien-direkt-in-die-Krise-id31350407.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Heftiges-Pfeifkonzert-stuerzt-Mancini-und-Italien-direkt-in-die-Krise-id31350407.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 26 Sep 2026 09:25:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350406/1790406047/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Roberto Mancini soll Italiens Fußball wieder zu altem Glanz verhelfen. Sein Start als Krisenmanager und Hoffnungsträger geht aber in die Hose. Die Fans reagieren eindeutig.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350406/1790406047/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Italien-Drama geht weiter: Zidane hat schon Sorgen - Frankreichs Superstar Mbappé muss abreisen</title>
+                <description>Frankreich startet mit einem knappen Sieg in die Ära Zinédine Zidane. Sorgen gibt es aber um Stürmer Kylian Mbappé, der sich beim Tor des Tages verletzt. Die italienische Elf verliert auch mit ihrem neuen Coach - es hagelt Pfiffe. </description>
+                <link>https://www.n-tv.de/sport/fussball/Zidane-hat-schon-Sorgen-Frankreichs-Superstar-Mbappe-muss-abreisen-id31350004.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Zidane-hat-schon-Sorgen-Frankreichs-Superstar-Mbappe-muss-abreisen-id31350004.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 25 Sep 2026 22:50:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31350005/1790372644/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Frankreich startet mit einem knappen Sieg in die Ära Zinédine Zidane. Sorgen gibt es aber um Stürmer Kylian Mbappé, der sich beim Tor des Tages verletzt. Die italienische Elf verliert auch mit ihrem neuen Coach - es hagelt Pfiffe. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31350005/1790372644/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>200 Millionen im Pott: Fury und Joshua kämpfen um absurden &quot;Super-Champion&quot;-Titel</title>
+                <description>Nach Jahren vergeblichen Wartens fechten Tyson Fury und Anthony Joshua endlich die Battle of Britain aus. Der Kampf ist ein solches Pfund, dass er locker ohne Titel auskommt. Ein Verband entblödet sich aber nicht, das Altherren-Duell zur &quot;WM&quot; auszurufen.</description>
+                <link>https://www.n-tv.de/sport/Fury-und-Joshua-kaempfen-um-absurden-Super-Champion-Titel-id31348768.html</link>
+                <guid>https://www.n-tv.de/sport/Fury-und-Joshua-kaempfen-um-absurden-Super-Champion-Titel-id31348768.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 25 Sep 2026 21:56:01 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/30699748/1790374648/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach Jahren vergeblichen Wartens fechten Tyson Fury und Anthony Joshua endlich die Battle of Britain aus. Der Kampf ist ein solches Pfund, dass er locker ohne Titel auskommt. Ein Verband entblödet sich aber nicht, das Altherren-Duell zur "WM" auszurufen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/30699748/1790374648/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Geschlechterkampf an der Urne: Warum wählen junge Frauen immer linker - und junge Männer rechts?</title>
+                <description>Die vergangenen Wahlen zeigen einen Trend bei jungen Menschen. Zwischen den Geschlechtern tut sich ein politischer Graben auf. Woher kommen diese unterschiedlichen Entwicklungen?</description>
+                <link>https://www.n-tv.de/panorama/Warum-waehlen-junge-Frauen-immer-linker-und-junge-Maenner-rechts-id31348362.html</link>
+                <guid>https://www.n-tv.de/panorama/Warum-waehlen-junge-Frauen-immer-linker-und-junge-Maenner-rechts-id31348362.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 26 Sep 2026 10:52:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31348706/1790347666/Img_4_3/250/618264553.jpg" width="250" height="188" align="left" />Die vergangenen Wahlen zeigen einen Trend bei jungen Menschen. Zwischen den Geschlechtern tut sich ein politischer Graben auf. Woher kommen diese unterschiedlichen Entwicklungen?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31348706/1790347666/Img_4_3/250/618264553.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
