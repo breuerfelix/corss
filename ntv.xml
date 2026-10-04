@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sun, 04 Oct 2026 02:36:39 +0200</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Angriffe auf Dnipro-Brücken: Jetzt will Russland Kiew spalten</title>
+                <description>Am Samstagmorgen erreicht die jüngste russische Angriffswelle gegen Kiew auch die Nordbrücke über den Dnipro. Für die Millionenstadt, die ohnehin unter ständigem Beschuss und Stromausfällen leidet, wird die Trennung der Uferseiten zum Problem.</description>
+                <link>https://www.n-tv.de/politik/Jetzt-will-Russland-Kiew-spalten-id31377512.html</link>
+                <guid>https://www.n-tv.de/politik/Jetzt-will-Russland-Kiew-spalten-id31377512.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 19:33:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377613/1791055102/Img_4_3/250/Kiyv_bridge.jpg" width="250" height="188" align="left" />Am Samstagmorgen erreicht die jüngste russische Angriffswelle gegen Kiew auch die Nordbrücke über den Dnipro. Für die Millionenstadt, die ohnehin unter ständigem Beschuss und Stromausfällen leidet, wird die Trennung der Uferseiten zum Problem.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377613/1791055102/Img_4_3/250/Kiyv_bridge.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Realitätsferne&quot; Aussagen : ISW: Russland verliert mehr Territorium, als es besetzt - und Putin halluziniert</title>
+                <description>Für die ukrainischen Truppen hat sich die Lage an der Front gebessert. Im vergangenen Monat sollen sie sogar etwas mehr Territorium befreit haben als an die russischen Streitkräfte verloren ging. Möglicherweise weiß das auch Kremlchef Putin - und eskaliert dafür den Krieg gegen Zivilisten immer weiter.</description>
+                <link>https://www.n-tv.de/politik/ISW-Putin-halluziniert-mehr-Gebiet-verloren-als-gewonnen-id31377769.html</link>
+                <guid>https://www.n-tv.de/politik/ISW-Putin-halluziniert-mehr-Gebiet-verloren-als-gewonnen-id31377769.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 23:28:02 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377774/1791069971/Img_4_3/250/imago0868464090h.jpg" width="250" height="188" align="left" />Für die ukrainischen Truppen hat sich die Lage an der Front gebessert. Im vergangenen Monat sollen sie sogar etwas mehr Territorium befreit haben als an die russischen Streitkräfte verloren ging. Möglicherweise weiß das auch Kremlchef Putin - und eskaliert dafür den Krieg gegen Zivilisten immer weiter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377774/1791069971/Img_4_3/250/imago0868464090h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verbindung zu Trump-Verbündeten: Bericht: Ukraine-Friedensgespräche hängen an Öl-Deal für Russland</title>
+                <description>Bei einem möglichen Verkauf russischer Lukoil-Anlagen könnten laut &quot;New York Times&quot; Investoren mit Verbindungen zu Donald Trump profitieren. Der Deal sollte Teil möglicher Friedensgespräche mit der Ukraine sein.</description>
+                <link>https://www.n-tv.de/politik/Bericht-Ukraine-Friedensgespraeche-haengen-an-Oel-Deal-fuer-Russland-id31377161.html</link>
+                <guid>https://www.n-tv.de/politik/Bericht-Ukraine-Friedensgespraeche-haengen-an-Oel-Deal-fuer-Russland-id31377161.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 14:56:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377200/1791038247/Img_4_3/250/imago0865979471h.jpg" width="250" height="188" align="left" />Bei einem möglichen Verkauf russischer Lukoil-Anlagen könnten laut "New York Times" Investoren mit Verbindungen zu Donald Trump profitieren. Der Deal sollte Teil möglicher Friedensgespräche mit der Ukraine sein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377200/1791038247/Img_4_3/250/imago0865979471h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Systematische Angriffe&quot;: Russland kündigt Vergeltung an - Ausländer sollen Kiew verlassen</title>
+                <description>Angriffe auf Schiffe im Schwarzen Meer und Energieanlagen haben zuletzt auf beiden Seiten zugenommen. Nun richtet das russische Außenministerium eine eindringliche Warnung auch an Ausländer und Diplomaten in der ukrainischen Hauptstadt.</description>
+                <link>https://www.n-tv.de/politik/Russland-kuendigt-Vergeltung-an-Auslaender-sollen-Kiew-verlassen-id31377393.html</link>
+                <guid>https://www.n-tv.de/politik/Russland-kuendigt-Vergeltung-an-Auslaender-sollen-Kiew-verlassen-id31377393.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 17:14:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377394/1791045034/Img_4_3/250/imago0868101001h.jpg" width="250" height="188" align="left" />Angriffe auf Schiffe im Schwarzen Meer und Energieanlagen haben zuletzt auf beiden Seiten zugenommen. Nun richtet das russische Außenministerium eine eindringliche Warnung auch an Ausländer und Diplomaten in der ukrainischen Hauptstadt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377394/1791045034/Img_4_3/250/imago0868101001h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Flávio fordert Lula heraus : Bolsonaro &quot;Zero-um&quot; will auch Brasilien auf rechts drehen</title>
+                <description>Der Sohn des verurteilten Ex-Präsidenten Jair Bolsonaro an die Macht. Bei Brasiliens Präsidentschaftswahl will er sich unter anderen gegen Staatschef Lula da Silva durchsetzen. Der sei ein Komplize krimineller Gruppen, meint eine Bolsonarista.</description>
+                <link>https://www.n-tv.de/politik/Bolsonaro-Zero-um-will-auch-Brasilien-auf-rechts-drehen-id31375820.html</link>
+                <guid>https://www.n-tv.de/politik/Bolsonaro-Zero-um-will-auch-Brasilien-auf-rechts-drehen-id31375820.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 18:15:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31375943/1790971741/Img_4_3/250/imago0868175422h.jpg" width="250" height="188" align="left" />Der Sohn des verurteilten Ex-Präsidenten Jair Bolsonaro an die Macht. Bei Brasiliens Präsidentschaftswahl will er sich unter anderen gegen Staatschef Lula da Silva durchsetzen. Der sei ein Komplize krimineller Gruppen, meint eine Bolsonarista.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31375943/1790971741/Img_4_3/250/imago0868175422h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Israel greift Wohnung an: Ranghöchster Hamas-Vertreter im Gazastreifen könnte tot sein</title>
+                <description>Seit dem Angriff der Hamas hat Israel unzählige Führungspersönlichkeiten der Terrororganisation ausgeschaltet. Doch besiegt ist die radikalislamische Miliz trotzdem nicht. Nun soll es eine weitere Attacke gegeben haben.</description>
+                <link>https://www.n-tv.de/politik/Ranghoechster-Hamas-Vertreter-im-Gazastreifen-koennte-tot-sein-id31377776.html</link>
+                <guid>https://www.n-tv.de/politik/Ranghoechster-Hamas-Vertreter-im-Gazastreifen-koennte-tot-sein-id31377776.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 23:56:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377777/1791071453/Img_4_3/250/imago0847699832h.jpg" width="250" height="188" align="left" />Seit dem Angriff der Hamas hat Israel unzählige Führungspersönlichkeiten der Terrororganisation ausgeschaltet. Doch besiegt ist die radikalislamische Miliz trotzdem nicht. Nun soll es eine weitere Attacke gegeben haben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377777/1791071453/Img_4_3/250/imago0847699832h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ballistische Raketen eingesetzt: Huthi greifen Ölanlage in Saudi-Arabiens Hauptstadt an</title>
+                <description>Das Vorrücken der Huthi-Miliz im Jemen verstärkt die Sorgen vor einer noch größeren Belastung der Weltwirtschaft durch steigende Ölpreise. Nun soll es zu einer weiteren schweren Attacke auf Saudi-Arabien gekommen sein.</description>
+                <link>https://www.n-tv.de/politik/Huthi-greifen-Oelanlage-in-Saudi-Arabiens-Hauptstadt-an-id31377791.html</link>
+                <guid>https://www.n-tv.de/politik/Huthi-greifen-Oelanlage-in-Saudi-Arabiens-Hauptstadt-an-id31377791.html</guid>
+                <category>Politik</category>
+                <pubDate>Sun, 04 Oct 2026 01:52:44 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377792/1791078502/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Das Vorrücken der Huthi-Miliz im Jemen verstärkt die Sorgen vor einer noch größeren Belastung der Weltwirtschaft durch steigende Ölpreise. Nun soll es zu einer weiteren schweren Attacke auf Saudi-Arabien gekommen sein.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377792/1791078502/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Das, was ihnen Geld bringt&quot;: Ukraine will Angriffe auf russische Ölraffinerien verstärken</title>
+                <description>Präsident Selenskyj wirft Moskau vor, die Bevölkerung mit Angriffen auf Energieversorgung und Infrastruktur aus den Städten vertreiben zu wollen. Die Ukraine macht sich ebenfalls die russische Energieversorgung zum Ziel. An rasche Friedensgespräche glaubt der Präsident nicht.</description>
+                <link>https://www.n-tv.de/politik/Ukraine-will-Angriffe-auf-russische-Oelraffinerien-verstaerken-id31377711.html</link>
+                <guid>https://www.n-tv.de/politik/Ukraine-will-Angriffe-auf-russische-Oelraffinerien-verstaerken-id31377711.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 21:44:06 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377713/1791060420/Img_4_3/250/imago0868301265h.jpg" width="250" height="188" align="left" />Präsident Selenskyj wirft Moskau vor, die Bevölkerung mit Angriffen auf Energieversorgung und Infrastruktur aus den Städten vertreiben zu wollen. Die Ukraine macht sich ebenfalls die russische Energieversorgung zum Ziel. An rasche Friedensgespräche glaubt der Präsident nicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377713/1791060420/Img_4_3/250/imago0868301265h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Für 99,99 Euro: Deutsche Bahn bietet Familienticket dauerhaft an</title>
+                <description>Das ursprünglich lediglich für die Sommerferien eingeführte Familienticket kommt an. Mehr als 200.000 Menschen haben es bis Ende Juli genutzt. Bahnchefin Palla verkündet nun eine frohe Botschaft.</description>
+                <link>https://www.n-tv.de/politik/Deutsche-Bahn-bietet-Familienticket-dauerhaft-an-id31377582.html</link>
+                <guid>https://www.n-tv.de/politik/Deutsche-Bahn-bietet-Familienticket-dauerhaft-an-id31377582.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 19:11:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377583/1791052869/Img_4_3/250/imago0249856442h.jpg" width="250" height="188" align="left" />Das ursprünglich lediglich für die Sommerferien eingeführte Familienticket kommt an. Mehr als 200.000 Menschen haben es bis Ende Juli genutzt. Bahnchefin Palla verkündet nun eine frohe Botschaft.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377583/1791052869/Img_4_3/250/imago0249856442h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Superlaune fast überall: &quot;Macht, was ihr wollt&quot;: Klopp kapituliert in der K-Frage</title>
+                <description>Die deutsche Fußball-Nationalmannschaft steht vor der letzten Partie der XXL-Länderspielpause. Bei Bundestrainer Jürgen Klopp ist die Laune vor dem Griechenland-Rückspiel prächtig - nur bei einem Thema nicht.</description>
+                <link>https://www.n-tv.de/sport/fussball/Macht-was-ihr-wollt-Klopp-kapituliert-in-der-K-Frage-id31377724.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Macht-was-ihr-wollt-Klopp-kapituliert-in-der-K-Frage-id31377724.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 22:14:51 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377725/1791064179/Img_4_3/250/623046283.jpg" width="250" height="188" align="left" />Die deutsche Fußball-Nationalmannschaft steht vor der letzten Partie der XXL-Länderspielpause. Bei Bundestrainer Jürgen Klopp ist die Laune vor dem Griechenland-Rückspiel prächtig - nur bei einem Thema nicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377725/1791064179/Img_4_3/250/623046283.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ideologie basiert auf Mord&quot;: Pressekonferenz vor brisantem Nations-League-Duell eskaliert</title>
+                <description>Schon beim Hinspiel in der Nations League geht es zwischen Israel und Irland mehr um Politik als um Fußball. Nun eskaliert das Duell schon einen Tag vor dem Aufeinandertreffen: Die Pressekonferenz wird abgebrochen. </description>
+                <link>https://www.n-tv.de/sport/fussball/Pressekonferenz-vor-brisantem-Nations-League-Duell-eskaliert-id31377450.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Pressekonferenz-vor-brisantem-Nations-League-Duell-eskaliert-id31377450.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 17:20:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377456/1791046779/Img_4_3/250/imago1084073556h.jpg" width="250" height="188" align="left" />Schon beim Hinspiel in der Nations League geht es zwischen Israel und Irland mehr um Politik als um Fußball. Nun eskaliert das Duell schon einen Tag vor dem Aufeinandertreffen: Die Pressekonferenz wird abgebrochen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377456/1791046779/Img_4_3/250/imago1084073556h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Hab&apos; schon ausgemistet&quot; : Sharon Brauner sagt (und singt) &quot;Bye bye Berlin&quot;</title>
+                <description>Sie überlegt, Berlin zu verlassen. Es ist keine Kapitulation, eher eine logische Konsequenz. Leicht fällt es ihr nicht: Sharon Brauner wurde in West-Berlin geboren, ist dort zur Schule gegangen, lebt, liebt und arbeitet in Berlin. Brauner lässt ntv.de an ihren Gedanken zu Heimat und Hoffnung teilhaben. </description>
+                <link>https://www.n-tv.de/panorama/Sharon-Brauner-sagt-und-singt-Bye-bye-Berlin-id31362433.html</link>
+                <guid>https://www.n-tv.de/panorama/Sharon-Brauner-sagt-und-singt-Bye-bye-Berlin-id31362433.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 17:14:49 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376837/1791027829/Img_4_3/250/Jan Feldmann.jpg" width="250" height="188" align="left" />Sie überlegt, Berlin zu verlassen. Es ist keine Kapitulation, eher eine logische Konsequenz. Leicht fällt es ihr nicht: Sharon Brauner wurde in West-Berlin geboren, ist dort zur Schule gegangen, lebt, liebt und arbeitet in Berlin. Brauner lässt ntv.de an ihren Gedanken zu Heimat und Hoffnung teilhaben. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376837/1791027829/Img_4_3/250/Jan Feldmann.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Rotation abgesagt: Klopp gibt Torhüter eine Einsatzgarantie</title>
+                <description>Die Rotation ist abgesagt: Jürgen Klopp vertraut zum zweiten Mal hintereinander auf denselben Torhüter. Gegen Griechenland müssen die beiden Keeper mit null Einsätzen erneut zuschauen. Stattdessen ist erneut Jonas Urbig gefordert.</description>
+                <link>https://www.n-tv.de/sport/fussball/Klopp-gibt-Torhueter-eine-Einsatzgarantie-id31377590.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Klopp-gibt-Torhueter-eine-Einsatzgarantie-id31377590.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 20:16:59 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377595/1791054317/Img_4_3/250/622984435.jpg" width="250" height="188" align="left" />Die Rotation ist abgesagt: Jürgen Klopp vertraut zum zweiten Mal hintereinander auf denselben Torhüter. Gegen Griechenland müssen die beiden Keeper mit null Einsätzen erneut zuschauen. Stattdessen ist erneut Jonas Urbig gefordert.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377595/1791054317/Img_4_3/250/622984435.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Historische Pleite: Bei Kanes Rekord blamiert sich Kroatien bis auf die Knochen</title>
+                <description>Dominanz, Spielfreude wie im Rausch, Tore noch und nöcher: Englands Fußballer machen Nationaltrainer Thomas Tuchel sehr glücklich. Allen voran zeigt mal wieder Harry Kane seine Klasse - und sichert sich den nächsten Rekord. </description>
+                <link>https://www.n-tv.de/sport/fussball/Bei-Kanes-Rekord-blamiert-sich-Kroatien-bis-auf-die-Knochen-id31377663.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Bei-Kanes-Rekord-blamiert-sich-Kroatien-bis-auf-die-Knochen-id31377663.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 21:44:32 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377665/1791058000/Img_4_3/250/623054032.jpg" width="250" height="188" align="left" />Dominanz, Spielfreude wie im Rausch, Tore noch und nöcher: Englands Fußballer machen Nationaltrainer Thomas Tuchel sehr glücklich. Allen voran zeigt mal wieder Harry Kane seine Klasse - und sichert sich den nächsten Rekord. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377665/1791058000/Img_4_3/250/623054032.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ausfall für Nationalteam?: DFB-Kapitänin Gwinn sorgt für Schreckmoment im Topspiel</title>
+                <description>Der FC Bayern bleibt in der Frauen-Bundesliga weiter ungeschlagen. Im Spitzenspiel gegen Eintracht Frankfurt tun sich die Münchnerinnen aber schwer. Außerdem gibt es Sorgen um DFB-Kapitänin Giulia Gwinn.</description>
+                <link>https://www.n-tv.de/sport/fussball/DFB-Kapitaenin-Gwinn-sorgt-fuer-Schreckmoment-im-Topspiel-id31377650.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/DFB-Kapitaenin-Gwinn-sorgt-fuer-Schreckmoment-im-Topspiel-id31377650.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 19:58:07 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377649/1791057302/Img_4_3/250/623050414.jpg" width="250" height="188" align="left" />Der FC Bayern bleibt in der Frauen-Bundesliga weiter ungeschlagen. Im Spitzenspiel gegen Eintracht Frankfurt tun sich die Münchnerinnen aber schwer. Außerdem gibt es Sorgen um DFB-Kapitänin Giulia Gwinn.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377649/1791057302/Img_4_3/250/623050414.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>So erkennt man einen Befall: Motten im Kleiderschrank: Warum sie im Herbst zum Problem werden</title>
+                <description>Wenn die Temperaturen sinken, wandern Wollpullover, Schals und Mäntel wieder nach vorne im Kleiderschrank. Genau dort können sich Kleidermotten wohlfühlen. So erkennt man einen Befall und schützt seine Kleidung.</description>
+                <link>https://www.n-tv.de/ratgeber/Motten-im-Kleiderschrank-Warum-sie-im-Herbst-zum-Problem-werden-id31368793.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Motten-im-Kleiderschrank-Warum-sie-im-Herbst-zum-Problem-werden-id31368793.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 03 Oct 2026 19:03:37 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31369992/1790866145/Img_4_3/250/imago0824092280h.jpg" width="250" height="188" align="left" />Wenn die Temperaturen sinken, wandern Wollpullover, Schals und Mäntel wieder nach vorne im Kleiderschrank. Genau dort können sich Kleidermotten wohlfühlen. So erkennt man einen Befall und schützt seine Kleidung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31369992/1790866145/Img_4_3/250/imago0824092280h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Alle ziehen an uns rum&quot;: Habeck sieht Deutschland als &quot;easy target&quot; für Autokraten</title>
+                <description>Der frühere Vizekanzler Habeck warnt, ausländische Mächte könnten Deutschlands historische und gesellschaftliche Brüche gezielt ausnutzen. Auch die Algorithmen großer US-Plattformen fördern ihm zufolge eine abgeschottete politische Wahrnehmungen.</description>
+                <link>https://www.n-tv.de/politik/Habeck-sieht-Deutschland-als-easy-target-fuer-Autokraten-id31377533.html</link>
+                <guid>https://www.n-tv.de/politik/Habeck-sieht-Deutschland-als-easy-target-fuer-Autokraten-id31377533.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 18:11:51 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377540/1791050559/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der frühere Vizekanzler Habeck warnt, ausländische Mächte könnten Deutschlands historische und gesellschaftliche Brüche gezielt ausnutzen. Auch die Algorithmen großer US-Plattformen fördern ihm zufolge eine abgeschottete politische Wahrnehmungen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377540/1791050559/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Mussten uns alles erarbeiten&quot;: Warum immer mehr Deutschpolen die AfD wählen</title>
+                <description>Die AfD gewinnt unter Menschen polnischer Herkunft an Zuspruch. Gründe dafür erfährt eine polnische Gemeinderätin in Löcknitz in Mecklenburg-Vorpommern im Gespräch mit Anwohnern. Die Entwicklung macht sie dennoch fassungslos.</description>
+                <link>https://www.n-tv.de/politik/Warum-immer-mehr-Deutschpolen-die-AfD-waehlen-id31369807.html</link>
+                <guid>https://www.n-tv.de/politik/Warum-immer-mehr-Deutschpolen-die-AfD-waehlen-id31369807.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 13:02:20 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31369986/1790865985/Img_4_3/250/620341642.jpg" width="250" height="188" align="left" />Die AfD gewinnt unter Menschen polnischer Herkunft an Zuspruch. Gründe dafür erfährt eine polnische Gemeinderätin in Löcknitz in Mecklenburg-Vorpommern im Gespräch mit Anwohnern. Die Entwicklung macht sie dennoch fassungslos.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31369986/1790865985/Img_4_3/250/620341642.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Autos ins Meer gespült: Heftige Regenfälle sorgen für Überschwemmungen auf Kreta</title>
+                <description>Auf der Urlaubsinsel Kreta geht es derzeit wenig erholsam zu. Regenmassen sorgen dort für Überschwemmungen. Die Behörden haben alle Hände voll zu tun, um die Sicherheit der Bewohner zu gewährleisten. </description>
+                <link>https://www.n-tv.de/panorama/Heftige-Regenfaelle-sorgen-fuer-Ueberschwemmungen-auf-Kreta-id31377727.html</link>
+                <guid>https://www.n-tv.de/panorama/Heftige-Regenfaelle-sorgen-fuer-Ueberschwemmungen-auf-Kreta-id31377727.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 22:12:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377728/1791063733/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Auf der Urlaubsinsel Kreta geht es derzeit wenig erholsam zu. Regenmassen sorgen dort für Überschwemmungen. Die Behörden haben alle Hände voll zu tun, um die Sicherheit der Bewohner zu gewährleisten. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377728/1791063733/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Hinrichtungs-Fiasko: Tennessees Gefängnis-Chef tritt zurück</title>
+                <description>Die fehlgeschlagene Giftinjektion bei der Mörderin Christa Pike zwingt den Chef des Strafvollzugs in Tennessee zum Rücktritt. Gouverneur Lee zieht derweil die Notbremse und stoppt sämtliche Hinrichtungen im US-Bundesstaat.</description>
+                <link>https://www.n-tv.de/panorama/Tennessees-Gefaengnis-Chef-tritt-zurueck-id31377673.html</link>
+                <guid>https://www.n-tv.de/panorama/Tennessees-Gefaengnis-Chef-tritt-zurueck-id31377673.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 20:32:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377687/1791058884/Img_4_3/250/612609056.jpg" width="250" height="188" align="left" />Die fehlgeschlagene Giftinjektion bei der Mörderin Christa Pike zwingt den Chef des Strafvollzugs in Tennessee zum Rücktritt. Gouverneur Lee zieht derweil die Notbremse und stoppt sämtliche Hinrichtungen im US-Bundesstaat.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377687/1791058884/Img_4_3/250/612609056.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unter einer Voraussetzung: Renault investiert kräftig auf dem Heimatmarkt</title>
+                <description>Renault will in den kommenden fünf Jahren mehr als zehn Milliarden Euro in elektrische und günstigere Modelle stecken. Konzernchef Provost knüpft die Pläne allerdings an ein stabiles soziales und politisches Umfeld.</description>
+                <link>https://www.n-tv.de/wirtschaft/Renault-investiert-kraeftig-auf-dem-Heimatmarkt-id31377250.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Renault-investiert-kraeftig-auf-dem-Heimatmarkt-id31377250.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 15:51:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377274/1791040751/Img_4_3/250/imago0773599039h.jpg" width="250" height="188" align="left" />Renault will in den kommenden fünf Jahren mehr als zehn Milliarden Euro in elektrische und günstigere Modelle stecken. Konzernchef Provost knüpft die Pläne allerdings an ein stabiles soziales und politisches Umfeld.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377274/1791040751/Img_4_3/250/imago0773599039h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fahrer ergreift die Flucht:  Pick-up überfährt deutsche Urlauber auf Thailand</title>
+                <description>Khao Lak ist eine beliebte Urlaubsregion auf dem thailändischen Festland. Auch deutsche Touristen mögen die bergige Region an der Westküste des Landes. Thailand ist jedoch nicht nur für weiße Sandstrände, sondern auch für schlechte Straßen und rasende Autofahrer bekannt. </description>
+                <link>https://www.n-tv.de/panorama/Pick-up-ueberfaehrt-deutsche-Urlauber-auf-Thailand-id31377012.html</link>
+                <guid>https://www.n-tv.de/panorama/Pick-up-ueberfaehrt-deutsche-Urlauber-auf-Thailand-id31377012.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 13:22:57 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377036/1791033129/Img_4_3/250/screenshot-2026-10-03-093643.jpg" width="250" height="188" align="left" />Khao Lak ist eine beliebte Urlaubsregion auf dem thailändischen Festland. Auch deutsche Touristen mögen die bergige Region an der Westküste des Landes. Thailand ist jedoch nicht nur für weiße Sandstrände, sondern auch für schlechte Straßen und rasende Autofahrer bekannt. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377036/1791033129/Img_4_3/250/screenshot-2026-10-03-093643.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mehr als Small Talk: Was gute Gespräche wirklich ausmacht</title>
+                <description>&quot;Geht&apos;s gut?&quot;, &quot;Wie war das Wochenende?&quot;: Austausch im Alltag bleibt oft oberflächlich. Viele vermissen echte Verbindung. Warum bedeutungsvolle Gespräche wichtig sind - und wie man sie führt.</description>
+                <link>https://www.n-tv.de/panorama/Was-gute-Gespraeche-wirklich-ausmacht-id31360746.html</link>
+                <guid>https://www.n-tv.de/panorama/Was-gute-Gespraeche-wirklich-ausmacht-id31360746.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 16:04:36 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31360998/1790692751/Img_4_3/250/imago0845920462h.jpg" width="250" height="188" align="left" />"Geht's gut?", "Wie war das Wochenende?": Austausch im Alltag bleibt oft oberflächlich. Viele vermissen echte Verbindung. Warum bedeutungsvolle Gespräche wichtig sind - und wie man sie führt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31360998/1790692751/Img_4_3/250/imago0845920462h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wat nix kost, dat is auch nix&quot;: Als der FC Schalke 04 mit einem riskanten Trick einen Starspieler holte </title>
+                <description>Im Sommer 1974 waren die Kassen beim FC Schalke 04 mal wieder nicht ausreichend gefüllt. Doch Präsident Siebert wollte unbedingt einen Transfer durchziehen. Dann kam ihm eine pfiffige Idee, über die bis heute gesprochen wird.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-der-FC-Schalke-04-mit-einem-riskanten-Trick-einen-Starspieler-holte-id31368307.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-der-FC-Schalke-04-mit-einem-riskanten-Trick-einen-Starspieler-holte-id31368307.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 06:45:13 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31368225/1791018079/Img_4_3/250/imago0000603983h.jpg" width="250" height="188" align="left" />Im Sommer 1974 waren die Kassen beim FC Schalke 04 mal wieder nicht ausreichend gefüllt. Doch Präsident Siebert wollte unbedingt einen Transfer durchziehen. Dann kam ihm eine pfiffige Idee, über die bis heute gesprochen wird.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31368225/1791018079/Img_4_3/250/imago0000603983h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schweiz siegt nach &quot;Impfaffäre&quot; : Spanien wackelt nach Yamal-Schlenzer - wird aber nicht bestraft</title>
+                <description>Und auch im 41. Spiel unbezwingbar: Spanien marschiert weiter durch die Nations League. Der Fußball-Weltmeister führt zwar lange gegen Tschechien, braucht am Ende aber doch noch starke Nerven. Die Schweiz lässt sich derweil nicht ausbremsen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Spanien-wackelt-nach-Yamal-Schlenzer-wird-aber-nicht-bestraft-id31377768.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Spanien-wackelt-nach-Yamal-Schlenzer-wird-aber-nicht-bestraft-id31377768.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 23:06:02 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377767/1791068302/Img_4_3/250/623065972.jpg" width="250" height="188" align="left" />Und auch im 41. Spiel unbezwingbar: Spanien marschiert weiter durch die Nations League. Der Fußball-Weltmeister führt zwar lange gegen Tschechien, braucht am Ende aber doch noch starke Nerven. Die Schweiz lässt sich derweil nicht ausbremsen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377767/1791068302/Img_4_3/250/623065972.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auf historischem Wanderweg: Deutscher stürzt in Südtirol 50 Meter in die Tiefe - tot</title>
+                <description>Seine Ehefrau schlägt Alarm, doch für den Wanderer kommt jede Hilfe zu spät: In Südtirol endet eine Tour für einen deutschen Urlauber tödlich. Der 80-Jährige ist zuvor vom Weg abgekommen.</description>
+                <link>https://www.n-tv.de/panorama/Deutscher-stuerzt-in-Suedtirol-50-Meter-in-die-Tiefe-tot-id31377621.html</link>
+                <guid>https://www.n-tv.de/panorama/Deutscher-stuerzt-in-Suedtirol-50-Meter-in-die-Tiefe-tot-id31377621.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 20:31:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377624/1791055324/Img_4_3/250/314475098.jpg" width="250" height="188" align="left" />Seine Ehefrau schlägt Alarm, doch für den Wanderer kommt jede Hilfe zu spät: In Südtirol endet eine Tour für einen deutschen Urlauber tödlich. Der 80-Jährige ist zuvor vom Weg abgekommen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377624/1791055324/Img_4_3/250/314475098.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Spritpreisbremse tritt in Kraft: Normalbenzin kostet in Polen jetzt 1,54 Euro </title>
+                <description>Seit Jahren ist Polen das Paradies deutscher Autofahrer - zumindest was die Preise an der Tankstelle angeht. Ab diesem Wochenende dürfte ein Abstecher ins Nachbarland für viele noch einmal attraktiver werden.</description>
+                <link>https://www.n-tv.de/wirtschaft/Normalbenzin-kostet-in-Polen-jetzt-1-54-Euro-id31376757.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Normalbenzin-kostet-in-Polen-jetzt-1-54-Euro-id31376757.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 11:52:06 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376777/1791025965/Img_4_3/250/586836026.jpg" width="250" height="188" align="left" />Seit Jahren ist Polen das Paradies deutscher Autofahrer - zumindest was die Preise an der Tankstelle angeht. Ab diesem Wochenende dürfte ein Abstecher ins Nachbarland für viele noch einmal attraktiver werden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376777/1791025965/Img_4_3/250/586836026.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wer gewinnt das Rennen?: KI-Horrorwarnungen sind die ideale Werbung für Techriesen</title>
+                <description>Die Entwickler Künstlicher Intelligenz warnen vor dem eigenen Produkt. Was paradox klingt, dürfte sich auszahlen. Welches Risiko real ist, spielt dabei gar keine Rolle. </description>
+                <link>https://www.n-tv.de/wirtschaft/KI-Horrorwarnungen-sind-die-ideale-Werbung-fuer-Techriesen-id31370676.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/KI-Horrorwarnungen-sind-die-ideale-Werbung-fuer-Techriesen-id31370676.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 10:38:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31370672/1790872412/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Entwickler Künstlicher Intelligenz warnen vor dem eigenen Produkt. Was paradox klingt, dürfte sich auszahlen. Welches Risiko real ist, spielt dabei gar keine Rolle. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31370672/1790872412/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Hollywoodstar räumt mit Lüge auf: Michael Douglas gesteht heimliche Affäre mit Kathleen Turner</title>
+                <description>Vier Jahrzehnte lang behaupten Michael Douglas und Kathleen Turner, sie haben bei den Dreharbeiten ihres ersten gemeinamen Films lediglich eine unglaubliche Chemie gehabt. Mehr soll zwischen ihnen aber nie passiert sein. In seinen Memoiren klingt das jetzt anders.</description>
+                <link>https://www.n-tv.de/leute/Michael-Douglas-gesteht-heimliche-Affaere-mit-Kathleen-Turner-id31377205.html</link>
+                <guid>https://www.n-tv.de/leute/Michael-Douglas-gesteht-heimliche-Affaere-mit-Kathleen-Turner-id31377205.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 03 Oct 2026 15:19:53 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377210/1791038638/Img_4_3/250/85929601.jpg" width="250" height="188" align="left" />Vier Jahrzehnte lang behaupten Michael Douglas und Kathleen Turner, sie haben bei den Dreharbeiten ihres ersten gemeinamen Films lediglich eine unglaubliche Chemie gehabt. Mehr soll zwischen ihnen aber nie passiert sein. In seinen Memoiren klingt das jetzt anders.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377210/1791038638/Img_4_3/250/85929601.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Pandemie, Gewalt, Chaos: Auf Jo Nesbos &quot;Insel der Ratten&quot; bricht die Apokalypse los</title>
+                <description>Erst eine Pandemie. Dann Arbeitslosigkeit, Armut und Gewalt. Das Gesetz des Stärkeren regiert. Ein ultravermögender Doomsday-Prepper fliegt auf die &quot;Insel der Ratten&quot; und plant eine &quot;Arche Noah der Reichen&quot;. Sein Sohn plündert, brandschatzt, mordet - bis sich ihm ein Familienvater in den Weg stellt.</description>
+                <link>https://www.n-tv.de/leute/hoerbuecher/Auf-Jo-Nesbos-Insel-der-Ratten-bricht-die-Apokalypse-los-id31360110.html</link>
+                <guid>https://www.n-tv.de/leute/hoerbuecher/Auf-Jo-Nesbos-Insel-der-Ratten-bricht-die-Apokalypse-los-id31360110.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 03 Oct 2026 11:54:10 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31360224/1790684719/Img_4_3/250/542885615.jpg" width="250" height="188" align="left" />Erst eine Pandemie. Dann Arbeitslosigkeit, Armut und Gewalt. Das Gesetz des Stärkeren regiert. Ein ultravermögender Doomsday-Prepper fliegt auf die "Insel der Ratten" und plant eine "Arche Noah der Reichen". Sein Sohn plündert, brandschatzt, mordet - bis sich ihm ein Familienvater in den Weg stellt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31360224/1790684719/Img_4_3/250/542885615.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Aufzeichnung endet über Ozean: Kleinflugzeug startet in Bermuda und verschwindet spurlos</title>
+                <description>Ein Kleinflugzeug hebt in Bermuda ab und fliegt in Richtung Boston. Plötzlich bricht der Kontakt zu der Maschine ab. Auch Stunden danach bleibt vieles offen.</description>
+                <link>https://www.n-tv.de/panorama/Kleinflugzeug-startet-in-Bermuda-und-verschwindet-spurlos-id31377510.html</link>
+                <guid>https://www.n-tv.de/panorama/Kleinflugzeug-startet-in-Bermuda-und-verschwindet-spurlos-id31377510.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 18:13:36 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377516/1791049349/Img_4_3/250/imago0514194261h.jpg" width="250" height="188" align="left" />Ein Kleinflugzeug hebt in Bermuda ab und fliegt in Richtung Boston. Plötzlich bricht der Kontakt zu der Maschine ab. Auch Stunden danach bleibt vieles offen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377516/1791049349/Img_4_3/250/imago0514194261h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Für immer Single?: Für Ben Affleck hat Dating &quot;einfach keine große Priorität&quot; </title>
+                <description>Bei der Vorstellung seines neuen Films gibt Ben Affleck seltene Einblicke in seinen Alltag. Dabei erklärt der Hollywoodstar, was ihm derzeit besonders wichtig ist – und welche Rolle eine neue Beziehung für ihn spielt.</description>
+                <link>https://www.n-tv.de/leute/Fuer-Ben-Affleck-hat-Dating-einfach-keine-grosse-Prioritaet-id31377677.html</link>
+                <guid>https://www.n-tv.de/leute/Fuer-Ben-Affleck-hat-Dating-einfach-keine-grosse-Prioritaet-id31377677.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 03 Oct 2026 20:31:16 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377686/1791058860/Img_4_3/250/imago0868464280h.jpg" width="250" height="188" align="left" />Bei der Vorstellung seines neuen Films gibt Ben Affleck seltene Einblicke in seinen Alltag. Dabei erklärt der Hollywoodstar, was ihm derzeit besonders wichtig ist – und welche Rolle eine neue Beziehung für ihn spielt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377686/1791058860/Img_4_3/250/imago0868464280h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Der &quot;Tatort&quot; im Schnellcheck: 90 Minuten echte Gefühle</title>
+                <description>In Ludwigshafen sprengt sich ein Panzerknacker beim Einbruch in die Luft, Geld verschwindet dennoch. Lena Odenthal und Johanna Stern erwartet eine &quot;Explosive Mischung&quot; in Realtime.</description>
+                <link>https://www.n-tv.de/leute/tv/90-Minuten-echte-Gefuehle-id31370749.html</link>
+                <guid>https://www.n-tv.de/leute/tv/90-Minuten-echte-Gefuehle-id31370749.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 03 Oct 2026 15:02:45 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31370757/1790873556/Img_4_3/250/Tatort_Explosive_Mischung_1.jpg" width="250" height="188" align="left" />In Ludwigshafen sprengt sich ein Panzerknacker beim Einbruch in die Luft, Geld verschwindet dennoch. Lena Odenthal und Johanna Stern erwartet eine "Explosive Mischung" in Realtime.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31370757/1790873556/Img_4_3/250/Tatort_Explosive_Mischung_1.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wieduwilts Woche: Jürgen Klopp for Bundespräsident!</title>
+                <description>Während die Regierung gegen den Zusammenbruch ankämpft, nennt Frank-Walter Steinmeier Teile der Bevölkerung &quot;vulgär&quot;. Wenigstens bleibt die Formulierung in Erinnerung - wenn schon sonst nichts aus seiner Amtszeit.</description>
+                <link>https://www.n-tv.de/politik/politik_wieduwilts_woche/Juergen-Klopp-for-Bundespraesident-id31376534.html</link>
+                <guid>https://www.n-tv.de/politik/politik_wieduwilts_woche/Juergen-Klopp-for-Bundespraesident-id31376534.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 09:40:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376556/1791019643/Img_4_3/250/622852885.jpg" width="250" height="188" align="left" />Während die Regierung gegen den Zusammenbruch ankämpft, nennt Frank-Walter Steinmeier Teile der Bevölkerung "vulgär". Wenigstens bleibt die Formulierung in Erinnerung - wenn schon sonst nichts aus seiner Amtszeit.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376556/1791019643/Img_4_3/250/622852885.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Präsident warnt am Einheitstag: Steinmeier konstatiert eine &quot;Lust an der Zerstörung&quot;</title>
+                <description>Fast vier Jahrzehnte nach dem Mauerfall sieht Bundespräsident Steinmeier eine profunde Vertrauenskrise. Große Teile der Bürger erklärten ihr Misstrauen gegen die politische Ordnung der Bundesrepublik, sagt das Staatsoberhaupt am Tag der Deutschen Einheit.</description>
+                <link>https://www.n-tv.de/politik/Steinmeier-konstatiert-eine-Lust-an-der-Zerstoerung-id31377074.html</link>
+                <guid>https://www.n-tv.de/politik/Steinmeier-konstatiert-eine-Lust-an-der-Zerstoerung-id31377074.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 13:54:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377088/1791034687/Img_4_3/250/622992616.jpg" width="250" height="188" align="left" />Fast vier Jahrzehnte nach dem Mauerfall sieht Bundespräsident Steinmeier eine profunde Vertrauenskrise. Große Teile der Bürger erklärten ihr Misstrauen gegen die politische Ordnung der Bundesrepublik, sagt das Staatsoberhaupt am Tag der Deutschen Einheit.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377088/1791034687/Img_4_3/250/622992616.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auch Reiche erhielt Anwaltspost: Sächsisches Innenministerium löscht Kritik an Berliner Linken</title>
+                <description>Als die Linke die Berliner Abgeordnetenhauswahl gewinnt, kann Sachsens Innenminister nicht mehr an sich halten: Auf den offiziellen Kanälen des Ministeriums kritisiert er die Partei. Doch dann geht Anwaltspost ein. Das Ministerium reagiert.</description>
+                <link>https://www.n-tv.de/politik/Saechsisches-Innenministerium-loescht-Kritik-an-Berliner-Linken-id31376569.html</link>
+                <guid>https://www.n-tv.de/politik/Saechsisches-Innenministerium-loescht-Kritik-an-Berliner-Linken-id31376569.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 10:35:46 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376600/1791021096/Img_4_3/250/613950208.jpg" width="250" height="188" align="left" />Als die Linke die Berliner Abgeordnetenhauswahl gewinnt, kann Sachsens Innenminister nicht mehr an sich halten: Auf den offiziellen Kanälen des Ministeriums kritisiert er die Partei. Doch dann geht Anwaltspost ein. Das Ministerium reagiert.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376600/1791021096/Img_4_3/250/613950208.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dutzenden droht die Exekution: Mullahs richten Mann im Morgengrauen hin</title>
+                <description>Rigoros geht der Iran gegen Oppositionelle vor. Allein im vergangenen Jahr wurden mehr als 2000 Todesurteile vollstreckt. In diesem Jahr trifft es zahlreiche Demonstranten.  </description>
+                <link>https://www.n-tv.de/politik/Mullahs-richten-Mann-im-Morgengrauen-hin-id31376533.html</link>
+                <guid>https://www.n-tv.de/politik/Mullahs-richten-Mann-im-Morgengrauen-hin-id31376533.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 03 Oct 2026 10:19:51 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376565/1791019835/Img_4_3/250/616333141 (1).jpg" width="250" height="188" align="left" />Rigoros geht der Iran gegen Oppositionelle vor. Allein im vergangenen Jahr wurden mehr als 2000 Todesurteile vollstreckt. In diesem Jahr trifft es zahlreiche Demonstranten.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376565/1791019835/Img_4_3/250/616333141 (1).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kaufkraft sinkt dramatisch: Irans Währung im freien Fall</title>
+                <description>Krieg, Sanktionen und Blockaden:  Die iranische Wirtschaft liegt am Boden. Mit drastischen Auswirkungen für die Bevölkerung.</description>
+                <link>https://www.n-tv.de/wirtschaft/Irans-Waehrung-im-freien-Fall-id31376994.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Irans-Waehrung-im-freien-Fall-id31376994.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 13:27:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377025/1791032533/Img_4_3/250/617505982.jpg" width="250" height="188" align="left" />Krieg, Sanktionen und Blockaden:  Die iranische Wirtschaft liegt am Boden. Mit drastischen Auswirkungen für die Bevölkerung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377025/1791032533/Img_4_3/250/617505982.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Niedriger Rhein bei Düsseldorf: Frachtschiff kämpft sich nach fünf Tagen von Sandbank frei</title>
+                <description>Der Rhein führt nach wie vor wenig Wasser. Das wird einem mit Kleintransportern beladenen Frachtschiff am Montag bei Düsseldorf zum Verhängnis. Nach fünf Tagen kann es die Fahrt fortsetzen. In der Schuldfrage zoffen sich die Logistikfirma und die Hafenverwaltung. </description>
+                <link>https://www.n-tv.de/wirtschaft/Frachtschiff-kaempft-sich-nach-fuenf-Tagen-von-Sandbank-frei-id31376937.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Frachtschiff-kaempft-sich-nach-fuenf-Tagen-von-Sandbank-frei-id31376937.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 13:01:05 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376953/1791030195/Img_4_3/250/622979518.jpg" width="250" height="188" align="left" />Der Rhein führt nach wie vor wenig Wasser. Das wird einem mit Kleintransportern beladenen Frachtschiff am Montag bei Düsseldorf zum Verhängnis. Nach fünf Tagen kann es die Fahrt fortsetzen. In der Schuldfrage zoffen sich die Logistikfirma und die Hafenverwaltung. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376953/1791030195/Img_4_3/250/622979518.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Reinfall mit Kinder-Outfit: Zara zieht Halloween-Kostüm im KZ-Look zurück  </title>
+                <description>Zu Halloween suchen viele Menschen gruselige Kostüme. Die spanische Modekette Zara schießt übers Ziel hinaus. Ein Kinder-Outfit erinnert an Häftlingskleidung aus der NS-Zeit. Es ist allerdings nicht das erste Mal, dass Zara solch ein Fauxpas unterläuft.</description>
+                <link>https://www.n-tv.de/wirtschaft/Zara-zieht-Halloween-Kostuem-im-KZ-Look-zurueck-id31376817.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Zara-zieht-Halloween-Kostuem-im-KZ-Look-zurueck-id31376817.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 03 Oct 2026 12:49:11 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376864/1791028120/Img_4_3/250/620843422.jpg" width="250" height="188" align="left" />Zu Halloween suchen viele Menschen gruselige Kostüme. Die spanische Modekette Zara schießt übers Ziel hinaus. Ein Kinder-Outfit erinnert an Häftlingskleidung aus der NS-Zeit. Es ist allerdings nicht das erste Mal, dass Zara solch ein Fauxpas unterläuft.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376864/1791028120/Img_4_3/250/620843422.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>In 55 Minuten erledigt: Überlegener Zverev rast ins Kracher-Duell mit Djokovic</title>
+                <description>Kurzer Prozess mit seinem Achtelfinalgegner Shang Jungcheng - und nun wartet zum Dank das Duell mit Seriensieger Novak Djokovic: Für Alexander Zverev geht es beim ATP-Turnier in China nicht nur um das reine Duell. Sondern auch um den ganz großen Traum. </description>
+                <link>https://www.n-tv.de/sport/Ueberlegener-Zverev-rast-ins-Kracher-Duell-mit-Djokovic-id31377203.html</link>
+                <guid>https://www.n-tv.de/sport/Ueberlegener-Zverev-rast-ins-Kracher-Duell-mit-Djokovic-id31377203.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 14:58:39 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31377201/1791038250/Img_4_3/250/imago1084007386h.jpg" width="250" height="188" align="left" />Kurzer Prozess mit seinem Achtelfinalgegner Shang Jungcheng - und nun wartet zum Dank das Duell mit Seriensieger Novak Djokovic: Für Alexander Zverev geht es beim ATP-Turnier in China nicht nur um das reine Duell. Sondern auch um den ganz großen Traum. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31377201/1791038250/Img_4_3/250/imago1084007386h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Italien feiert &quot;kleines Wunder&quot;: Upamecano fliegt und reist ab, Olise schießt perfektes Tor</title>
+                <description>Die Heimpremiere von Zinédine Zidane als Nationaltrainer von Frankreich läuft nicht wie gewünscht. Das aufmüpfige Italien erkämpft sich ein Remis. Für Staunen sorgt indes einmal mehr Bayerns Superstar Michael Olise.</description>
+                <link>https://www.n-tv.de/sport/fussball/Upamecano-fliegt-und-reist-ab-Olise-schiesst-perfektes-Tor-id31376954.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Upamecano-fliegt-und-reist-ab-Olise-schiesst-perfektes-Tor-id31376954.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 12:50:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376744/1791028024/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Heimpremiere von Zinédine Zidane als Nationaltrainer von Frankreich läuft nicht wie gewünscht. Das aufmüpfige Italien erkämpft sich ein Remis. Für Staunen sorgt indes einmal mehr Bayerns Superstar Michael Olise.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376744/1791028024/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Max Verstappen kann&apos;s doch noch: &quot;Ratlos&quot; - Mercedes&apos; Formel-1-Plan geht mächtig nach hinten los</title>
+                <description>Max Verstappen fährt in Malaysia in einer eigenen Liga. In Sepang holt er seine erste Pole Position in diesem Formel-1-Jahr. Kimi Antonelli schlägt seinen WM-Verfolger.</description>
+                <link>https://www.n-tv.de/sport/formel1/Ratlos-Mercedes-Formel-1-Plan-geht-maechtig-nach-hinten-los-id31376797.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Ratlos-Mercedes-Formel-1-Plan-geht-maechtig-nach-hinten-los-id31376797.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 12:13:25 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376790/1791025898/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Max Verstappen fährt in Malaysia in einer eigenen Liga. In Sepang holt er seine erste Pole Position in diesem Formel-1-Jahr. Kimi Antonelli schlägt seinen WM-Verfolger.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376790/1791025898/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auch eine Frage des Geldes: Formel 1 hält trotz Krieg an fragwürdigen Plänen fest</title>
+                <description>Es soll dabei bleiben: Trotz des anhaltenden Iran-Kriegs, der schon zu zwei Absagen in der Formel 1 geführt hat, sollen die beiden letzten Rennen in Katar und Abu Dhabi stattfinden.</description>
+                <link>https://www.n-tv.de/sport/formel1/Formel-1-haelt-trotz-Krieg-an-fragwuerdigen-Plaenen-fest-id31376536.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Formel-1-haelt-trotz-Krieg-an-fragwuerdigen-Plaenen-fest-id31376536.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 09:53:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376415/1791021683/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Es soll dabei bleiben: Trotz des anhaltenden Iran-Kriegs, der schon zu zwei Absagen in der Formel 1 geführt hat, sollen die beiden letzten Rennen in Katar und Abu Dhabi stattfinden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376415/1791021683/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Inakzeptabler&quot; Vorfall: Haitis Fußballern wird Zutritt zum &quot;Derby&quot; verweigert</title>
+                <description>Haitis Fußball-Fans versuchen im Länderspiel-&quot;Derby&quot; gewaltsam ins ausverkaufte Stadion zu kommen, ein Spieler des Teams provoziert nach Toren. Die Regierung der Dominikanischen Republik reagiert knallhart.</description>
+                <link>https://www.n-tv.de/sport/fussball/Haitis-Fussballern-wird-Zutritt-zum-Derby-verweigert-id31376409.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Haitis-Fussballern-wird-Zutritt-zum-Derby-verweigert-id31376409.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 08:15:12 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/5646260/1752243965/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Haitis Fußball-Fans versuchen im Länderspiel-"Derby" gewaltsam ins ausverkaufte Stadion zu kommen, ein Spieler des Teams provoziert nach Toren. Die Regierung der Dominikanischen Republik reagiert knallhart.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/5646260/1752243965/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klopp reißt ganzes Land an sich: Ach, der Jürgen</title>
+                <description>Die Fußball-Nation Deutschland verliebt sich wieder in die Nationalmannschaft. Nach der großen WM-Depression reißt Jürgen Klopp das Land aus der Lethargie. Weil er abseits des Feld besonders geschickt agiert.</description>
+                <link>https://www.n-tv.de/sport/fussball/DFB-Team-und-Deutschland-euphorisiert-Juergen-Klopp-reisst-ganzes-Land-an-sich-id31376364.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/DFB-Team-und-Deutschland-euphorisiert-Juergen-Klopp-reisst-ganzes-Land-an-sich-id31376364.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 14:59:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31371895/1790922217/Img_4_3/250/imago1084029139h.jpg" width="250" height="188" align="left" />Die Fußball-Nation Deutschland verliebt sich wieder in die Nationalmannschaft. Nach der großen WM-Depression reißt Jürgen Klopp das Land aus der Lethargie. Weil er abseits des Feld besonders geschickt agiert.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31371895/1790922217/Img_4_3/250/imago1084029139h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schutz für Rui Pinto endet: &quot;Eine Entscheidung mit dramatischen Folgen&quot;</title>
+                <description>Es ist einer der größten Skandale im englischen Fußball. Manchester City wird wegen Verstößen gegen Finanzregeln schuldig gesprochen. Der Whistleblower Rui Pinto sorgt sich derweil um seine Sicherheit.</description>
+                <link>https://www.n-tv.de/sport/fussball/Eine-Entscheidung-mit-dramatischen-Folgen-id31376350.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Eine-Entscheidung-mit-dramatischen-Folgen-id31376350.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 07:25:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376343/1791009559/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Es ist einer der größten Skandale im englischen Fußball. Manchester City wird wegen Verstößen gegen Finanzregeln schuldig gesprochen. Der Whistleblower Rui Pinto sorgt sich derweil um seine Sicherheit.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376343/1791009559/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Das ganze Land spielt verrückt: Bosnien-Herzegowina legt sich Edin Dzeko zu Füßen</title>
+                <description>Bosniens Fußball-Held Edin Dzeko spielt ein letztes Mal für sein Land, das den Stürmer feiert. Beim finalen Auftritt im Auswahltrikot gibt es ein Remis gegen Schweden.</description>
+                <link>https://www.n-tv.de/sport/fussball/Bosnien-Herzegowina-legt-sich-Edin-Dzeko-zu-Fuessen-id31376316.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Bosnien-Herzegowina-legt-sich-Edin-Dzeko-zu-Fuessen-id31376316.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 03 Oct 2026 06:02:30 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31376310/1791018093/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Bosniens Fußball-Held Edin Dzeko spielt ein letztes Mal für sein Land, das den Stürmer feiert. Beim finalen Auftritt im Auswahltrikot gibt es ein Remis gegen Schweden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31376310/1791018093/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sehnen nach vertrauten Abläufen: Warum Vergangenes so attraktiv wirken kann</title>
+                <description>Früher war alles besser: Eine komplizierte Gegenwart kann zu nostalgischer Verklärung führen. Die Ansicht, besonders krisengeschüttelt zu sein, haben wir heute aber nicht exklusiv, sagt der Historiker Tobias Becker.</description>
+                <link>https://www.n-tv.de/panorama/Warum-Vergangenes-so-attraktiv-wirken-kann-id31292501.html</link>
+                <guid>https://www.n-tv.de/panorama/Warum-Vergangenes-so-attraktiv-wirken-kann-id31292501.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 11:07:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31292551/1789055251/Img_4_3/250/5485420.jpg" width="250" height="188" align="left" />Früher war alles besser: Eine komplizierte Gegenwart kann zu nostalgischer Verklärung führen. Die Ansicht, besonders krisengeschüttelt zu sein, haben wir heute aber nicht exklusiv, sagt der Historiker Tobias Becker.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31292551/1789055251/Img_4_3/250/5485420.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Was von der &quot;Ostfrau&quot; übrig ist: Wie haben Frauen aus der DDR Deutschland geprägt?</title>
+                <description>Das Klischee der &quot;Ostfrau&quot; hält sich hartnäckig. Doch dahinter stehen reale Erfahrungen, die bis heute weitergetragen werden und Frauen in der ganzen Bundesrepublik seit der Wende beeinflussen.</description>
+                <link>https://www.n-tv.de/panorama/Wie-haben-Frauen-aus-der-DDR-Deutschland-gepraegt-id31372964.html</link>
+                <guid>https://www.n-tv.de/panorama/Wie-haben-Frauen-aus-der-DDR-Deutschland-gepraegt-id31372964.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 03 Oct 2026 09:09:17 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31374862/1790952671/Img_4_3/250/14442784.jpg" width="250" height="188" align="left" />Das Klischee der "Ostfrau" hält sich hartnäckig. Doch dahinter stehen reale Erfahrungen, die bis heute weitergetragen werden und Frauen in der ganzen Bundesrepublik seit der Wende beeinflussen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31374862/1790952671/Img_4_3/250/14442784.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
