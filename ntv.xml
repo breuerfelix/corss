@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sun, 18 Oct 2026 01:01:28 +0200</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Ausschreitungen in Frankreich: Randalierer setzen Rathaus von Limoges in Flammen</title>
+                <description>In Frankreich eskaliert der landesweite Protest gegen hohe Lebenshaltungskosten und niedrige Löhne. In vielen Städten kommt es zu schweren Krawallen. In Marseille und Paris werden Geschäfte  geplündert, in Limoges brennt das historische Rathaus. Es gibt rund 1200 Festnahmen. </description>
+                <link>https://www.n-tv.de/politik/Randalierer-setzen-Rathaus-von-Limoges-in-Flammen-id31429969.html</link>
+                <guid>https://www.n-tv.de/politik/Randalierer-setzen-Rathaus-von-Limoges-in-Flammen-id31429969.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 21:41:26 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430150/1792279689/Img_4_3/250/image.jpg" width="250" height="188" align="left" />In Frankreich eskaliert der landesweite Protest gegen hohe Lebenshaltungskosten und niedrige Löhne. In vielen Städten kommt es zu schweren Krawallen. In Marseille und Paris werden Geschäfte  geplündert, in Limoges brennt das historische Rathaus. Es gibt rund 1200 Festnahmen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430150/1792279689/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kanzler bei der Jungen Union: Es läuft auf ein Ultimatum für Merz hinaus</title>
+                <description>Beim &quot;Deutschlandtag&quot; der Jungen Union bleibt es weitgehend friedlich zwischen Kanzler und Parteinachwuchs. Doch die Geduld der Delegierten ist endlich. Das Thema bleibt das Gleiche.</description>
+                <link>https://www.n-tv.de/politik/politik_kommentare/Es-laeuft-auf-ein-Ultimatum-fuer-Merz-hinaus-id31429568.html</link>
+                <guid>https://www.n-tv.de/politik/politik_kommentare/Es-laeuft-auf-ein-Ultimatum-fuer-Merz-hinaus-id31429568.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 16:56:20 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429573/1792252271/Img_4_3/250/625925032.jpg" width="250" height="188" align="left" />Beim "Deutschlandtag" der Jungen Union bleibt es weitgehend friedlich zwischen Kanzler und Parteinachwuchs. Doch die Geduld der Delegierten ist endlich. Das Thema bleibt das Gleiche.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429573/1792252271/Img_4_3/250/625925032.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Völlig unverantwortlich&quot;: Parteikollegen geißeln Trumps Russland-Kurs</title>
+                <description>Nur Tage nach dem umstrittenen Diesel-Deal mit Moskau legt Trump die geplanten Sanktionen gegen Russland auf Eis. Top-Demokrat Schumer spricht von einem Geschenk an Putin. Selbst in den Reihen der Republikaner hagelt es Protest.</description>
+                <link>https://www.n-tv.de/politik/Parteikollegen-geisseln-Trumps-Russland-Kurs-id31430076.html</link>
+                <guid>https://www.n-tv.de/politik/Parteikollegen-geisseln-Trumps-Russland-Kurs-id31430076.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 22:42:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430082/1792275175/Img_4_3/250/626035972.jpg" width="250" height="188" align="left" />Nur Tage nach dem umstrittenen Diesel-Deal mit Moskau legt Trump die geplanten Sanktionen gegen Russland auf Eis. Top-Demokrat Schumer spricht von einem Geschenk an Putin. Selbst in den Reihen der Republikaner hagelt es Protest.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430082/1792275175/Img_4_3/250/626035972.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sondierungspapier vorgestellt: Rot-Grün-Rot steht vor Koalitionsverhandlungen - das sind die Pläne für Berlin</title>
+                <description>Rot-Grün-Rot in Berlin nimmt eine wichtige Hürde. Nach dem Abschluss der Sondierungsgespräche legen Linke, Grüne und SPD ihre Pläne für die Zukunft der Hauptstadt vor. Auch bei der Vergesellschaftung gibt es eine Einigung - obwohl SPD-Chef Krach das Vorhaben im Wahlkampf abgelehnt hatte.</description>
+                <link>https://www.n-tv.de/politik/Rot-Gruen-Rot-steht-vor-Koalitionsverhandlungen-das-sind-die-Plaene-fuer-Berlin-id31429769.html</link>
+                <guid>https://www.n-tv.de/politik/Rot-Gruen-Rot-steht-vor-Koalitionsverhandlungen-das-sind-die-Plaene-fuer-Berlin-id31429769.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 18:30:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429770/1792257294/Img_4_3/250/625974652.jpg" width="250" height="188" align="left" />Rot-Grün-Rot in Berlin nimmt eine wichtige Hürde. Nach dem Abschluss der Sondierungsgespräche legen Linke, Grüne und SPD ihre Pläne für die Zukunft der Hauptstadt vor. Auch bei der Vergesellschaftung gibt es eine Einigung - obwohl SPD-Chef Krach das Vorhaben im Wahlkampf abgelehnt hatte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429770/1792257294/Img_4_3/250/625974652.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fragen-Attacke bei Junger Union: Und am Ende wirft sich Winkel schützend vor Merz</title>
+                <description>Im vergangenen Jahr eskalierte der Besuch von Kanzler Merz bei der Jungen Union - und dieses Mal? Geht es gesitteter zu. Auch weil alle Seiten sich bemühen, es nicht noch einmal so weit kommen zu lassen. Doch dann fordert ein Delegierter Merz zum Rücktritt auf. </description>
+                <link>https://www.n-tv.de/politik/Und-am-Ende-wirft-sich-Winkel-schuetzend-vor-Merz-id31429341.html</link>
+                <guid>https://www.n-tv.de/politik/Und-am-Ende-wirft-sich-Winkel-schuetzend-vor-Merz-id31429341.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 14:22:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429346/1792245767/Img_4_3/250/625913059.jpg" width="250" height="188" align="left" />Im vergangenen Jahr eskalierte der Besuch von Kanzler Merz bei der Jungen Union - und dieses Mal? Geht es gesitteter zu. Auch weil alle Seiten sich bemühen, es nicht noch einmal so weit kommen zu lassen. Doch dann fordert ein Delegierter Merz zum Rücktritt auf. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429346/1792245767/Img_4_3/250/625913059.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unternehmen ab 10.000 Einheiten: Linke, Grüne und SPD wollen Wohnungen vergesellschaften</title>
+                <description>Wohnraum war eines der zentralen Themen im Wahlkampf und die Linke hatte mit dem Versprechen nach Enteignungen gepunktet. In den Sondierungsverhandlungen einigt sie sich mit SPD und Grünen nun auf Vergesellschaftungen und eine Preisobergrenze.</description>
+                <link>https://www.n-tv.de/politik/Linke-Gruene-und-SPD-wollen-Wohnungen-vergesellschaften-id31429787.html</link>
+                <guid>https://www.n-tv.de/politik/Linke-Gruene-und-SPD-wollen-Wohnungen-vergesellschaften-id31429787.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:43:01 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429788/1792258310/Img_4_3/250/606006551.jpg" width="250" height="188" align="left" />Wohnraum war eines der zentralen Themen im Wahlkampf und die Linke hatte mit dem Versprechen nach Enteignungen gepunktet. In den Sondierungsverhandlungen einigt sie sich mit SPD und Grünen nun auf Vergesellschaftungen und eine Preisobergrenze.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429788/1792258310/Img_4_3/250/606006551.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Liminski fordert &quot;Säuberungen&quot; : NRW-Minister empfiehlt der Linken Stalin-Methoden  </title>
+                <description>Seit dem Sieg der Linken bei der Berlin-Wahl hagelt es Kritik an der Partei. Kanzler Merz warnt Grüne und SPD vor der Zusammenarbeit mit der Linken. Und NRW-Minister Nathanael Liminski setzt noch eins drauf: mit sehr drastischen Worten und einer umstrittenen historischen Anspielung.</description>
+                <link>https://www.n-tv.de/politik/NRW-Minister-empfiehlt-der-Linken-Stalin-Methoden-id31429633.html</link>
+                <guid>https://www.n-tv.de/politik/NRW-Minister-empfiehlt-der-Linken-Stalin-Methoden-id31429633.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:03:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429635/1792253575/Img_4_3/250/625950157.jpg" width="250" height="188" align="left" />Seit dem Sieg der Linken bei der Berlin-Wahl hagelt es Kritik an der Partei. Kanzler Merz warnt Grüne und SPD vor der Zusammenarbeit mit der Linken. Und NRW-Minister Nathanael Liminski setzt noch eins drauf: mit sehr drastischen Worten und einer umstrittenen historischen Anspielung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429635/1792253575/Img_4_3/250/625950157.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Für Angriffe und Abwehr wichtig: Selenskyj: Starlink über Ukraine weiterhin gedrosselt</title>
+                <description>Die Spannungen zwischen den USA und der Ukraine halten an. Der ukrainische Präsident Wolodymyr Selenskyj wirft Washington nun eine &quot;geplante Operation&quot; gegen sein Land vor. Hintergrund ist das von der US-Firma SpaceX kommende Satelliteninternet.</description>
+                <link>https://www.n-tv.de/politik/Streit-zwischen-USA-und-Ukraine-Starlink-laut-Selenskyj-weiterhin-gedrosselt-id31429763.html</link>
+                <guid>https://www.n-tv.de/politik/Streit-zwischen-USA-und-Ukraine-Starlink-laut-Selenskyj-weiterhin-gedrosselt-id31429763.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 20:22:53 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429715/1792256061/Img_4_3/250/625760770.jpg" width="250" height="188" align="left" />Die Spannungen zwischen den USA und der Ukraine halten an. Der ukrainische Präsident Wolodymyr Selenskyj wirft Washington nun eine "geplante Operation" gegen sein Land vor. Hintergrund ist das von der US-Firma SpaceX kommende Satelliteninternet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429715/1792256061/Img_4_3/250/625760770.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nachrichten an 6500 Kontakte: Hacker kapern CDU-Konto und schicken Phishing-Mail an Merz</title>
+                <description>Unbekannte dringen in das E-Mail-Postfach des CDU-Kreisgeschäftsführers in Heilbronn ein. Von dort gehen betrügerische Nachrichten an 6500 Empfänger, darunter auch Bundeskanzler Merz. Die Ermittlungen laufen.</description>
+                <link>https://www.n-tv.de/politik/Hacker-kapern-CDU-Konto-und-schicken-Phishing-Mail-an-Merz-id31429534.html</link>
+                <guid>https://www.n-tv.de/politik/Hacker-kapern-CDU-Konto-und-schicken-Phishing-Mail-an-Merz-id31429534.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:06:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429614/1792253317/Img_4_3/250/621157048.jpg" width="250" height="188" align="left" />Unbekannte dringen in das E-Mail-Postfach des CDU-Kreisgeschäftsführers in Heilbronn ein. Von dort gehen betrügerische Nachrichten an 6500 Empfänger, darunter auch Bundeskanzler Merz. Die Ermittlungen laufen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429614/1792253317/Img_4_3/250/621157048.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bundespolizei vor Ort: Betrunkene AfD-Mitarbeiter prügeln sich im Bundestag</title>
+                <description>Im Jakob-Kaiser-Haus des Bundestags haben viele Abgeordnete ihre Büros. Dort geraten zwei alkoholisierte Beschäftigte von AfD-Parlamentariern nachts aneinander. Die Bundestagspolizei erstattet von Amts wegen Anzeige.</description>
+                <link>https://www.n-tv.de/politik/Betrunkene-AfD-Mitarbeiter-pruegeln-sich-im-Bundestag-id31429847.html</link>
+                <guid>https://www.n-tv.de/politik/Betrunkene-AfD-Mitarbeiter-pruegeln-sich-im-Bundestag-id31429847.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 20:21:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429864/1792262517/Img_4_3/250/125118507.jpg" width="250" height="188" align="left" />Im Jakob-Kaiser-Haus des Bundestags haben viele Abgeordnete ihre Büros. Dort geraten zwei alkoholisierte Beschäftigte von AfD-Parlamentariern nachts aneinander. Die Bundestagspolizei erstattet von Amts wegen Anzeige.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429864/1792262517/Img_4_3/250/125118507.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Maskierte umstellen Fahrzeug: Israelische Siedler attackieren EU-Diplomaten im Westjordanland</title>
+                <description>Maskierte Männer umstellen ein Diplomatenfahrzeug im Westjordanland. Sie fordern Ausweise und schlagen eine Scheibe ein. Der Vorfall ist der zweite dieser Art innerhalb weniger Tage.</description>
+                <link>https://www.n-tv.de/politik/Israelische-Siedler-attackieren-EU-Diplomaten-im-Westjordanland-id31429695.html</link>
+                <guid>https://www.n-tv.de/politik/Israelische-Siedler-attackieren-EU-Diplomaten-im-Westjordanland-id31429695.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:36:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429703/1792255749/Img_4_3/250/HU1c47_W0AAz0Ar.jpg" width="250" height="188" align="left" />Maskierte Männer umstellen ein Diplomatenfahrzeug im Westjordanland. Sie fordern Ausweise und schlagen eine Scheibe ein. Der Vorfall ist der zweite dieser Art innerhalb weniger Tage.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429703/1792255749/Img_4_3/250/HU1c47_W0AAz0Ar.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Geht ihm wirklich nicht gut&quot;: Kompany kann Bayerns Torfestival nur im Sitzen verfolgen</title>
+                <description>Der FC Bayern München feiert einen herrlichen Fußballabend: Gegen RB Leipzig schießt der Rekordmeister sechs Tore. Trainer Vincent Kompany kann allerdings nur arg eingeschränkt mitfeiern.</description>
+                <link>https://www.n-tv.de/sport/fussball/Kompany-kann-Bayerns-Torfestival-nur-im-Sitzen-verfolgen-id31430077.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Kompany-kann-Bayerns-Torfestival-nur-im-Sitzen-verfolgen-id31430077.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 22:05:06 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430060/1792273353/Img_4_3/250/imago1084665013h.jpg" width="250" height="188" align="left" />Der FC Bayern München feiert einen herrlichen Fußballabend: Gegen RB Leipzig schießt der Rekordmeister sechs Tore. Trainer Vincent Kompany kann allerdings nur arg eingeschränkt mitfeiern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430060/1792273353/Img_4_3/250/imago1084665013h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Böse Packung für RB: Entfesselter FC Bayern deklassiert Leipzig gnadenlos</title>
+                <description>Der FC Bayern trotzt den jüngeren Enttäuschungen: Am 6. Spieltag der Fußball-Bundesliga feiert der Rekordmeister einen Kantersieg gegen RB Leipzig. Für die Gäste ist es nach dem Spektakel der Vorwoche ein heftiger Nackenschlag.</description>
+                <link>https://www.n-tv.de/sport/fussball/Entfesselter-FC-Bayern-deklassiert-Leipzig-gnadenlos-id31429965.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Entfesselter-FC-Bayern-deklassiert-Leipzig-gnadenlos-id31429965.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 20:26:09 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429966/1792268290/Img_4_3/250/imago1084659934h.jpg" width="250" height="188" align="left" />Der FC Bayern trotzt den jüngeren Enttäuschungen: Am 6. Spieltag der Fußball-Bundesliga feiert der Rekordmeister einen Kantersieg gegen RB Leipzig. Für die Gäste ist es nach dem Spektakel der Vorwoche ein heftiger Nackenschlag.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429966/1792268290/Img_4_3/250/imago1084659934h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schreck nach wenigen Sekunden: BVB-Star sieht Rot - und dann ist alles doch ganz anders</title>
+                <description>Daniel Schlager sorgt für die kurioseste Szene des 6. Spieltags in der Fußball-Bundesliga: Der Schiedsrichter zeigt BVB-Profi Ethan Nwaneri die Rote Karte. Es wäre ein Rekord. Doch es ist alles ganz anders gemeint.</description>
+                <link>https://www.n-tv.de/sport/fussball/BVB-Star-sieht-Rot-und-dann-ist-alles-doch-ganz-anders-id31429753.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/BVB-Star-sieht-Rot-und-dann-ist-alles-doch-ganz-anders-id31429753.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 18:45:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429704/1792255752/Img_4_3/250/imago1084640368h.jpg" width="250" height="188" align="left" />Daniel Schlager sorgt für die kurioseste Szene des 6. Spieltags in der Fußball-Bundesliga: Der Schiedsrichter zeigt BVB-Profi Ethan Nwaneri die Rote Karte. Es wäre ein Rekord. Doch es ist alles ganz anders gemeint.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429704/1792255752/Img_4_3/250/imago1084640368h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>ManCity zittert sich zum Sieg: Wirtz leitet für Liverpool die Wende ein</title>
+                <description>Florian Wirtz sammelt in seinem Ringen um Anerkennung in der Premier League wichtige Punkte: Der deutsche Nationalspieler liefert beim Sieg seines FC Liverpool einen Assist. Manchester City zittert sich zum nächsten Sieg.</description>
+                <link>https://www.n-tv.de/sport/fussball/Wirtz-leitet-fuer-Liverpool-die-Wende-ein-id31429867.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Wirtz-leitet-fuer-Liverpool-die-Wende-ein-id31429867.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 18:27:29 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429868/1792261558/Img_4_3/250/imago1084650207h.jpg" width="250" height="188" align="left" />Florian Wirtz sammelt in seinem Ringen um Anerkennung in der Premier League wichtige Punkte: Der deutsche Nationalspieler liefert beim Sieg seines FC Liverpool einen Assist. Manchester City zittert sich zum nächsten Sieg.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429868/1792261558/Img_4_3/250/imago1084650207h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Warmschießen für Real: FC Barcelona feiert Schützenfest gegen Verfolger</title>
+                <description>Der FC Barcelona strebt schier unaufhaltsam der Titelverteidigung entgegen: Auch das neunte Saisonspiel gewinnt das Team von Hansi Flick. Gegen Verfolger Betis hagelt es Tore. Der Startrekord von Real Madrid ist damit eingestellt.</description>
+                <link>https://www.n-tv.de/sport/fussball/FC-Barcelona-feiert-Schuetzenfest-gegen-Verfolger-id31429989.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/FC-Barcelona-feiert-Schuetzenfest-gegen-Verfolger-id31429989.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 21:09:58 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430027/1792271301/Img_4_3/250/imago1084664107h.jpg" width="250" height="188" align="left" />Der FC Barcelona strebt schier unaufhaltsam der Titelverteidigung entgegen: Auch das neunte Saisonspiel gewinnt das Team von Hansi Flick. Gegen Verfolger Betis hagelt es Tore. Der Startrekord von Real Madrid ist damit eingestellt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430027/1792271301/Img_4_3/250/imago1084664107h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Touristen beim Zelten erschossen: Drei Surfer in Mexiko ermordet - Täter zu je 158 Jahren Haft verurteilt </title>
+                <description>Zwei Brüder aus Australien und ihr Freund aus den USA machen einen Surf-Urlaub in Mexiko, als sie spurlos verschwinden. Nach mehreren Tagen werden sie tot gefunden - mit Schusswunden am Kopf. Ein Gericht verurteilt die drei Mörder der jungen Surfer zu sehr langen Haftstrafen.  </description>
+                <link>https://www.n-tv.de/panorama/Drei-Surfer-in-Mexiko-ermordet-Taeter-zu-je-158-Jahren-Haft-verurteilt-id31430026.html</link>
+                <guid>https://www.n-tv.de/panorama/Drei-Surfer-in-Mexiko-ermordet-Taeter-zu-je-158-Jahren-Haft-verurteilt-id31430026.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 17 Oct 2026 21:45:15 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430011/1792270509/Img_4_3/250/Screenshot 2026-10-17 205357.jpg" width="250" height="188" align="left" />Zwei Brüder aus Australien und ihr Freund aus den USA machen einen Surf-Urlaub in Mexiko, als sie spurlos verschwinden. Nach mehreren Tagen werden sie tot gefunden - mit Schusswunden am Kopf. Ein Gericht verurteilt die drei Mörder der jungen Surfer zu sehr langen Haftstrafen.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430011/1792270509/Img_4_3/250/Screenshot 2026-10-17 205357.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sexologin Ann-Marlene Henning: Schlechter Sex ist oft das kleinste Problem</title>
+                <description>Ann-Marlene Henning ist Deutschlands bekannteste Sexologin. Seit über 30 Jahren berät sie Menschen in ihrer Sexualität. Die Fragen haben sich dabei kaum verändert, aber die Umstände sind heute andere.</description>
+                <link>https://www.n-tv.de/panorama/Schlechter-Sex-ist-oft-das-kleinste-Problem-id31424795.html</link>
+                <guid>https://www.n-tv.de/panorama/Schlechter-Sex-ist-oft-das-kleinste-Problem-id31424795.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 17 Oct 2026 17:38:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31424854/1792146171/Img_4_3/250/imago0120310476h.jpg" width="250" height="188" align="left" />Ann-Marlene Henning ist Deutschlands bekannteste Sexologin. Seit über 30 Jahren berät sie Menschen in ihrer Sexualität. Die Fragen haben sich dabei kaum verändert, aber die Umstände sind heute andere.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31424854/1792146171/Img_4_3/250/imago0120310476h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ich sehe das sehr kritisch&quot;: Özdemir gegen Zusammenarbeit der Grünen mit Berliner Linken</title>
+                <description>In Berlin geben Linke, Grüne und SPD eine Einigung bei ihren Sondierungsgesprächen bekannt. Grünen-Politiker und Ministerpräsident von Baden-Württemberg Cem Özdemir findet kritische Worte - nicht aber für die gesamte Linkspartei.</description>
+                <link>https://www.n-tv.de/politik/Cem-Oezdemir-lehnt-Zusammenarbeit-zwischen-Gruenen-und-Berliner-Linken-ab-id31429683.html</link>
+                <guid>https://www.n-tv.de/politik/Cem-Oezdemir-lehnt-Zusammenarbeit-zwischen-Gruenen-und-Berliner-Linken-ab-id31429683.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:39:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429646/1792253850/Img_4_3/250/625938034.jpg" width="250" height="188" align="left" />In Berlin geben Linke, Grüne und SPD eine Einigung bei ihren Sondierungsgesprächen bekannt. Grünen-Politiker und Ministerpräsident von Baden-Württemberg Cem Özdemir findet kritische Worte - nicht aber für die gesamte Linkspartei.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429646/1792253850/Img_4_3/250/625938034.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Es regnet Medaillen: Deutsche Nummer 1 setzt bei EM mächtiges Ausrufezeichen</title>
+                <description>Deutschlands Tischtennis-Profis sammeln bei der EM reichlich Edelmetall ein: Am Schlusstag haben sogar noch drei Deutsche die Chance auf Gold. Es gibt aber auch eine heftige Enttäuschung.</description>
+                <link>https://www.n-tv.de/sport/Deutsche-Nummer-1-setzt-bei-EM-maechtiges-Ausrufezeichen-id31429946.html</link>
+                <guid>https://www.n-tv.de/sport/Deutsche-Nummer-1-setzt-bei-EM-maechtiges-Ausrufezeichen-id31429946.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 19:49:13 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429950/1792266534/Img_4_3/250/imago1084628299h.jpg" width="250" height="188" align="left" />Deutschlands Tischtennis-Profis sammeln bei der EM reichlich Edelmetall ein: Am Schlusstag haben sogar noch drei Deutsche die Chance auf Gold. Es gibt aber auch eine heftige Enttäuschung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429950/1792266534/Img_4_3/250/imago1084628299h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wieduwilts Woche: Wie Manuela Schwesig sich verzockte</title>
+                <description>Beruhigend: Trotz Krieg und Reformdruck findet die Koalition ausgiebig Zeit zum Streiten - über Trauer und Krebs statt Rente und Achtstundentag. In dieser Runde gewinnt die CDU.</description>
+                <link>https://www.n-tv.de/politik/politik_wieduwilts_woche/Wie-Manuela-Schwesig-sich-verzockte-id31424867.html</link>
+                <guid>https://www.n-tv.de/politik/politik_wieduwilts_woche/Wie-Manuela-Schwesig-sich-verzockte-id31424867.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 07:00:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31424906/1792145568/Img_4_3/250/624764458.jpg" width="250" height="188" align="left" />Beruhigend: Trotz Krieg und Reformdruck findet die Koalition ausgiebig Zeit zum Streiten - über Trauer und Krebs statt Rente und Achtstundentag. In dieser Runde gewinnt die CDU.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31424906/1792145568/Img_4_3/250/624764458.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Opposition verteidigt Mehrheit : EU-Kritiker Babis kassiert Schlappe bei Senatswahl in Tschechien </title>
+                <description>Sie hat die meisten Kandidaten im Rennen und geht trotzdem leer aus: Bei den Stichwahlen zum tschechischen Senat bleibt die Regierungspartei ANO des Milliardärs Andrej Babis erfolglos. Die Opposition spricht von einem &quot;unglaublichen Debakel&quot; für die Regierung. </description>
+                <link>https://www.n-tv.de/politik/EU-Kritiker-Babis-kassiert-Schlappe-bei-Senatswahl-in-Tschechien-id31429958.html</link>
+                <guid>https://www.n-tv.de/politik/EU-Kritiker-Babis-kassiert-Schlappe-bei-Senatswahl-in-Tschechien-id31429958.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 21:44:27 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429956/1792266983/Img_4_3/250/625717063.jpg" width="250" height="188" align="left" />Sie hat die meisten Kandidaten im Rennen und geht trotzdem leer aus: Bei den Stichwahlen zum tschechischen Senat bleibt die Regierungspartei ANO des Milliardärs Andrej Babis erfolglos. Die Opposition spricht von einem "unglaublichen Debakel" für die Regierung. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429956/1792266983/Img_4_3/250/625717063.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach historischem Wahldebakel : Wo ist die CDU in Mecklenburg-Vorpommern hin?</title>
+                <description>Erstmals fliegt die CDU aus einem Landtag: In Mecklenburg-Vorpommern scheitern die Christdemokraten an der Fünf-Prozent-Hürde. Seitdem herrscht Funkstille. Amthor verteidigt die Zurückhaltung, doch an der Basis wächst der Unmut. Mehrere Mitglieder kehren der Partei den Rücken.</description>
+                <link>https://www.n-tv.de/politik/Wo-ist-die-CDU-in-Mecklenburg-Vorpommern-hin-id31429549.html</link>
+                <guid>https://www.n-tv.de/politik/Wo-ist-die-CDU-in-Mecklenburg-Vorpommern-hin-id31429549.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 17:02:31 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429570/1792252227/Img_4_3/250/613626884.jpg" width="250" height="188" align="left" />Erstmals fliegt die CDU aus einem Landtag: In Mecklenburg-Vorpommern scheitern die Christdemokraten an der Fünf-Prozent-Hürde. Seitdem herrscht Funkstille. Amthor verteidigt die Zurückhaltung, doch an der Basis wächst der Unmut. Mehrere Mitglieder kehren der Partei den Rücken.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429570/1792252227/Img_4_3/250/613626884.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nur Remis gegen St. Pauli: Hannover 96 kommt unter Wagner weiter nicht vom Fleck</title>
+                <description>Hannover 96 startet mit großen Ambitionen in die neue Saison der 2. Fußball-Bundesliga. Doch schnell setzt Ernüchterung ein: Auch nach dem Trainerwechsel gibt es keine schnelle Trendwende. Gegner St. Pauli kommt über das fünfte Remis nicht hinaus.</description>
+                <link>https://www.n-tv.de/sport/fussball/Hannover-96-kommt-unter-Wagner-weiter-nicht-vom-Fleck-id31430086.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Hannover-96-kommt-unter-Wagner-weiter-nicht-vom-Fleck-id31430086.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 22:26:50 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31430087/1792275984/Img_4_3/250/imago1084671102h.jpg" width="250" height="188" align="left" />Hannover 96 startet mit großen Ambitionen in die neue Saison der 2. Fußball-Bundesliga. Doch schnell setzt Ernüchterung ein: Auch nach dem Trainerwechsel gibt es keine schnelle Trendwende. Gegner St. Pauli kommt über das fünfte Remis nicht hinaus.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31430087/1792275984/Img_4_3/250/imago1084671102h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Teil der neuen Marken-Strategie: Porsche Mission S - ein Supersportwagen, der bleibt</title>
+                <description>Porsche verfolgt eine neue Strategie namens &quot;Sportwagenschmiede &apos;35&quot; und baut einen nicht limitierten Supersportwagen. Das Design zeigt der Autohersteller schon mal - es erinnert hier und da an den 911er.</description>
+                <link>https://www.n-tv.de/auto/Porsche-Mission-S-ein-Supersportwagen-der-bleibt-id31425099.html</link>
+                <guid>https://www.n-tv.de/auto/Porsche-Mission-S-ein-Supersportwagen-der-bleibt-id31425099.html</guid>
+                <category>Auto</category>
+                <pubDate>Sat, 17 Oct 2026 16:08:03 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31425123/1792147710/Img_4_3/250/341333_6000x4500.jpg" width="250" height="188" align="left" />Porsche verfolgt eine neue Strategie namens "Sportwagenschmiede '35" und baut einen nicht limitierten Supersportwagen. Das Design zeigt der Autohersteller schon mal - es erinnert hier und da an den 911er.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31425123/1792147710/Img_4_3/250/341333_6000x4500.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Das können wir nicht machen&quot;: Trump: Google blockierte Ozean-Umbenennung</title>
+                <description>Der US-Präsident Donald Trump gibt so manchen Dingen gerne einen anderen Namen. Erst tauft er einen See um, dann einen Golf, nun möchte er sogar einen Ozean umbenennen. Doch Google scheint dieses Vorhaben zu blockieren. Trump scherzt darüber bei einer Wahlkampfveranstaltung. </description>
+                <link>https://www.n-tv.de/politik/Trump-Google-blockierte-Ozean-Umbenennung-id31428576.html</link>
+                <guid>https://www.n-tv.de/politik/Trump-Google-blockierte-Ozean-Umbenennung-id31428576.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 09:42:08 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31428580/1792223885/Img_4_3/250/2026-10-16T231548Z_1669657439_RC2M4OAUHP0F_RTRMADP_3_USA-ELECTION-TRUMP.jpg" width="250" height="188" align="left" />Der US-Präsident Donald Trump gibt so manchen Dingen gerne einen anderen Namen. Erst tauft er einen See um, dann einen Golf, nun möchte er sogar einen Ozean umbenennen. Doch Google scheint dieses Vorhaben zu blockieren. Trump scherzt darüber bei einer Wahlkampfveranstaltung. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31428580/1792223885/Img_4_3/250/2026-10-16T231548Z_1669657439_RC2M4OAUHP0F_RTRMADP_3_USA-ELECTION-TRUMP.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Klassiker auf dem ersten Platz: Die Videospiel-Charts im September bieten viele Überraschungen</title>
+                <description>Dieses Jahr erscheinen jede Menge großartiger Spiele. Der September hat es besonders in sich. Da ist es keine Überraschung, dass die Gamecharts voller Neueinsteiger sind. Überraschend ist allerdings, welche Spiele die Top-Platzierungen absahnen.</description>
+                <link>https://www.n-tv.de/technik/Die-Videospiel-Charts-im-September-bieten-viele-Ueberraschungen-id31426483.html</link>
+                <guid>https://www.n-tv.de/technik/Die-Videospiel-Charts-im-September-bieten-viele-Ueberraschungen-id31426483.html</guid>
+                <category>Technik</category>
+                <pubDate>Sat, 17 Oct 2026 14:25:46 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31426655/1792163164/Img_4_3/250/The_Blood_of_Dawnwalker_launch_screenshot (3).jpg" width="250" height="188" align="left" />Dieses Jahr erscheinen jede Menge großartiger Spiele. Der September hat es besonders in sich. Da ist es keine Überraschung, dass die Gamecharts voller Neueinsteiger sind. Überraschend ist allerdings, welche Spiele die Top-Platzierungen absahnen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31426655/1792163164/Img_4_3/250/The_Blood_of_Dawnwalker_launch_screenshot (3).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Die Wissenschaftlerin: Amelie Reigl züchtet Haut und kennt den Schlüssel zu all unseren Problemen</title>
+                <description>Amelie Reigl ist Gründerin und CEO des Würzburger Biotech-Startups &quot;TigersharkScience&quot;. Das Unternehmen entwickelt in-vitro-Hautmodelle als Alternative zu Tierversuchen und stellt damit humanrelevante Testverfahren für die Kosmetik-, Pharma- und Chemiebranche bereit. ntv.de wollte wissen, was genau sie in ihrem Labor macht. </description>
+                <link>https://www.n-tv.de/wissen/Amelie-Reigl-zuechtet-Haut-und-kennt-den-Schluessel-zu-all-unseren-Problemen-id31416573.html</link>
+                <guid>https://www.n-tv.de/wissen/Amelie-Reigl-zuechtet-Haut-und-kennt-den-Schluessel-zu-all-unseren-Problemen-id31416573.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 17 Oct 2026 11:16:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31416870/1791985320/Img_4_3/250/02 Amelie Reigl-business.jpg" width="250" height="188" align="left" />Amelie Reigl ist Gründerin und CEO des Würzburger Biotech-Startups "TigersharkScience". Das Unternehmen entwickelt in-vitro-Hautmodelle als Alternative zu Tierversuchen und stellt damit humanrelevante Testverfahren für die Kosmetik-, Pharma- und Chemiebranche bereit. ntv.de wollte wissen, was genau sie in ihrem Labor macht. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31416870/1791985320/Img_4_3/250/02 Amelie Reigl-business.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Jede Dritte betroffen: Warum viele Mütter trotz ihrer Kinder vereinsamen</title>
+                <description>Sie werden ständig gebraucht, aber selten selbst aufgefangen: Viele Mütter fühlen sich trotz Familie einsam. Zwischen Kinderbetreuung, Job und endlosen Aufgaben bleibt ihr eigenes Leben auf der Strecke. Doch sie brauchen mehr als gute Ratschläge.</description>
+                <link>https://www.n-tv.de/panorama/Warum-viele-Muetter-trotz-ihrer-Kinder-vereinsamen-id31416513.html</link>
+                <guid>https://www.n-tv.de/panorama/Warum-viele-Muetter-trotz-ihrer-Kinder-vereinsamen-id31416513.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 17 Oct 2026 08:01:38 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/4489496/1751277772/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Sie werden ständig gebraucht, aber selten selbst aufgefangen: Viele Mütter fühlen sich trotz Familie einsam. Zwischen Kinderbetreuung, Job und endlosen Aufgaben bleibt ihr eigenes Leben auf der Strecke. Doch sie brauchen mehr als gute Ratschläge.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/4489496/1751277772/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Der &quot;Tatort&quot; im Schnellcheck: Koks, Korruption und Knalleffekte - 10 von 10 Punkten für diesen Kieler Tatort</title>
+                <description>Was sich mit dem ersten Teil &quot;Unter Freunden&quot; bereits andeutete, kommt im zweiten Teil &quot;Unter Feinden&quot; vollends zu Enfaltung. Nach der Borowski-Rente bleibt beim Kieler &quot;Tatort&quot; kein Stein auf dem andern.</description>
+                <link>https://www.n-tv.de/leute/tv/Koks-Korruption-und-Knalleffekte-10-von-10-Punkten-fuer-diesen-Kieler-Tatort-id31420880.html</link>
+                <guid>https://www.n-tv.de/leute/tv/Koks-Korruption-und-Knalleffekte-10-von-10-Punkten-fuer-diesen-Kieler-Tatort-id31420880.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 17 Oct 2026 15:11:34 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31420862/1792064198/Img_4_3/250/Tatort_unter_Feinden_2.jpg" width="250" height="188" align="left" />Was sich mit dem ersten Teil "Unter Freunden" bereits andeutete, kommt im zweiten Teil "Unter Feinden" vollends zu Enfaltung. Nach der Borowski-Rente bleibt beim Kieler "Tatort" kein Stein auf dem andern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31420862/1792064198/Img_4_3/250/Tatort_unter_Feinden_2.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gym, Nonna, Schlaf: Warum plötzlich alle &quot;maxxen&quot;</title>
+                <description>Nonnamaxxing, Sleepmaxxing - bitte was? Vom Oma-Idyll bis zum Schlafzwang: Auf Tiktok wird alles zum Optimierungsprojekt. Dabei verschwimmen Selbstoptimierung und Ironie.</description>
+                <link>https://www.n-tv.de/panorama/Warum-ploetzlich-alle-maxxen-id31381349.html</link>
+                <guid>https://www.n-tv.de/panorama/Warum-ploetzlich-alle-maxxen-id31381349.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 17 Oct 2026 10:54:55 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31381429/1791199330/Img_4_3/250/619987261.jpg" width="250" height="188" align="left" />Nonnamaxxing, Sleepmaxxing - bitte was? Vom Oma-Idyll bis zum Schlafzwang: Auf Tiktok wird alles zum Optimierungsprojekt. Dabei verschwimmen Selbstoptimierung und Ironie.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31381429/1791199330/Img_4_3/250/619987261.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fragerunde wird gestrichen: Selma Blair besucht nach Flugzeug-Festnahme Convention</title>
+                <description>Wenige Tage nach ihrer Festnahme infolge eines angeblichen gewalttätigen Ausbruchs an Bord eines Fluges  von Los Angeles nach New York hat sich Selma Blair wieder öffentlich gezeigt. Die US-Schauspielerin besuchte eine Fan-Convention in Connecticut. </description>
+                <link>https://www.n-tv.de/leute/Selma-Blair-besucht-nach-Flugzeug-Festnahme-Convention-id31428813.html</link>
+                <guid>https://www.n-tv.de/leute/Selma-Blair-besucht-nach-Flugzeug-Festnahme-Convention-id31428813.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 17 Oct 2026 13:04:32 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31413083/1792228456/Img_4_3/250/epi_1088868500_DPA AP_jfgpymzfer-v1-ax-ms6144.jpeg_Selma Blair Flight.jpg" width="250" height="188" align="left" />Wenige Tage nach ihrer Festnahme infolge eines angeblichen gewalttätigen Ausbruchs an Bord eines Fluges  von Los Angeles nach New York hat sich Selma Blair wieder öffentlich gezeigt. Die US-Schauspielerin besuchte eine Fan-Convention in Connecticut. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31413083/1792228456/Img_4_3/250/epi_1088868500_DPA AP_jfgpymzfer-v1-ax-ms6144.jpeg_Selma Blair Flight.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nicht zu viel aufräumen: Laub im Garten: Wann es liegen bleiben sollte - und wann es weg muss</title>
+                <description>Im Herbst fällt jede Menge Laub an. Doch nicht überall muss es weggeräumt werden. Unter Sträuchern und auf Beeten schützt es Boden und Pflanzen vor Frost. Auf dem Rasen, auf Wegen und im Teich richtet es hingegen Schaden an. Aber es kommt auch auf die Menge an.</description>
+                <link>https://www.n-tv.de/ratgeber/Laub-im-Garten-Wann-es-liegen-bleiben-sollte-und-wann-es-weg-muss-id31411344.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Laub-im-Garten-Wann-es-liegen-bleiben-sollte-und-wann-es-weg-muss-id31411344.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 17 Oct 2026 19:01:19 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/2290512/1729769445/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Im Herbst fällt jede Menge Laub an. Doch nicht überall muss es weggeräumt werden. Unter Sträuchern und auf Beeten schützt es Boden und Pflanzen vor Frost. Auf dem Rasen, auf Wegen und im Teich richtet es hingegen Schaden an. Aber es kommt auch auf die Menge an.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/2290512/1729769445/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Abschied von &quot;Breaking Bad&quot;-Star: RJ Mittes Schwester spricht unter Tränen über schwere Familiengeschichte</title>
+                <description>Sie war noch ein Baby, als ihre Mutter einen schweren Unfall hatte. Jetzt erzählt Lacianne Carriere, wie ihr Bruder RJ Mitte &quot;sofort die Vaterrolle übernommen&quot; hat. Bei der Trauerfeier für den &quot;Breaking Bad&quot;-Star hält sie eine Rede, die unter die Haut geht.  </description>
+                <link>https://www.n-tv.de/leute/RJ-Mittes-Schwester-spricht-unter-Traenen-ueber-schwere-Familiengeschichte-id31429445.html</link>
+                <guid>https://www.n-tv.de/leute/RJ-Mittes-Schwester-spricht-unter-Traenen-ueber-schwere-Familiengeschichte-id31429445.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 17 Oct 2026 16:07:18 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429462/1792249276/Img_4_3/250/106699975.jpg" width="250" height="188" align="left" />Sie war noch ein Baby, als ihre Mutter einen schweren Unfall hatte. Jetzt erzählt Lacianne Carriere, wie ihr Bruder RJ Mitte "sofort die Vaterrolle übernommen" hat. Bei der Trauerfeier für den "Breaking Bad"-Star hält sie eine Rede, die unter die Haut geht.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429462/1792249276/Img_4_3/250/106699975.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Perfekt, wie es ist&quot;: Darum ist eine dritte Hochzeit kein Thema für Barbara Becker</title>
+                <description>Seit 2024 ist Barbara Becker mit Marcello Montini liiert. Für den italienischen Geschäftsmann verlässt die Fitness-Expertin vor einem Jahr sogar ihre Wahlheimat Miami. Noch einmal heiraten will die 59-Jährige derzeit jedoch nicht. </description>
+                <link>https://www.n-tv.de/leute/Darum-ist-eine-dritte-Hochzeit-kein-Thema-fuer-Barbara-Becker-id31428788.html</link>
+                <guid>https://www.n-tv.de/leute/Darum-ist-eine-dritte-Hochzeit-kein-Thema-fuer-Barbara-Becker-id31428788.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 17 Oct 2026 12:00:10 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31428843/1792232990/Img_4_3/250/505352552.jpg" width="250" height="188" align="left" />Seit 2024 ist Barbara Becker mit Marcello Montini liiert. Für den italienischen Geschäftsmann verlässt die Fitness-Expertin vor einem Jahr sogar ihre Wahlheimat Miami. Noch einmal heiraten will die 59-Jährige derzeit jedoch nicht. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31428843/1792232990/Img_4_3/250/505352552.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vier Wochen nach der Wahl: Kreise: Linke, Grüne und SPD einigen sich bei Sondierungen in Berlin</title>
+                <description>Linke, Grüne und SPD erzielen bei den Sondierungsgesprächen für eine Regierung in Berlin eine Einigung. Damit ist eine große Hürde auf dem Weg zu Koalitionsverhandlungen genommen.</description>
+                <link>https://www.n-tv.de/politik/Kreise-Linke-Gruene-und-SPD-einigen-sich-bei-Sondierungen-in-Berlin-id31429384.html</link>
+                <guid>https://www.n-tv.de/politik/Kreise-Linke-Gruene-und-SPD-einigen-sich-bei-Sondierungen-in-Berlin-id31429384.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 14:19:47 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429401/1792247605/Img_4_3/250/imago0868946269h.jpg" width="250" height="188" align="left" />Linke, Grüne und SPD erzielen bei den Sondierungsgesprächen für eine Regierung in Berlin eine Einigung. Damit ist eine große Hürde auf dem Weg zu Koalitionsverhandlungen genommen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429401/1792247605/Img_4_3/250/imago0868946269h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Landesweite Demonstrationen: Über 150 Festnahmen kurz nach Protestbeginn in Frankreich</title>
+                <description>Ehemalige Gelbwesten, Schüler, Studierende, Klimaschützer und Landwirte verabreden sich in ganz Frankreich zu Kundgebungen. Polizei und Politik fürchten Ausschreitungen. Schon kurz nach dem Start der ersten Kundgebungen gibt es zahlreiche Festnahmen.</description>
+                <link>https://www.n-tv.de/politik/Frankreich-Ueber-150-Festnahmen-kurz-nach-Protestbeginn-id31429308.html</link>
+                <guid>https://www.n-tv.de/politik/Frankreich-Ueber-150-Festnahmen-kurz-nach-Protestbeginn-id31429308.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 15:27:03 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429294/1792244544/Img_4_3/250/625906342.jpg" width="250" height="188" align="left" />Ehemalige Gelbwesten, Schüler, Studierende, Klimaschützer und Landwirte verabreden sich in ganz Frankreich zu Kundgebungen. Polizei und Politik fürchten Ausschreitungen. Schon kurz nach dem Start der ersten Kundgebungen gibt es zahlreiche Festnahmen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429294/1792244544/Img_4_3/250/625906342.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Koalition nicht um jeden Preis&quot;: Merz sieht ohne Reformen keine Chance bei Bundestagswahl - Warnung an SPD: &quot;Es gibt Grenzen&quot;</title>
+                <description>Ob Rente, Pflege oder Krankenversicherung: Die Bundesregierung will die Sozialsysteme grundlegend umbauen. Doch selbst in der Union regt sich Widerstand. Beim Deutschlandtag der Jungen Union pocht Merz auf seinen Kurs - und warnt seinen Koalitionspartner.</description>
+                <link>https://www.n-tv.de/politik/Merz-sieht-ohne-Reformen-keine-Chance-bei-Bundestagswahl-Warnung-an-SPD-Es-gibt-Grenzen-id31429084.html</link>
+                <guid>https://www.n-tv.de/politik/Merz-sieht-ohne-Reformen-keine-Chance-bei-Bundestagswahl-Warnung-an-SPD-Es-gibt-Grenzen-id31429084.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 17 Oct 2026 13:16:44 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429098/1792239759/Img_4_3/250/625912423.jpg" width="250" height="188" align="left" />Ob Rente, Pflege oder Krankenversicherung: Die Bundesregierung will die Sozialsysteme grundlegend umbauen. Doch selbst in der Union regt sich Widerstand. Beim Deutschlandtag der Jungen Union pocht Merz auf seinen Kurs - und warnt seinen Koalitionspartner.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429098/1792239759/Img_4_3/250/625912423.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Finanzierung wird teurer: Lagarde sieht in hohen Anleihe-Zinsen ein Wirtschaftsrisiko</title>
+                <description>An den Anleihemärkten ging es zuletzt mit den Zinsen nach oben. Das macht es Staaten und Unternehmen schwieriger, sich zu finanzieren. Am Ende dürfte dies nach EZB-Ansicht auch das Wachstum bremsen. Die Notenbank warnt zudem vor weiteren Effekten.</description>
+                <link>https://www.n-tv.de/wirtschaft/Lagarde-sieht-in-hohen-Anleihe-Zinsen-ein-Wirtschaftsrisiko-id31429450.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Lagarde-sieht-in-hohen-Anleihe-Zinsen-ein-Wirtschaftsrisiko-id31429450.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 17 Oct 2026 15:03:22 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429447/1792249089/Img_4_3/250/2026-10-14T085446Z_1102527860_RC2W2OAPM99V_RTRMADP_3_IMF-WORLDBANK.jpg" width="250" height="188" align="left" />An den Anleihemärkten ging es zuletzt mit den Zinsen nach oben. Das macht es Staaten und Unternehmen schwieriger, sich zu finanzieren. Am Ende dürfte dies nach EZB-Ansicht auch das Wachstum bremsen. Die Notenbank warnt zudem vor weiteren Effekten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429447/1792249089/Img_4_3/250/2026-10-14T085446Z_1102527860_RC2W2OAPM99V_RTRMADP_3_IMF-WORLDBANK.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Initiative mit Frankreich: Bilger will E20-Sprit zum Durchbruch verhelfen</title>
+                <description>Das Verbrenner-Verbot in der EU ab 2035 steht vor dem Aus. Um dennoch mehr fürs Klima zu tun, wollen Berlin und Paris die Bioethanol-Beimischung bei Benzin verdoppeln. </description>
+                <link>https://www.n-tv.de/wirtschaft/Bilger-will-E20-Sprit-zum-Durchbruch-verhelfen-id31428830.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Bilger-will-E20-Sprit-zum-Durchbruch-verhelfen-id31428830.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 17 Oct 2026 15:03:43 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31428824/1792232349/Img_4_3/250/585079301.jpg" width="250" height="188" align="left" />Das Verbrenner-Verbot in der EU ab 2035 steht vor dem Aus. Um dennoch mehr fürs Klima zu tun, wollen Berlin und Paris die Bioethanol-Beimischung bei Benzin verdoppeln. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31428824/1792232349/Img_4_3/250/585079301.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auch wegen Zoll-Rückzahlungen: US-Neuverschuldung steigt auf Fünf-Jahres-Hoch</title>
+                <description>Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die USA rutschen in seiner Präsidentschaft immer tiefer in die Miesen.  </description>
+                <link>https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 17 Oct 2026 04:34:04 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31428433/1792210785/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die USA rutschen in seiner Präsidentschaft immer tiefer in die Miesen.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31428433/1792210785/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ein surreales Fußball-Märchen: Ex-Borusse wird Star in einer Welt, die ihn schockte</title>
+                <description>Verletzt, ohne Geld, fast am Ende: Joy-Lance Mickels denkt über ein Leben als Feuerwehrmann nach. Heute trifft er in der Champions League, nimmt es demnächst mit dem BVB auf und wird in Ruanda als Star gefeiert. Wie der Junge vom Niederrhein sein unerwartetes Fußballglück findet.</description>
+                <link>https://www.n-tv.de/sport/fussball/Ex-Borusse-wird-Star-in-einer-Welt-die-ihn-schockte-id31421015.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Ex-Borusse-wird-Star-in-einer-Welt-die-ihn-schockte-id31421015.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 07:33:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31420957/1792065272/Img_4_3/250/imago1083361987h.jpg" width="250" height="188" align="left" />Verletzt, ohne Geld, fast am Ende: Joy-Lance Mickels denkt über ein Leben als Feuerwehrmann nach. Heute trifft er in der Champions League, nimmt es demnächst mit dem BVB auf und wird in Ruanda als Star gefeiert. Wie der Junge vom Niederrhein sein unerwartetes Fußballglück findet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31420957/1792065272/Img_4_3/250/imago1083361987h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Das macht man nicht!&quot;: Ein Schalker Junge auf der verzweifelten Suche nach der Wahrheit</title>
+                <description>Ralf Fährmann feiern die Fans als &quot;absoluten Schalker Jungen&quot;. Selbst als es um seinen Abschied herum zu ersten Irritationen kommt, halten sie zu &quot;Ralle&quot;. Doch dann erscheinen die ersten Ausschnitte aus seinem neuen Buch.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Ein-Schalker-Junge-auf-der-verzweifelten-Suche-nach-der-Wahrheit-id31421527.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Ein-Schalker-Junge-auf-der-verzweifelten-Suche-nach-der-Wahrheit-id31421527.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 10:02:41 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31421540/1792071374/Img_4_3/250/imago1062344532h.jpg" width="250" height="188" align="left" />Ralf Fährmann feiern die Fans als "absoluten Schalker Jungen". Selbst als es um seinen Abschied herum zu ersten Irritationen kommt, halten sie zu "Ralle". Doch dann erscheinen die ersten Ausschnitte aus seinem neuen Buch.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31421540/1792071374/Img_4_3/250/imago1062344532h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Was treiben die Wizards denn da?: Der peinlichste Klub der Liga wird plötzlich vorlaut</title>
+                <description>Katastrophale Drafts, lähmende Fehlverträge, anhaltendes Missmanagement in der Führungsetage: Die Washington Wizards haben seit Dekaden mit Problemen zu kämpfen, sind die sportliche Lachnummer der NBA. Ändert sich das nun?</description>
+                <link>https://www.n-tv.de/sport/Der-peinlichste-Klub-der-Liga-wird-ploetzlich-vorlaut-id31424190.html</link>
+                <guid>https://www.n-tv.de/sport/Der-peinlichste-Klub-der-Liga-wird-ploetzlich-vorlaut-id31424190.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 06:59:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31424189/1792218945/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Katastrophale Drafts, lähmende Fehlverträge, anhaltendes Missmanagement in der Führungsetage: Die Washington Wizards haben seit Dekaden mit Problemen zu kämpfen, sind die sportliche Lachnummer der NBA. Ändert sich das nun?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31424189/1792218945/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sorgen um Martinez: Weltmeister-Torwart muss nach heftiger Kopf-Kollision ins Krankenhaus</title>
+                <description>Schock für den FC Chelsea: Torwart Emiliano Martinez knallt mit einem Gegenspieler zusammen und verletzt sich am Kopf. Der Weltmeister muss vom Platz transportiert werden und befindet sich im Krankenhaus.</description>
+                <link>https://www.n-tv.de/sport/fussball/Weltmeister-Torwart-muss-nach-heftiger-Kopf-Kollision-ins-Krankenhaus-id31429834.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Weltmeister-Torwart-muss-nach-heftiger-Kopf-Kollision-ins-Krankenhaus-id31429834.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 17:59:56 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429833/1792259825/Img_4_3/250/625956676.jpg" width="250" height="188" align="left" />Schock für den FC Chelsea: Torwart Emiliano Martinez knallt mit einem Gegenspieler zusammen und verletzt sich am Kopf. Der Weltmeister muss vom Platz transportiert werden und befindet sich im Krankenhaus.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429833/1792259825/Img_4_3/250/625956676.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Aufsteiger mit irrem Torfestival: Werders Super-Füllkrug sorgt für historische Rettungsaktion</title>
+                <description>Am 6. Spieltag der Fußball-Bundesliga verliert der SV Werder Bremen nach einem klaren Rückstand schon wieder nicht. Während Borussia Dortmund torlos bleibt, gibt es in Elversberg ein irres Torfestival. Der 1. FSV Mainz 05 sorgt auf Schalke für den nächsten Dämpfer, der HSV bleibt auf der Erfolgswelle.</description>
+                <link>https://www.n-tv.de/sport/fussball/Werders-Super-Fuellkrug-sorgt-fuer-historische-Rettungsaktion-id31429778.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Werders-Super-Fuellkrug-sorgt-fuer-historische-Rettungsaktion-id31429778.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 17:42:54 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429794/1792258417/Img_4_3/250/625971409.jpg" width="250" height="188" align="left" />Am 6. Spieltag der Fußball-Bundesliga verliert der SV Werder Bremen nach einem klaren Rückstand schon wieder nicht. Während Borussia Dortmund torlos bleibt, gibt es in Elversberg ein irres Torfestival. Der 1. FSV Mainz 05 sorgt auf Schalke für den nächsten Dämpfer, der HSV bleibt auf der Erfolgswelle.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429794/1792258417/Img_4_3/250/625971409.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ungeheuerliche Vorwürfe: Ex-Eintracht-Trainer Riera dreht wieder komplett frei</title>
+                <description>107 Tage reichen Albert Riera, um in der Bundesliga verbrannte Erde zu hinterlassen. Auch auf seiner nächsten Station sorgt der Trainer für Ärger. Im Mittelpunkt einer Tirade steht ein deutscher Schiedsrichter - und eine ungeheuerliche Anschuldigung.</description>
+                <link>https://www.n-tv.de/sport/fussball/Ex-Eintracht-Trainer-Riera-dreht-wieder-komplett-frei-id31429640.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Ex-Eintracht-Trainer-Riera-dreht-wieder-komplett-frei-id31429640.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 19:00:00 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429685/1792255027/Img_4_3/250/imago1082617074h.jpg" width="250" height="188" align="left" />107 Tage reichen Albert Riera, um in der Bundesliga verbrannte Erde zu hinterlassen. Auch auf seiner nächsten Station sorgt der Trainer für Ärger. Im Mittelpunkt einer Tirade steht ein deutscher Schiedsrichter - und eine ungeheuerliche Anschuldigung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429685/1792255027/Img_4_3/250/imago1082617074h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Freigang rettet Eintracht Punkt: DFB-Angreiferin kontert direkt versenkte Ecke</title>
+                <description>Eintracht Frankfurt rettet im Verfolgerduell der Frauen-Bundesliga immerhin noch einen Punkt. Der Rückstand kommt kurios zustande. Einer DFB-Stürmerin gelingt in ihrem Jubiläumsspiel Großes.</description>
+                <link>https://www.n-tv.de/sport/fussball/DFB-Angreiferin-kontert-direkt-versenkte-Ecke-id31429607.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/DFB-Angreiferin-kontert-direkt-versenkte-Ecke-id31429607.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 16:11:51 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429613/1792253263/Img_4_3/250/imago1084638133h.jpg" width="250" height="188" align="left" />Eintracht Frankfurt rettet im Verfolgerduell der Frauen-Bundesliga immerhin noch einen Punkt. Der Rückstand kommt kurios zustande. Einer DFB-Stürmerin gelingt in ihrem Jubiläumsspiel Großes.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429613/1792253263/Img_4_3/250/imago1084638133h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Sie wollen alles zerstören&quot;: Barça-Boss feuert bemerkenswerte Tirade gegen Real Madrid ab</title>
+                <description>Der FC Barcelona steht derzeit makellos da, während der große Konkurrent Real Madrid eine harte Zeit durchlebt. Barça-Boss Laporta heizt das bevorstehende direkte Duell noch zusätzlich an.</description>
+                <link>https://www.n-tv.de/sport/fussball/Barca-Boss-feuert-bemerkenswerte-Tirade-gegen-Real-Madrid-ab-id31429530.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Barca-Boss-feuert-bemerkenswerte-Tirade-gegen-Real-Madrid-ab-id31429530.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 17:37:13 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429565/1792267156/Img_4_3/250/imago1084466602h.jpg" width="250" height="188" align="left" />Der FC Barcelona steht derzeit makellos da, während der große Konkurrent Real Madrid eine harte Zeit durchlebt. Barça-Boss Laporta heizt das bevorstehende direkte Duell noch zusätzlich an.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429565/1792267156/Img_4_3/250/imago1084466602h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Bochum in der Krise: VfL Wolfsburg gewinnt wildes Absteigerduell und klettert</title>
+                <description>Am 8. Spieltag der 2. Fußball-Bundesliga fährt der VfL Wolfsburg den nächsten Sieg ein und pirscht sich an die direkten Aufstiegsplätze ran. Im Schlepptau hat der Absteiger den punktgleichen 1. FC Kaiserslautern. Der VfL Bochum dagegen verliert weiter.</description>
+                <link>https://www.n-tv.de/sport/fussball/2bundesliga/VfL-Wolfsburg-gewinnt-wildes-Absteigerduell-und-klettert-id31429412.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/2bundesliga/VfL-Wolfsburg-gewinnt-wildes-Absteigerduell-und-klettert-id31429412.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 17 Oct 2026 14:59:44 +0200</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429449/1792249130/Img_4_3/250/imago1084630003h.jpg" width="250" height="188" align="left" />Am 8. Spieltag der 2. Fußball-Bundesliga fährt der VfL Wolfsburg den nächsten Sieg ein und pirscht sich an die direkten Aufstiegsplätze ran. Im Schlepptau hat der Absteiger den punktgleichen 1. FC Kaiserslautern. Der VfL Bochum dagegen verliert weiter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429449/1792249130/Img_4_3/250/imago1084630003h.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
