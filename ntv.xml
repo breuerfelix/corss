@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sat, 14 Nov 2026 13:24:03 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Details aus Verhandlungen : Selenskyj: USA stellen Nato-Beitritt für Verzicht auf Donbass zur Debatte</title>
+                <description>Neue Details aus der jüngsten Verhandlungsrunde zwischen den USA, Russland und der Ukraine: Der ukrainische Präsident Selenskyj berichtet von der US-Idee, sein Land in die Nato aufzunehmen, wenn es im Gegenzug den Donbass aufgibt. Dass Kiew und Putin dabei mitspielen, ist derzeit eher unwahrscheinlich.</description>
+                <link>https://www.n-tv.de/politik/Selenskyj-USA-stellen-Nato-Beitritt-fuer-Verzicht-auf-Donbass-zur-Debatte-id31533890.html</link>
+                <guid>https://www.n-tv.de/politik/Selenskyj-USA-stellen-Nato-Beitritt-fuer-Verzicht-auf-Donbass-zur-Debatte-id31533890.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 11:25:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533894/1794655014/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Neue Details aus der jüngsten Verhandlungsrunde zwischen den USA, Russland und der Ukraine: Der ukrainische Präsident Selenskyj berichtet von der US-Idee, sein Land in die Nato aufzunehmen, wenn es im Gegenzug den Donbass aufgibt. Dass Kiew und Putin dabei mitspielen, ist derzeit eher unwahrscheinlich.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533894/1794655014/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Stau am Umspannwerk: Das Stromnetz ist Deutschlands größte KI-Bremse</title>
+                <description>Das Kapital ist da, die Nachfrage auch. Trotzdem hinken Deutschland und Europa beim Bau von Rechenzentren hinter den USA und China her. Bei Hochspannungsanschlüssen herrscht ein Stau, der den KI-Ausbau für ein Jahrzehnt lähmen dürfte.</description>
+                <link>https://www.n-tv.de/wirtschaft/Das-Stromnetz-ist-Deutschlands-groesste-KI-Bremse-id31523000.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Das-Stromnetz-ist-Deutschlands-groesste-KI-Bremse-id31523000.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 14 Nov 2026 11:39:08 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31523046/1794416582/Img_4_3/250/61976438.jpg" width="250" height="188" align="left" />Das Kapital ist da, die Nachfrage auch. Trotzdem hinken Deutschland und Europa beim Bau von Rechenzentren hinter den USA und China her. Bei Hochspannungsanschlüssen herrscht ein Stau, der den KI-Ausbau für ein Jahrzehnt lähmen dürfte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31523046/1794416582/Img_4_3/250/61976438.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gegenwind vor Parteitag : SPD-Bündnis bereitet laut Bericht Anti-Klingbeil-Anträge vor</title>
+                <description>Nach dem Rücktritt von Bärbel Bas wählt die SPD im Januar eine neue Spitze. Mehrere innerparteiliche Strömungen formulieren einem Bericht zufolge Anträge, die erkennbar ein gemeinsames Ziel haben: die erneute Kandidatur des bisherigen Co-Chefs Klingbeil zu verhindern.</description>
+                <link>https://www.n-tv.de/politik/SPD-Buendnis-bereitet-laut-Bericht-Anti-Klingbeil-Antraege-vor-id31534045.html</link>
+                <guid>https://www.n-tv.de/politik/SPD-Buendnis-bereitet-laut-Bericht-Anti-Klingbeil-Antraege-vor-id31534045.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 13:22:02 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31534046/1794658940/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach dem Rücktritt von Bärbel Bas wählt die SPD im Januar eine neue Spitze. Mehrere innerparteiliche Strömungen formulieren einem Bericht zufolge Anträge, die erkennbar ein gemeinsames Ziel haben: die erneute Kandidatur des bisherigen Co-Chefs Klingbeil zu verhindern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31534046/1794658940/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>CO2-Ausstoß soll billiger werden: Wie weit höhlt die EU das Herzstück ihres Klimaschutzes aus?</title>
+                <description>In Brüssel wird über eine Reform des Emissionshandels gestritten: Wie viel sollen Unternehmen für ihren CO2-Ausstoß zahlen? Nicht nur Mitgliedstaaten und Parteien sind uneins, auch die Industrie ist gespalten. Einige Unternehmen warnen sogar vor einem sinkenden CO2-Preis.</description>
+                <link>https://www.n-tv.de/politik/Wie-weit-hoehlt-die-EU-das-Herzstueck-ihres-Klimaschutzes-aus-id31531711.html</link>
+                <guid>https://www.n-tv.de/politik/Wie-weit-hoehlt-die-EU-das-Herzstueck-ihres-Klimaschutzes-aus-id31531711.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 10:06:47 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31531756/1794585331/Img_4_3/250/498991931.jpg" width="250" height="188" align="left" />In Brüssel wird über eine Reform des Emissionshandels gestritten: Wie viel sollen Unternehmen für ihren CO2-Ausstoß zahlen? Nicht nur Mitgliedstaaten und Parteien sind uneins, auch die Industrie ist gespalten. Einige Unternehmen warnen sogar vor einem sinkenden CO2-Preis.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31531756/1794585331/Img_4_3/250/498991931.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Echtes bayerisches Mannsbild&quot;: 1000 Trauergäste erweisen Aiwanger die letzte Ehre</title>
+                <description>Völlig überraschend stirbt Freie-Wähler-Chef Hubert Aiwanger in einem Berliner Hotelzimmer. Ebenso groß wie die Bestürzung ist die Anteilnahme. In München wird ihm eine besondere Ehre zuteil, die letzte Ruhe soll der Verstorbene dann in seiner Heimat finden.</description>
+                <link>https://www.n-tv.de/panorama/1000-Trauergaeste-erweisen-Hubert-Aiwanger-die-letzte-Ehre-id31533857.html</link>
+                <guid>https://www.n-tv.de/panorama/1000-Trauergaeste-erweisen-Hubert-Aiwanger-die-letzte-Ehre-id31533857.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 14 Nov 2026 11:52:17 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533871/1794654392/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Völlig überraschend stirbt Freie-Wähler-Chef Hubert Aiwanger in einem Berliner Hotelzimmer. Ebenso groß wie die Bestürzung ist die Anteilnahme. In München wird ihm eine besondere Ehre zuteil, die letzte Ruhe soll der Verstorbene dann in seiner Heimat finden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533871/1794654392/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trump will Land &quot;erledigt haben&quot;: Kuba bereitet sich auf US-Angriff vor</title>
+                <description>US-Präsident Trump spricht wieder von einer möglichen Militärintervention auf Kuba. Die Führung der sozialistischen Karibikinsel gibt sich entschlossen, das Land im Angriffsfall zu verteidigen. Es laufen bereits regelmäßige Militärübungen.</description>
+                <link>https://www.n-tv.de/politik/Kuba-bereitet-sich-auf-US-Angriff-vor-id31533536.html</link>
+                <guid>https://www.n-tv.de/politik/Kuba-bereitet-sich-auf-US-Angriff-vor-id31533536.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 09:15:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/30706748/1779126945/Img_4_3/250/587396906.jpg" width="250" height="188" align="left" />US-Präsident Trump spricht wieder von einer möglichen Militärintervention auf Kuba. Die Führung der sozialistischen Karibikinsel gibt sich entschlossen, das Land im Angriffsfall zu verteidigen. Es laufen bereits regelmäßige Militärübungen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/30706748/1779126945/Img_4_3/250/587396906.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kürzere Wartezeiten gegen Bares: Ärzte rechnen mit mehr Selbstzahler-Terminen</title>
+                <description>Um bei der gesetzlichen Krankenversicherung Geld zu sparen, plant die Bundesregierung deutliche Honorarkürzungen. Die Kassenärzte kündigen als Antwort darauf Kürzungen bei den Terminen an. Wer trotzdem schnell behandelt werden möchte, soll dafür bezahlen. Die Krankenkassen zeigen sich empört.</description>
+                <link>https://www.n-tv.de/wirtschaft/Aerzte-rechnen-mit-mehr-Selbstzahler-Terminen-id31533710.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Aerzte-rechnen-mit-mehr-Selbstzahler-Terminen-id31533710.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 14 Nov 2026 10:03:58 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533732/1794649138/Img_4_3/250/246608468.jpg" width="250" height="188" align="left" />Um bei der gesetzlichen Krankenversicherung Geld zu sparen, plant die Bundesregierung deutliche Honorarkürzungen. Die Kassenärzte kündigen als Antwort darauf Kürzungen bei den Terminen an. Wer trotzdem schnell behandelt werden möchte, soll dafür bezahlen. Die Krankenkassen zeigen sich empört.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533732/1794649138/Img_4_3/250/246608468.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Das ist überfällig&quot;: CSU kündigt höhere Abschläge für Frührentner an</title>
+                <description>Wer vorzeitig in Rente geht, bekommt für jeden vorgezogenen Monat 0,3 Prozent weniger Altersrente. Diese Abzüge sollen laut der CSU bald steigen. Auch bei der abschlagsfreien Rente nach 45 Versicherungsjahren sieht die Partei deutlichen Änderungsbedarf.</description>
+                <link>https://www.n-tv.de/politik/CSU-kuendigt-hoehere-Abschlaege-fuer-Fruehrentner-an-id31533573.html</link>
+                <guid>https://www.n-tv.de/politik/CSU-kuendigt-hoehere-Abschlaege-fuer-Fruehrentner-an-id31533573.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 08:37:20 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533583/1794645208/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Wer vorzeitig in Rente geht, bekommt für jeden vorgezogenen Monat 0,3 Prozent weniger Altersrente. Diese Abzüge sollen laut der CSU bald steigen. Auch bei der abschlagsfreien Rente nach 45 Versicherungsjahren sieht die Partei deutlichen Änderungsbedarf.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533583/1794645208/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Ukraine im Abwehrkampf behindert: US-Demokraten leiten Untersuchung zur Starlink-Drosselung ein</title>
+                <description>Im Oktober und in dieser Woche erneut beklagt die Ukraine Einschränkungen beim Satelliten-Internet. Elon Musk und die US-Regierung schieben sich gegenseitig die Schuld zu. US-Senatoren fordern nun Antworten von Elon Musks SpaceX. </description>
+                <link>https://www.n-tv.de/politik/US-Demokraten-leiten-Untersuchung-zur-Starlink-Drosselung-ein-id31533764.html</link>
+                <guid>https://www.n-tv.de/politik/US-Demokraten-leiten-Untersuchung-zur-Starlink-Drosselung-ein-id31533764.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 10:49:48 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31493707/1794650679/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Im Oktober und in dieser Woche erneut beklagt die Ukraine Einschränkungen beim Satelliten-Internet. Elon Musk und die US-Regierung schieben sich gegenseitig die Schuld zu. US-Senatoren fordern nun Antworten von Elon Musks SpaceX. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31493707/1794650679/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Einigkeit bei Verteilungsfragen: Abgeordnete arbeiten laut Bericht an Rot-Rot-Grün auf Bundesebene</title>
+                <description>In Berlin und Mecklenburg-Vorpommern handeln SPD, Grüne und Linke seit einiger Zeit eine Zusammenarbeit aus. In Bremen regieren sie gemeinsam. Einem Bericht zufolge treffen sich einige Abgeordnete der drei Parteien neuerdings zum Austausch über eine mögliche gemeinsame Bundesregierung.</description>
+                <link>https://www.n-tv.de/politik/Abgeordnete-arbeiten-laut-Bericht-an-Rot-Rot-Gruen-auf-Bundesebene-id31533517.html</link>
+                <guid>https://www.n-tv.de/politik/Abgeordnete-arbeiten-laut-Bericht-an-Rot-Rot-Gruen-auf-Bundesebene-id31533517.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 07:13:31 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533498/1794639278/Img_4_3/250/557387003.jpg" width="250" height="188" align="left" />In Berlin und Mecklenburg-Vorpommern handeln SPD, Grüne und Linke seit einiger Zeit eine Zusammenarbeit aus. In Bremen regieren sie gemeinsam. Einem Bericht zufolge treffen sich einige Abgeordnete der drei Parteien neuerdings zum Austausch über eine mögliche gemeinsame Bundesregierung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533498/1794639278/Img_4_3/250/557387003.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Oranje als &quot;Augenweide&quot;: &quot;Monstersieg&quot; muss DFB-Team eine Warnung sein</title>
+                <description>Beinahe überschlägt sich die niederländische Presse nach dem Torfestival der Fußball-Nationalmannschaft. Ersatzkapitän Frenkie de Jong genießt den Sieg, nur Trainer Xavi bleibt ganz ruhig. Mit Rückenwind geht es nun gegen den DFB. </description>
+                <link>https://www.n-tv.de/sport/fussball/Monstersieg-muss-DFB-Team-eine-Warnung-sein-id31533632.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Monstersieg-muss-DFB-Team-eine-Warnung-sein-id31533632.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 10:11:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533635/1794646262/Img_4_3/250/imago1085897415h.jpg" width="250" height="188" align="left" />Beinahe überschlägt sich die niederländische Presse nach dem Torfestival der Fußball-Nationalmannschaft. Ersatzkapitän Frenkie de Jong genießt den Sieg, nur Trainer Xavi bleibt ganz ruhig. Mit Rückenwind geht es nun gegen den DFB. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533635/1794646262/Img_4_3/250/imago1085897415h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gruda brilliert in Serbien: Nächstes DFB-Traumdebüt: Hat Jürgen Klopp etwa recht?</title>
+                <description>Fünftes Spiel, zweiter Sieg: Bundestrainer Jürgen Klopp gewinnt erstmals mit der deutschen Fußball-Nationalmannschaft auswärts. Ein weiterer Debütant fügt sich nahtlos ein. Und Serbien ist komplett überfordert.</description>
+                <link>https://www.n-tv.de/sport/fussball/Naechstes-DFB-Traumdebuet-Hat-Juergen-Klopp-etwa-recht-id31533189.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Naechstes-DFB-Traumdebuet-Hat-Juergen-Klopp-etwa-recht-id31533189.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 07:00:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533505/1794639385/Img_4_3/250/imago1085905084h.jpg" width="250" height="188" align="left" />Fünftes Spiel, zweiter Sieg: Bundestrainer Jürgen Klopp gewinnt erstmals mit der deutschen Fußball-Nationalmannschaft auswärts. Ein weiterer Debütant fügt sich nahtlos ein. Und Serbien ist komplett überfordert.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533505/1794639385/Img_4_3/250/imago1085905084h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nicht unbedingt appetitanregend: KI-Bilder verschandeln die Speisekarten </title>
+                <description>Perfekte Burger, makellose Croissants - doch statt Hunger kommt Ekel auf: KI-Bilder auf Speisekarten stoßen manchen Gästen übel auf. Auch bei Lieferando ging ein Test schief. Wie sehr verdirbt die künstliche Darstellung von Essen den Appetit?</description>
+                <link>https://www.n-tv.de/panorama/KI-Bilder-verschandeln-die-Speisekarten-id31515897.html</link>
+                <guid>https://www.n-tv.de/panorama/KI-Bilder-verschandeln-die-Speisekarten-id31515897.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 14 Nov 2026 10:34:48 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31515997/1794309410/Img_4_3/250/630984763.jpg" width="250" height="188" align="left" />Perfekte Burger, makellose Croissants - doch statt Hunger kommt Ekel auf: KI-Bilder auf Speisekarten stoßen manchen Gästen übel auf. Auch bei Lieferando ging ein Test schief. Wie sehr verdirbt die künstliche Darstellung von Essen den Appetit?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31515997/1794309410/Img_4_3/250/630984763.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mehr Frauen melden sich: Polizei untersucht neue Vorwürfe gegen Russell Brand</title>
+                <description>Nach dem Urteil gegen Russell Brand wegen Vergewaltigung und sexueller Übergriffe untersucht die britische Polizei weitere Vorwürfe gegen den Komiker und Schauspieler. Laut einem britischen Medienbericht könnte es einen zweiten Prozess geben.</description>
+                <link>https://www.n-tv.de/leute/Polizei-untersucht-neue-Vorwuerfe-gegen-Russell-Brand-id31533804.html</link>
+                <guid>https://www.n-tv.de/leute/Polizei-untersucht-neue-Vorwuerfe-gegen-Russell-Brand-id31533804.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 14 Nov 2026 13:19:54 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31512756/1794238493/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Nach dem Urteil gegen Russell Brand wegen Vergewaltigung und sexueller Übergriffe untersucht die britische Polizei weitere Vorwürfe gegen den Komiker und Schauspieler. Laut einem britischen Medienbericht könnte es einen zweiten Prozess geben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31512756/1794238493/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Lass&apos; &quot;Sie&quot; nicht in dein Herz: Vor dieser &quot;Mommy&quot; hat selbst Stephen King Angst</title>
+                <description>Die achtjährige Bela liegt nachts in ihrem Bett, als sich in der Dunkelheit plötzlich leise die Türen ihres Kleiderschranks öffnen. Eine Gestalt erscheint und fragt mit freundlicher Stimme: &quot;Hallo du … darf ich in dein Herz?&quot; Und Bela weiß, die Antwort darauf wird ihr Leben verändern.</description>
+                <link>https://www.n-tv.de/leute/hoerbuecher/Vor-dieser-Mommy-hat-selbst-Stephen-King-Angst-id31425972.html</link>
+                <guid>https://www.n-tv.de/leute/hoerbuecher/Vor-dieser-Mommy-hat-selbst-Stephen-King-Angst-id31425972.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 14 Nov 2026 12:32:19 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31426048/1792156972/Img_4_3/250/552665888.jpg" width="250" height="188" align="left" />Die achtjährige Bela liegt nachts in ihrem Bett, als sich in der Dunkelheit plötzlich leise die Türen ihres Kleiderschranks öffnen. Eine Gestalt erscheint und fragt mit freundlicher Stimme: "Hallo du … darf ich in dein Herz?" Und Bela weiß, die Antwort darauf wird ihr Leben verändern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31426048/1792156972/Img_4_3/250/552665888.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm</title>
+                <description>Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das Chaos an den Flughäfen lichtet.</description>
+                <link>https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 14 Nov 2026 02:49:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533285/1794625784/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das Chaos an den Flughäfen lichtet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533285/1794625784/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Staatsrechtler erklärt Hürden: Vergesellschaftung: &quot;Bis zu einer Entscheidung vergehen mindestens fünf Jahre&quot;</title>
+                <description>In Berlin verhandeln Linke, Grüne und SPD über eine Koalition und die Vergesellschaftung privater Wohnungsbestände. Klagen gegen die Pläne könnten bis vor den Europäischen Gerichtshof gehen, sagt der Staatsrechtler Thorsten Ingo Schmidt.</description>
+                <link>https://www.n-tv.de/politik/Vergesellschaftung-Bis-zu-einer-Entscheidung-vergehen-mindestens-fuenf-Jahre-id31525667.html</link>
+                <guid>https://www.n-tv.de/politik/Vergesellschaftung-Bis-zu-einer-Entscheidung-vergehen-mindestens-fuenf-Jahre-id31525667.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 07:40:22 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31525688/1794486567/Img_4_3/250/626684047.jpg" width="250" height="188" align="left" />In Berlin verhandeln Linke, Grüne und SPD über eine Koalition und die Vergesellschaftung privater Wohnungsbestände. Klagen gegen die Pläne könnten bis vor den Europäischen Gerichtshof gehen, sagt der Staatsrechtler Thorsten Ingo Schmidt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31525688/1794486567/Img_4_3/250/626684047.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Resultat schärferer Regeln: EU-Staaten einigen sich offenbar mit Ruanda auf Abschiebezentrum</title>
+                <description>Fünf EU-Staaten, darunter auch Deutschland, sind Diplomaten zufolge bei der Suche nach einem außereuropäischen Partnerland für Abschiebezentren fündig geworden. Ruanda bietet der EU seine Dienste an. Das Vorhaben ist rechtlich umstritten.</description>
+                <link>https://www.n-tv.de/politik/EU-Staaten-einigen-sich-offenbar-mit-Ruanda-auf-Abschiebezentrum-id31533720.html</link>
+                <guid>https://www.n-tv.de/politik/EU-Staaten-einigen-sich-offenbar-mit-Ruanda-auf-Abschiebezentrum-id31533720.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 10:13:53 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533741/1794649321/Img_4_3/250/291260801.jpg" width="250" height="188" align="left" />Fünf EU-Staaten, darunter auch Deutschland, sind Diplomaten zufolge bei der Suche nach einem außereuropäischen Partnerland für Abschiebezentren fündig geworden. Ruanda bietet der EU seine Dienste an. Das Vorhaben ist rechtlich umstritten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533741/1794649321/Img_4_3/250/291260801.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wieduwilts Woche: Schmarrn, Juristen - d&apos;Ilse ko Bierzelt, de braucht koa Hochdeitsch!</title>
+                <description>Die künftige Bundespräsidentin ist eine Elektrotechnikerin. Doch ihr Geschlecht, ihre Ausbildung und auch ihre Mundart sind zweitrangig. Wenn sie bessere Reden hält als ihr Vorgänger - dann gern auch auf Bairisch.</description>
+                <link>https://www.n-tv.de/politik/politik_wieduwilts_woche/Schmarrn-Juristen-d-Ilse-ko-Bierzelt-de-braucht-koa-Hochdeitsch-id31532732.html</link>
+                <guid>https://www.n-tv.de/politik/politik_wieduwilts_woche/Schmarrn-Juristen-d-Ilse-ko-Bierzelt-de-braucht-koa-Hochdeitsch-id31532732.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 07:20:20 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532747/1794601217/Img_4_3/250/310853561.jpg" width="250" height="188" align="left" />Die künftige Bundespräsidentin ist eine Elektrotechnikerin. Doch ihr Geschlecht, ihre Ausbildung und auch ihre Mundart sind zweitrangig. Wenn sie bessere Reden hält als ihr Vorgänger - dann gern auch auf Bairisch.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532747/1794601217/Img_4_3/250/310853561.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Katastrophaler&quot; Gegner für Klopp: &quot;Das war Fußball zum Verlieben - und jetzt zu Deutschland!&quot;</title>
+                <description>Deutschland gewinnt souverän gegen Serbien und bekommt das Nations-League-Gruppenfinale gegen die Niederlande. Der Gegner war schwach, die DFB-Elf aber stark. Besonders zwei Spieler gefallen unserem Experten Arie van Lent.</description>
+                <link>https://www.n-tv.de/sport/fussball/Das-war-Fussball-zum-Verlieben-und-jetzt-zu-Deutschland-id31532379.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Das-war-Fussball-zum-Verlieben-und-jetzt-zu-Deutschland-id31532379.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 06:13:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533492/1794638282/Img_4_3/250/632842015.jpg" width="250" height="188" align="left" />Deutschland gewinnt souverän gegen Serbien und bekommt das Nations-League-Gruppenfinale gegen die Niederlande. Der Gegner war schwach, die DFB-Elf aber stark. Besonders zwei Spieler gefallen unserem Experten Arie van Lent.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533492/1794638282/Img_4_3/250/632842015.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nur fünf Minuten auf dem Platz: Startelf-Comeback nach 600 Tagen: Bayern-Star Davies verletzt sich wieder</title>
+                <description>Kanada siegt im Viertelfinal-Hinspiel der CONCACAF Nations League, kann das aber nicht genießen. Denn nach nur fünf Minuten Spielzeit muss Alphonso Davies ausgewechselt werden. Dabei steht er zum ersten Mal nach 600 Tagen in der Startelf. </description>
+                <link>https://www.n-tv.de/sport/fussball/Startelf-Comeback-nach-600-Tagen-Bayern-Star-Davies-verletzt-sich-wieder-id31533821.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Startelf-Comeback-nach-600-Tagen-Bayern-Star-Davies-verletzt-sich-wieder-id31533821.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 11:44:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533692/1794647813/Img_4_3/250/imago1079156804h.jpg" width="250" height="188" align="left" />Kanada siegt im Viertelfinal-Hinspiel der CONCACAF Nations League, kann das aber nicht genießen. Denn nach nur fünf Minuten Spielzeit muss Alphonso Davies ausgewechselt werden. Dabei steht er zum ersten Mal nach 600 Tagen in der Startelf. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533692/1794647813/Img_4_3/250/imago1079156804h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Topteam aus der Arbeiterstadt: Für Lions-Coach Dan Campbell geht es primär um deutsches Bier und Scheiß-Flügel</title>
+                <description>Head Coach Dan Campbell zeigt sich zum Antritt vor dem Munich Game der NFL von seiner launigen Seite und wartet mit mehreren launigen Anekdoten auf. Hervorzuheben sind sein klares Ziel und die Sprachkenntnisse von Amon-Ra St. Brown.</description>
+                <link>https://www.n-tv.de/sport/nfl/Fuer-Lions-Coach-Dan-Campbell-geht-es-primaer-um-deutsches-Bier-und-Scheiss-Fluegel-id31532913.html</link>
+                <guid>https://www.n-tv.de/sport/nfl/Fuer-Lions-Coach-Dan-Campbell-geht-es-primaer-um-deutsches-Bier-und-Scheiss-Fluegel-id31532913.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 09:07:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532925/1794607235/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Head Coach Dan Campbell zeigt sich zum Antritt vor dem Munich Game der NFL von seiner launigen Seite und wartet mit mehreren launigen Anekdoten auf. Hervorzuheben sind sein klares Ziel und die Sprachkenntnisse von Amon-Ra St. Brown.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532925/1794607235/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Star-Duell bei ATP Finals : Plötzlich ist Boris Becker wieder der &quot;größte Fan&quot; von Zverev</title>
+                <description>Tennis-Dress getauscht gegen den feinen Zwirn: Alexander Zverev und Carlos Alcaraz sind vor den ATP Finals die begehrtesten Spieler. Kein Wunder, denn vieles deutet auf das Duell des Weltranglistenersten mit dem formstarken Rückkehrer hin. </description>
+                <link>https://www.n-tv.de/sport/Ploetzlich-ist-Boris-Becker-wieder-der-groesste-Fan-von-Zverev-id31533773.html</link>
+                <guid>https://www.n-tv.de/sport/Ploetzlich-ist-Boris-Becker-wieder-der-groesste-Fan-von-Zverev-id31533773.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 10:41:19 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533747/1794649465/Img_4_3/250/imago0884330393h.jpg" width="250" height="188" align="left" />Tennis-Dress getauscht gegen den feinen Zwirn: Alexander Zverev und Carlos Alcaraz sind vor den ATP Finals die begehrtesten Spieler. Kein Wunder, denn vieles deutet auf das Duell des Weltranglistenersten mit dem formstarken Rückkehrer hin. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533747/1794649465/Img_4_3/250/imago0884330393h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Hohe Dunkelziffer vermutet: Diabetes richtet oft unbemerkt schwere Schäden an</title>
+                <description>Rund sieben Millionen Menschen in Deutschland leben mit diagnostiziertem Diabetes. Dauerhaft erhöhte Blutzuckerwerte begünstigen Herzinfarkt, Schlaganfall und Nierenleiden. Welche Körperteile auch betroffen sein können, zeigt die Übersicht.  </description>
+                <link>https://www.n-tv.de/wissen/Diabetes-richtet-oft-unbemerkt-schwere-Schaeden-an-id31516949.html</link>
+                <guid>https://www.n-tv.de/wissen/Diabetes-richtet-oft-unbemerkt-schwere-Schaeden-an-id31516949.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 14 Nov 2026 07:34:44 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31516995/1794317405/Img_4_3/250/imago0101936224h.jpg" width="250" height="188" align="left" />Rund sieben Millionen Menschen in Deutschland leben mit diagnostiziertem Diabetes. Dauerhaft erhöhte Blutzuckerwerte begünstigen Herzinfarkt, Schlaganfall und Nierenleiden. Welche Körperteile auch betroffen sein können, zeigt die Übersicht.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31516995/1794317405/Img_4_3/250/imago0101936224h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sechs Monate nach Ausbruch: Warum Ebola im Kongo weiter grassiert</title>
+                <description>Bisher sind mehr als 11.000 Ebola-Fälle und fast 5.500 Ebola-Tote in der Demokratischen Republik registriert. Die Behörden haben auch sechs Monate nach Beginn des Ausbruchs die Krankheit nicht im Griff. Woran das liegt? Die wichtigsten Antworten dazu im Überblick.</description>
+                <link>https://www.n-tv.de/wissen/Warum-Ebola-im-Kongo-weiter-grassiert-id31529210.html</link>
+                <guid>https://www.n-tv.de/wissen/Warum-Ebola-im-Kongo-weiter-grassiert-id31529210.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 14 Nov 2026 08:58:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31529217/1794557404/Img_4_3/250/628280890.jpg" width="250" height="188" align="left" />Bisher sind mehr als 11.000 Ebola-Fälle und fast 5.500 Ebola-Tote in der Demokratischen Republik registriert. Die Behörden haben auch sechs Monate nach Beginn des Ausbruchs die Krankheit nicht im Griff. Woran das liegt? Die wichtigsten Antworten dazu im Überblick.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31529217/1794557404/Img_4_3/250/628280890.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zeitung schäumt vor Wut auf FIA: Reporter-Legende beleidigt Formel-1-Star und fliegt raus</title>
+                <description>Ein britischer Formel-1-Reporter lässt kein gutes Haar am monegassischen Fahrer Charles Leclerc. In einer Kolumne beleidigt er den Ferrari-Star. Das hat nun gravierende Konsequenzen.</description>
+                <link>https://www.n-tv.de/sport/formel1/Reporter-Legende-beleidigt-Formel-1-Star-und-fliegt-raus-id31533167.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Reporter-Legende-beleidigt-Formel-1-Star-und-fliegt-raus-id31533167.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 14 Nov 2026 00:29:37 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31270285/1788529217/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Ein britischer Formel-1-Reporter lässt kein gutes Haar am monegassischen Fahrer Charles Leclerc. In einer Kolumne beleidigt er den Ferrari-Star. Das hat nun gravierende Konsequenzen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31270285/1788529217/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trennung wohl schon im Oktober: Ehe-Aus bei Anika und Manuel Neuer</title>
+                <description>Der Torwart des FC Bayern und seine Ehefrau Anika lassen sich offenbar scheiden. Laut Medienberichten erfolgte die Trennung bereits vor einigen Wochen. Vor wenigen Monaten wurden die beiden zum zweiten Mal Eltern.</description>
+                <link>https://www.n-tv.de/leute/Ehe-Aus-bei-Anika-und-Manuel-Neuer-id31532767.html</link>
+                <guid>https://www.n-tv.de/leute/Ehe-Aus-bei-Anika-und-Manuel-Neuer-id31532767.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Fri, 13 Nov 2026 20:52:30 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532783/1794602266/Img_4_3/250/429412297 (1).jpg" width="250" height="188" align="left" />Der Torwart des FC Bayern und seine Ehefrau Anika lassen sich offenbar scheiden. Laut Medienberichten erfolgte die Trennung bereits vor einigen Wochen. Vor wenigen Monaten wurden die beiden zum zweiten Mal Eltern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532783/1794602266/Img_4_3/250/429412297 (1).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schönster V12-GT der Welt? : Unterwegs mit dem Ferrari 365 GTB/4 alias Daytona - irre teuer</title>
+                <description>Autos der 1960er- und 1970er-Jahre verlieren langsam ihre Fans, weil die Generation entweder ausstirbt oder zumindest das Fahren aufgibt. Kein Grund, sich als junger Mensch nicht dennoch für einen Ferrari Daytona zu begeistern. ntv.de hat ihn bewegt.</description>
+                <link>https://www.n-tv.de/auto/Unterwegs-mit-dem-Ferrari-365-GTB-4-alias-Daytona-irre-teuer-id31529309.html</link>
+                <guid>https://www.n-tv.de/auto/Unterwegs-mit-dem-Ferrari-365-GTB-4-alias-Daytona-irre-teuer-id31529309.html</guid>
+                <category>Auto</category>
+                <pubDate>Sat, 14 Nov 2026 06:29:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31529313/1794561524/Img_4_3/250/Ferrari_365_GTB4_VO.jpg" width="250" height="188" align="left" />Autos der 1960er- und 1970er-Jahre verlieren langsam ihre Fans, weil die Generation entweder ausstirbt oder zumindest das Fahren aufgibt. Kein Grund, sich als junger Mensch nicht dennoch für einen Ferrari Daytona zu begeistern. ntv.de hat ihn bewegt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31529313/1794561524/Img_4_3/250/Ferrari_365_GTB4_VO.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vater unbekannt: Sängerin Avril Lavigne mit 42 Jahren erstmals Mutter </title>
+                <description>Pop-Punk-Sängerin Avril Lavigne schwebt im Mutterglück. Auf Instagram teilt die Musikerin Fotos ihrer Tochter. Den Namen des Vaters hält die kanadische Musikerin zurück.</description>
+                <link>https://www.n-tv.de/leute/Saengerin-Avril-Lavigne-mit-42-Jahren-erstmals-Mutter-id31532636.html</link>
+                <guid>https://www.n-tv.de/leute/Saengerin-Avril-Lavigne-mit-42-Jahren-erstmals-Mutter-id31532636.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Fri, 13 Nov 2026 21:45:28 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532643/1794599885/Img_4_3/250/Our Mini Fucking Princess has arrived 🎀👑🍼🩷.jpg" width="250" height="188" align="left" />Pop-Punk-Sängerin Avril Lavigne schwebt im Mutterglück. Auf Instagram teilt die Musikerin Fotos ihrer Tochter. Den Namen des Vaters hält die kanadische Musikerin zurück.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532643/1794599885/Img_4_3/250/Our Mini Fucking Princess has arrived 🎀👑🍼🩷.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Hohe Rendite möglich: BASF mit 16-Prozent-Chance</title>
+                <description>Die BASF-Aktie notiert nach dem kräftigen Kursanstieg der vergangenen Wochen derzeit knapp unterhalb ihres Jahreshochs. Mit einem Bonus-Zertifikat mit Cap können Anleger auch dann hohe Renditen erzielen, wenn sich der Kursanstieg nicht weiter fortsetzt.</description>
+                <link>https://www.n-tv.de/ratgeber/BASF-mit-16-Prozent-Chance-id31530850.html</link>
+                <guid>https://www.n-tv.de/ratgeber/BASF-mit-16-Prozent-Chance-id31530850.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 14 Nov 2026 07:37:12 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31438043/1792765332/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die BASF-Aktie notiert nach dem kräftigen Kursanstieg der vergangenen Wochen derzeit knapp unterhalb ihres Jahreshochs. Mit einem Bonus-Zertifikat mit Cap können Anleger auch dann hohe Renditen erzielen, wenn sich der Kursanstieg nicht weiter fortsetzt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31438043/1792765332/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Brandgefahr bei 721.000 Pkw: BMW-Fahrer in den USA sollen Fahrzeuge nicht drinnen parken</title>
+                <description>Erneuter Ärger in den Vereinigten Staaten für BMW-Fahrer. Nach einer großen Rückrufaktion vor zwei Jahren müssen die Betroffenen ihre Fahrzeuge nun nochmals in die Werkstatt bringen. Bis dahin sollen sie zudem keine Garagen oder Carports nutzen.</description>
+                <link>https://www.n-tv.de/wirtschaft/BMW-Fahrer-in-den-USA-sollen-Fahrzeuge-nicht-drinnen-parken-id31531603.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/BMW-Fahrer-in-den-USA-sollen-Fahrzeuge-nicht-drinnen-parken-id31531603.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 13 Nov 2026 16:56:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31531737/1794585131/Img_4_3/250/imago0508479810h.jpg" width="250" height="188" align="left" />Erneuter Ärger in den Vereinigten Staaten für BMW-Fahrer. Nach einer großen Rückrufaktion vor zwei Jahren müssen die Betroffenen ihre Fahrzeuge nun nochmals in die Werkstatt bringen. Bis dahin sollen sie zudem keine Garagen oder Carports nutzen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31531737/1794585131/Img_4_3/250/imago0508479810h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fünfte Ehe im Eimer: Roger Waters reicht mit 83 die Scheidung ein</title>
+                <description>In den vergangenen Jahren hat Pink-Floyd-Gründer Roger Waters meist mit seinen umstrittenen politischen Positionen Schlagzeilen gemacht. Und mit seiner fünften Hochzeit im Alter von 78 Jahren. Doch die ist nun auch Geschichte.</description>
+                <link>https://www.n-tv.de/leute/Roger-Waters-reicht-mit-83-die-Scheidung-ein-id31531956.html</link>
+                <guid>https://www.n-tv.de/leute/Roger-Waters-reicht-mit-83-die-Scheidung-ein-id31531956.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Fri, 13 Nov 2026 17:48:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31531959/1794587365/Img_4_3/250/124042417.jpg" width="250" height="188" align="left" />In den vergangenen Jahren hat Pink-Floyd-Gründer Roger Waters meist mit seinen umstrittenen politischen Positionen Schlagzeilen gemacht. Und mit seiner fünften Hochzeit im Alter von 78 Jahren. Doch die ist nun auch Geschichte.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31531959/1794587365/Img_4_3/250/124042417.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schiffe in Brand geraten: Iran: Drei Öltanker in Straße von Hormus auf Seeminen gefahren</title>
+                <description>Schiffe, die die Straße von Hormus durchqueren, sind weiterhin großer Gefahr ausgesetzt. Teheran berichtet nun, drei Öltanker seien mit einer Seemine kollidiert. Die USA behaupten derweil, die Meerenge sei wieder weitgehend minenfrei.</description>
+                <link>https://www.n-tv.de/politik/Iran-Drei-Oeltanker-in-Strasse-von-Hormus-auf-Seeminen-gefahren-id31533634.html</link>
+                <guid>https://www.n-tv.de/politik/Iran-Drei-Oeltanker-in-Strasse-von-Hormus-auf-Seeminen-gefahren-id31533634.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 10:33:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31429486/1794649779/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Schiffe, die die Straße von Hormus durchqueren, sind weiterhin großer Gefahr ausgesetzt. Teheran berichtet nun, drei Öltanker seien mit einer Seemine kollidiert. Die USA behaupten derweil, die Meerenge sei wieder weitgehend minenfrei.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31429486/1794649779/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Iran wird Thema, Ukraine nicht: Trump trifft Putin und Xi zu Dreiergipfel in China</title>
+                <description>Jetzt ist es offiziell: Wenn US-Präsident Trump nächste Woche nach China reist, wird es ein historisches Zusammentreffen mit Xi und Putin geben. Der US-Präsident will dem Vernehmen nach vor allem über nukleare Abrüstung sprechen. Der Krieg in der Ukraine steht nicht auf der Agenda.  </description>
+                <link>https://www.n-tv.de/politik/Trump-trifft-Putin-und-Xi-zu-Dreiergipfel-in-China-id31533215.html</link>
+                <guid>https://www.n-tv.de/politik/Trump-trifft-Putin-und-Xi-zu-Dreiergipfel-in-China-id31533215.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 14 Nov 2026 01:59:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533216/1794621011/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Jetzt ist es offiziell: Wenn US-Präsident Trump nächste Woche nach China reist, wird es ein historisches Zusammentreffen mit Xi und Putin geben. Der US-Präsident will dem Vernehmen nach vor allem über nukleare Abrüstung sprechen. Der Krieg in der Ukraine steht nicht auf der Agenda.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533216/1794621011/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Deutschland soll dabei sein: EU-Verhandlungsteam für Gespräche mit Russland steht</title>
+                <description>Die EU pocht auf einen Platz am Verhandlungstisch bei den Ukraine-Gesprächen. Nun gibt es eine Einigung darüber, wer die Europäer vertreten soll, wenn Kiew, Moskau und Washington zusammentreffen. Deutschland ist nur eines von fünf Ländern.</description>
+                <link>https://www.n-tv.de/politik/EU-Verhandlungsteam-fuer-Gespraeche-mit-Russland-steht-id31532517.html</link>
+                <guid>https://www.n-tv.de/politik/EU-Verhandlungsteam-fuer-Gespraeche-mit-Russland-steht-id31532517.html</guid>
+                <category>Politik</category>
+                <pubDate>Fri, 13 Nov 2026 18:53:58 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532541/1794596722/Img_4_3/250/628110916.jpg" width="250" height="188" align="left" />Die EU pocht auf einen Platz am Verhandlungstisch bei den Ukraine-Gesprächen. Nun gibt es eine Einigung darüber, wer die Europäer vertreten soll, wenn Kiew, Moskau und Washington zusammentreffen. Deutschland ist nur eines von fünf Ländern.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532541/1794596722/Img_4_3/250/628110916.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dow tritt auf der Stelle: Chip-Werte kommen unter die Räder</title>
+                <description>Die Krise bei Nvidia greift um sich, der Halbleitersektor geht mit kräftigen Verlusten aus dem Handel. Kurz bevor die Schlussglocke ertönt, ereilt die Wall Street die Meldung vom landesweiten Flugstopp. Das bekommt Airline-Aktien nicht gut.</description>
+                <link>https://www.n-tv.de/wirtschaft/Chip-Werte-kommen-unter-die-Raeder-id31533210.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Chip-Werte-kommen-unter-die-Raeder-id31533210.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 13 Nov 2026 23:55:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533289/1794626442/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Krise bei Nvidia greift um sich, der Halbleitersektor geht mit kräftigen Verlusten aus dem Handel. Kurz bevor die Schlussglocke ertönt, ereilt die Wall Street die Meldung vom landesweiten Flugstopp. Das bekommt Airline-Aktien nicht gut.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533289/1794626442/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen</title>
+                <description>Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.</description>
+                <link>https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 13 Nov 2026 22:30:34 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533059/1794610049/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533059/1794610049/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unter Vier-Billionen-Marke: Nvidias Börsenwert fällt um 650 Milliarden Dollar - in einer Woche</title>
+                <description>KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs Affären kosten Anleger Milliarden.</description>
+                <link>https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 13 Nov 2026 20:07:38 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532461/1794595018/Img_4_3/250/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO.jpg" width="250" height="188" align="left" />KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs Affären kosten Anleger Milliarden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532461/1794595018/Img_4_3/250/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zwei Platzverweise für Gastgeber : Souveräne DFB-Elf schlägt erschreckend schwache Serben</title>
+                <description>Die deutsche Fußball-Nationalmannschaft erfüllt ihre Pflichtaufgabe in der Nations League: Im strömenden Regen von Belgrad schlägt die Elf von Bundestrainer Klopp hilflose Serben ohne Mühe und hat im Kampf um den Viertelfinaleinzug noch alle Chancen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Souveraene-DFB-Elf-schlaegt-erschreckend-schwache-Serben-id31533016.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Souveraene-DFB-Elf-schlaegt-erschreckend-schwache-Serben-id31533016.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 22:39:24 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533001/1794608871/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die deutsche Fußball-Nationalmannschaft erfüllt ihre Pflichtaufgabe in der Nations League: Im strömenden Regen von Belgrad schlägt die Elf von Bundestrainer Klopp hilflose Serben ohne Mühe und hat im Kampf um den Viertelfinaleinzug noch alle Chancen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533001/1794608871/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Tor-Warnung an die DFB-Elf: Furiose Niederländer demütigen völlig überforderte Griechen</title>
+                <description>Die Niederlande sind bereit für den Nations-League-Showdown gegen Deutschland. Im Heimspiel in Amsterdam kennt Oranje keine Gnade mit Gegner Griechenland.</description>
+                <link>https://www.n-tv.de/sport/fussball/Furiose-Niederlaender-demuetigen-voellig-ueberforderte-Griechen-id31533012.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Furiose-Niederlaender-demuetigen-voellig-ueberforderte-Griechen-id31533012.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 23:44:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533008/1794609033/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Niederlande sind bereit für den Nations-League-Showdown gegen Deutschland. Im Heimspiel in Amsterdam kennt Oranje keine Gnade mit Gegner Griechenland.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533008/1794609033/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Foul mit Todesfolge: Spanischer Verband verkündet Strafe für Jesus Owono</title>
+                <description>Es ist die Entscheidung von Jesús Owono, ob und wann er wieder im Tor stehen wird. Das betont der Trainer des Profis. Vorerst kann Owono ohnehin nicht spielen, die Strafe für seine Rote Karte steht fest.</description>
+                <link>https://www.n-tv.de/sport/fussball/Spanischer-Verband-verkuendet-Strafe-fuer-Jesus-Owono-id31532949.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Spanischer-Verband-verkuendet-Strafe-fuer-Jesus-Owono-id31532949.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 22:10:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31496161/1794607777/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Es ist die Entscheidung von Jesús Owono, ob und wann er wieder im Tor stehen wird. Das betont der Trainer des Profis. Vorerst kann Owono ohnehin nicht spielen, die Strafe für seine Rote Karte steht fest.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31496161/1794607777/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Heimpleite gegen Rote Teufel: Deutsche U21 verliert ohne Superstürmer Tresoldi hitzigen EM-Test</title>
+                <description>Die deutsche U21-Nationalmannschaft verliert ihren EM-Härtetest gegen Belgien. Stürmer Nicolò Tresoldi wird schmerzlich vermisst.</description>
+                <link>https://www.n-tv.de/sport/fussball/Deutsche-U21-verliert-ohne-Superstuermer-Tresoldi-hitzigen-EM-Test-id31532690.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Deutsche-U21-verliert-ohne-Superstuermer-Tresoldi-hitzigen-EM-Test-id31532690.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 20:06:48 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532681/1794600358/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die deutsche U21-Nationalmannschaft verliert ihren EM-Härtetest gegen Belgien. Stürmer Nicolò Tresoldi wird schmerzlich vermisst.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532681/1794600358/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Völler zückt noch Tickets: Klopp setzt Schlotterbeck auf die Bank - RB-Youngster debütiert</title>
+                <description>Bundestrainer Jürgen Klopp überrascht auch beim Gastspiel in Serbien. Der Leipziger Gruda wird zum elften Debütanten. Ein Dortmunder Verteidiger sitzt auf der Bank.</description>
+                <link>https://www.n-tv.de/sport/fussball/DFB-Aufstellung-gegen-Serbien-Klopp-setzt-Schlotterbeck-auf-die-Bank-RB-Youngster-debuetiert-id31532680.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/DFB-Aufstellung-gegen-Serbien-Klopp-setzt-Schlotterbeck-auf-die-Bank-RB-Youngster-debuetiert-id31532680.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 20:10:39 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532637/1794600122/Img_4_3/250/632819302.jpg" width="250" height="188" align="left" />Bundestrainer Jürgen Klopp überrascht auch beim Gastspiel in Serbien. Der Leipziger Gruda wird zum elften Debütanten. Ein Dortmunder Verteidiger sitzt auf der Bank.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532637/1794600122/Img_4_3/250/632819302.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kleines Wunder, großes Drama: Schockverliebtes Italien zelebriert den Fußball-Wahnsinn </title>
+                <description>Italien gegen Frankreich - was für ein Spiel: In einem vogelwilden Nations-League-Duell spielen sich die Azzurri zurück in die Herzen ihrer Fans. Ohne Drama gelingt das aber nicht.</description>
+                <link>https://www.n-tv.de/sport/fussball/Italien-holt-sich-die-Herzen-der-Fans-zurueck-3-1-in-Nations-League-gegen-Frankreich-id31530802.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Italien-holt-sich-die-Herzen-der-Fans-zurueck-3-1-in-Nations-League-gegen-Frankreich-id31530802.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 18:49:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31531912/1794586675/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Italien gegen Frankreich - was für ein Spiel: In einem vogelwilden Nations-League-Duell spielen sich die Azzurri zurück in die Herzen ihrer Fans. Ohne Drama gelingt das aber nicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31531912/1794586675/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Löwenherz&quot; in München: Kein &quot;Scheisch&quot; - Sein Trainer überschüttet NFL-Star St. Brown mit Lob</title>
+                <description>Amon-Ra St. Brown ist in der NFL das deutsche Aushängeschild. Jetzt kommt er mit den Detroit Lions zum Munich Game. Sein Trainer macht ein großes Lob - die deutsche Sprache setzt sich bei den Lions dagegen nicht mal zum Fluchen durch.</description>
+                <link>https://www.n-tv.de/sport/nfl/Kein-Scheisch-Sein-Trainer-ueberschuettet-NFL-Star-St-Brown-mit-Lob-id31532450.html</link>
+                <guid>https://www.n-tv.de/sport/nfl/Kein-Scheisch-Sein-Trainer-ueberschuettet-NFL-Star-St-Brown-mit-Lob-id31532450.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 18:34:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532448/1794594626/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Amon-Ra St. Brown ist in der NFL das deutsche Aushängeschild. Jetzt kommt er mit den Detroit Lions zum Munich Game. Sein Trainer macht ein großes Lob - die deutsche Sprache setzt sich bei den Lions dagegen nicht mal zum Fluchen durch.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532448/1794594626/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mitten in hitziger WM-Diskussion: Deutscher Eishockey-Star befürwortet Russland-Comeback</title>
+                <description>Moritz Seider sorgt mit durchaus kontroversen Sätzen für Aufmerksamkeit. Der Star-Verteidiger des deutschen Eishockey spricht sich für eine Rückkehr Russlands aus. </description>
+                <link>https://www.n-tv.de/sport/Deutscher-Eishockey-Star-befuerwortet-Russland-Comeback-id31532205.html</link>
+                <guid>https://www.n-tv.de/sport/Deutscher-Eishockey-Star-befuerwortet-Russland-Comeback-id31532205.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 20:26:46 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/30855585/1794589847/Img_4_3/250/596065088.jpg" width="250" height="188" align="left" />Moritz Seider sorgt mit durchaus kontroversen Sätzen für Aufmerksamkeit. Der Star-Verteidiger des deutschen Eishockey spricht sich für eine Rückkehr Russlands aus. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/30855585/1794589847/Img_4_3/250/596065088.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Gnadenlose Dominanz: Finnland zerstört Deutschlands Hoffnung auf ein WM-Wunder</title>
+                <description>Deutschlands Eishockey-Frauen überraschen bei der WM in der Vorrunde. Der Glaube an eine Sensation wächst. Im Viertelfinale zerschmettern ihn die Finninnen allerdings knallhart.</description>
+                <link>https://www.n-tv.de/sport/eishockey/Finnland-zerstoert-Deutschlands-Hoffnung-auf-ein-WM-Wunder-id31532381.html</link>
+                <guid>https://www.n-tv.de/sport/eishockey/Finnland-zerstoert-Deutschlands-Hoffnung-auf-ein-WM-Wunder-id31532381.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 18:07:16 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532260/1794591087/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Deutschlands Eishockey-Frauen überraschen bei der WM in der Vorrunde. Der Glaube an eine Sensation wächst. Im Viertelfinale zerschmettern ihn die Finninnen allerdings knallhart.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532260/1794591087/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Blitz-Abgang von Startrainer: Mauricio Pochettino kämpft mit den Tränen</title>
+                <description>Manchester United hat seinen Wunschkandidaten für die Nachfolge von Michael Carrick verpflichtet. Nach dem schlechtesten Saisonstart seit 40 Jahren soll Mauricio Pochettino die Wende schaffen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Mauricio-Pochettino-kaempft-mit-den-Traenen-id31532345.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Mauricio-Pochettino-kaempft-mit-den-Traenen-id31532345.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 13 Nov 2026 17:59:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532238/1794591812/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Manchester United hat seinen Wunschkandidaten für die Nachfolge von Michael Carrick verpflichtet. Nach dem schlechtesten Saisonstart seit 40 Jahren soll Mauricio Pochettino die Wende schaffen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532238/1794591812/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kollision auf dem Mississippi: Keine Vermissten nach Schiffsunglück in New Orleans</title>
+                <description>Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord. Ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung. </description>
+                <link>https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html</link>
+                <guid>https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 14 Nov 2026 00:48:57 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord. Ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unglück nahe New Orleans: US-Flusskreuzer kentert nach Kollision mit Frachter</title>
+                <description>Im Mississippi rammt ein Frachter einen Ausflugsdampfer. Durch die Kollision kentert der Flusskreuzer. Videoaufnahmen zeigen Menschen im Wasser.  </description>
+                <link>https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html</link>
+                <guid>https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html</guid>
+                <category>Panorama</category>
+                <pubDate>Fri, 13 Nov 2026 21:09:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31532865/1794606876/Img_4_3/250/Screenshot 2026-11-13 211541.jpg" width="250" height="188" align="left" />Im Mississippi rammt ein Frachter einen Ausflugsdampfer. Durch die Kollision kentert der Flusskreuzer. Videoaufnahmen zeigen Menschen im Wasser.  ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31532865/1794606876/Img_4_3/250/Screenshot 2026-11-13 211541.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
