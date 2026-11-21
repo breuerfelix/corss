@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sat, 21 Nov 2026 16:28:19 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Rekordverkehr auf &quot;Eis-Seidenstraße&quot;: China startet Linienverkehr durch die Arktis</title>
+                <description>China hat als erstes Land einen Linienverkehr auf der riskanten Nordostpassage etabliert. Auch Südkorea hat einen Frachter durch das arktische Eis nach Europa geschickt. Ist die Schifffahrtsroute entlang der russischen Küste eine Alternative zum Nahen Osten? Wirtschaftlich rentabel ist sie nicht.</description>
+                <link>https://www.n-tv.de/wirtschaft/China-startet-Linienverkehr-durch-die-Arktis-id31547269.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/China-startet-Linienverkehr-durch-die-Arktis-id31547269.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 21 Nov 2026 13:17:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31544926/1794933411/Img_4_3/250/2026-09-09T130049Z_1549676826_RC2OFNAG7SM6_RTRMADP_3_BRITAIN-SHIP-ARCTIC.jpg" width="250" height="188" align="left" />China hat als erstes Land einen Linienverkehr auf der riskanten Nordostpassage etabliert. Auch Südkorea hat einen Frachter durch das arktische Eis nach Europa geschickt. Ist die Schifffahrtsroute entlang der russischen Küste eine Alternative zum Nahen Osten? Wirtschaftlich rentabel ist sie nicht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31544926/1794933411/Img_4_3/250/2026-09-09T130049Z_1549676826_RC2OFNAG7SM6_RTRMADP_3_BRITAIN-SHIP-ARCTIC.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Trotz Senkung der Stromsteuer: Millionen Haushalte müssen mit Preiserhöhungen für Strom und Gas rechnen</title>
+                <description>Haushalte, die Strom und Gas über den Grundversorgungstarif beziehen, müssen sich auf Preiserhöhungen einstellen. Auch die geplante Stromsteuersenkung kann den Anstieg nicht vollständig abfedern. Wozu Verbraucherschützer jetzt raten.</description>
+                <link>https://www.n-tv.de/wirtschaft/Millionen-Haushalte-muessen-mit-Preiserhoehungen-fuer-Strom-und-Gas-rechnen-id31561553.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Millionen-Haushalte-muessen-mit-Preiserhoehungen-fuer-Strom-und-Gas-rechnen-id31561553.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 21 Nov 2026 10:59:29 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561569/1795257469/Img_4_3/250/633723463.jpg" width="250" height="188" align="left" />Haushalte, die Strom und Gas über den Grundversorgungstarif beziehen, müssen sich auf Preiserhöhungen einstellen. Auch die geplante Stromsteuersenkung kann den Anstieg nicht vollständig abfedern. Wozu Verbraucherschützer jetzt raten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561569/1795257469/Img_4_3/250/633723463.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Stimmung kippt vor der Wahl: Warum Polen sich von den Ukrainern abwendet </title>
+                <description>2022 nahmen polnische Familien Fremde aus der Ukraine bei sich zu Hause auf. Vier Jahre später lehnt eine Mehrheit weitere Flüchtlinge ab, die Zahl der Hassdelikte steigt.</description>
+                <link>https://www.n-tv.de/politik/Warum-Polen-sich-von-den-Ukrainern-abwendet-id31552274.html</link>
+                <guid>https://www.n-tv.de/politik/Warum-Polen-sich-von-den-Ukrainern-abwendet-id31552274.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 07:50:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31552432/1795084902/Img_4_3/250/606581633.jpg" width="250" height="188" align="left" />2022 nahmen polnische Familien Fremde aus der Ukraine bei sich zu Hause auf. Vier Jahre später lehnt eine Mehrheit weitere Flüchtlinge ab, die Zahl der Hassdelikte steigt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31552432/1795084902/Img_4_3/250/606581633.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Gott ist mit uns&quot;: Mexikos Behörden halten Migrantengruppe mit Ziel USA nicht auf</title>
+                <description>Junge Männer und Eltern mit ihren Kindern aus Mittelamerika haben sich auf den Weg in die USA gemacht - zu Fuß. Nun ließen mexikanische Behörden, die rund 250 Menschen eine Grenzbrücke zwischen Guatemala und Mexiko überqueren. Viele von ihnen lebten bereits in den USA und wurden Opfer von ICE-Razzien.</description>
+                <link>https://www.n-tv.de/politik/Mexikos-Behoerden-halten-Migrantengruppe-mit-Ziel-USA-nicht-auf-id31561461.html</link>
+                <guid>https://www.n-tv.de/politik/Mexikos-Behoerden-halten-Migrantengruppe-mit-Ziel-USA-nicht-auf-id31561461.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 10:58:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561445/1795253167/Img_4_3/250/imago0885440984h (1).jpg" width="250" height="188" align="left" />Junge Männer und Eltern mit ihren Kindern aus Mittelamerika haben sich auf den Weg in die USA gemacht - zu Fuß. Nun ließen mexikanische Behörden, die rund 250 Menschen eine Grenzbrücke zwischen Guatemala und Mexiko überqueren. Viele von ihnen lebten bereits in den USA und wurden Opfer von ICE-Razzien.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561445/1795253167/Img_4_3/250/imago0885440984h (1).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nach Sturz bei Kuraufenthalt: Millionenschwerer Kunstmäzen &quot;Mick&quot; Flick ist tot</title>
+                <description>Sein Name steht für Multi-Millionen-Vermögen, internationale Kunst und ein schweres historisches Erbe. Friedrich Christian &quot;Mick&quot; Flick prägt als Sammler und Mäzen über Jahrzehnte die Kulturszene, bleibt aber stets mit der NS-Vergangenheit seiner Familie konfrontiert. Nun ist er im Alter von 82 Jahren gestorben.</description>
+                <link>https://www.n-tv.de/panorama/Millionenschwerer-Kunstmaezen-Mick-Flick-ist-tot-id31562151.html</link>
+                <guid>https://www.n-tv.de/panorama/Millionenschwerer-Kunstmaezen-Mick-Flick-ist-tot-id31562151.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 15:29:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562166/1795273126/Img_4_3/250/imago0115425697h.jpg" width="250" height="188" align="left" />Sein Name steht für Multi-Millionen-Vermögen, internationale Kunst und ein schweres historisches Erbe. Friedrich Christian "Mick" Flick prägt als Sammler und Mäzen über Jahrzehnte die Kulturszene, bleibt aber stets mit der NS-Vergangenheit seiner Familie konfrontiert. Nun ist er im Alter von 82 Jahren gestorben.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562166/1795273126/Img_4_3/250/imago0115425697h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Heftiger Musiala-Knall: &quot;Was Rummenigge gesagt hat, ist eine Unverschämtheit&quot;</title>
+                <description>Bayern Münchens langjähriger Vorstandschef Karl-Heinz Rummenigge sorgt in der Debatte um die Erkrankung von Jamal Musiala für neuen Wirbel. Bei Sky äußert sich der 71-Jährige mit deutlichen Worten. ntv.de-Experte Arie van Lent ist fassungslos.</description>
+                <link>https://www.n-tv.de/sport/fussball/Was-Rummenigge-gesagt-hat-ist-eine-Unverschaemtheit-id31561441.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Was-Rummenigge-gesagt-hat-ist-eine-Unverschaemtheit-id31561441.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 11:08:49 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561439/1795252996/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Bayern Münchens langjähriger Vorstandschef Karl-Heinz Rummenigge sorgt in der Debatte um die Erkrankung von Jamal Musiala für neuen Wirbel. Bei Sky äußert sich der 71-Jährige mit deutlichen Worten. ntv.de-Experte Arie van Lent ist fassungslos.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561439/1795252996/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Harry Kane und das Sprunggelenk: Was ist ein Syndesmosebandriss?</title>
+                <description>Bayerns Torjäger Harry Kane muss wegen eines Syndesmosebandrisses voraussichtlich monatelang pausieren. Doch worum handelt es sich bei dieser Verletzung? Und wie kann sie therapiert werden?</description>
+                <link>https://www.n-tv.de/wissen/Was-ist-ein-Syndesmosebandriss-id31561695.html</link>
+                <guid>https://www.n-tv.de/wissen/Was-ist-ein-Syndesmosebandriss-id31561695.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 21 Nov 2026 11:57:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561701/1795267292/Img_4_3/250/634155112.jpg" width="250" height="188" align="left" />Bayerns Torjäger Harry Kane muss wegen eines Syndesmosebandrisses voraussichtlich monatelang pausieren. Doch worum handelt es sich bei dieser Verletzung? Und wie kann sie therapiert werden?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561701/1795267292/Img_4_3/250/634155112.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Katastrophen-Diagnose für Bayern: Harry Kane wird blitz-operiert und meldet sich</title>
+                <description>Nur wenige Stunden nach dem Spiel liegt Harry Kane bereits auf dem OP-Tisch. Das verkündet der Klub bei der Jahreshauptversammlung. Auch Kane selbst meldet sich.</description>
+                <link>https://www.n-tv.de/sport/fussball/Harry-Kane-wird-blitz-operiert-und-meldet-sich-id31561794.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Harry-Kane-wird-blitz-operiert-und-meldet-sich-id31561794.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 12:55:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561855/1795266925/Img_4_3/250/634173130.jpg" width="250" height="188" align="left" />Nur wenige Stunden nach dem Spiel liegt Harry Kane bereits auf dem OP-Tisch. Das verkündet der Klub bei der Jahreshauptversammlung. Auch Kane selbst meldet sich.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561855/1795266925/Img_4_3/250/634173130.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Attacke im Finnischen Meerbusen: Russischer Frachter brennt nach Drohnenangriff in der Ostsee</title>
+                <description>Die &quot;Sparta 2&quot; ist auf dem Weg nach Kaliningrad, als Drohnen das Schiff im Finnischen Meerbusen treffen. Der brennende Frachter treibt daraufhin in Finnlands Hoheitsgewässer. Der Luft- und Seeverkehr wird daraufhin vorsorglich eingeschränkt. </description>
+                <link>https://www.n-tv.de/politik/Russischer-Frachter-brennt-nach-Drohnenangriff-in-der-Ostsee-id31562102.html</link>
+                <guid>https://www.n-tv.de/politik/Russischer-Frachter-brennt-nach-Drohnenangriff-in-der-Ostsee-id31562102.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 15:10:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562107/1795271346/Img_4_3/250/09fd6901-3d7d-bc30-6521-cfb976d7a4da.jpg" width="250" height="188" align="left" />Die "Sparta 2" ist auf dem Weg nach Kaliningrad, als Drohnen das Schiff im Finnischen Meerbusen treffen. Der brennende Frachter treibt daraufhin in Finnlands Hoheitsgewässer. Der Luft- und Seeverkehr wird daraufhin vorsorglich eingeschränkt. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562107/1795271346/Img_4_3/250/09fd6901-3d7d-bc30-6521-cfb976d7a4da.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Elfjähriger stirbt an Krebs: Eines der größten Tischtennis-Talente der Welt ist tot</title>
+                <description>Der elfjährige Österreicher Julian Luginger galt als eines der größten Talente in seinem Sport. Vor Kurzem starb er an Knochenkrebs. Wovon er träumte, und wofür viele Menschen jetzt spenden.</description>
+                <link>https://www.n-tv.de/sport/Eines-der-groessten-Tischtennis-Talente-der-Welt-ist-tot-id31562027.html</link>
+                <guid>https://www.n-tv.de/sport/Eines-der-groessten-Tischtennis-Talente-der-Welt-ist-tot-id31562027.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 13:49:12 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562026/1795268015/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der elfjährige Österreicher Julian Luginger galt als eines der größten Talente in seinem Sport. Vor Kurzem starb er an Knochenkrebs. Wovon er träumte, und wofür viele Menschen jetzt spenden.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562026/1795268015/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Hannover 96 jubelt ganz spät: Konfuse Kieler schenken Wolfsburg drei Tore, Nürnberg patzt schmerzhaft</title>
+                <description>Am 12. Spieltag der 2. Fußball-Bundesliga zeigt Holstein Kiel deutlich auf, warum es Letzter ist: Gleich drei Tore legt man sich gegen Wolfsburg mehr oder weniger selbst ins Nest. An der Spitze lässt Nürnberg überraschend Punkte liegen. Sandro Wagner darf mit Hannover 96 ganz spät jubeln.</description>
+                <link>https://www.n-tv.de/sport/fussball/Konfuse-Kieler-schenken-Wolfsburg-drei-Tore-Nuernberg-patzt-schmerzhaft-id31562160.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Konfuse-Kieler-schenken-Wolfsburg-drei-Tore-Nuernberg-patzt-schmerzhaft-id31562160.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 15:07:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562161/1795272961/Img_4_3/250/imago1086151353h.jpg" width="250" height="188" align="left" />Am 12. Spieltag der 2. Fußball-Bundesliga zeigt Holstein Kiel deutlich auf, warum es Letzter ist: Gleich drei Tore legt man sich gegen Wolfsburg mehr oder weniger selbst ins Nest. An der Spitze lässt Nürnberg überraschend Punkte liegen. Sandro Wagner darf mit Hannover 96 ganz spät jubeln.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562161/1795272961/Img_4_3/250/imago1086151353h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mittelfinger und Schimpftiraden: Es kracht heftig zwischen den Formel-1-Feinden Verstappen und Russell</title>
+                <description>Die beste Zeit in der Quali fürs Formel-1-Rennen in Las Vegas gelingt Antonelli. Weil der neue Weltmeister aber eine Strafe verbüßt, stehen zwei in der ersten Startreihe, die sich gar nicht mögen.</description>
+                <link>https://www.n-tv.de/sport/formel1/Es-kracht-heftig-zwischen-den-Formel-1-Feinden-Verstappen-und-Russell-id31561213.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Es-kracht-heftig-zwischen-den-Formel-1-Feinden-Verstappen-und-Russell-id31561213.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 12:02:25 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561223/1795246600/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die beste Zeit in der Quali fürs Formel-1-Rennen in Las Vegas gelingt Antonelli. Weil der neue Weltmeister aber eine Strafe verbüßt, stehen zwei in der ersten Startreihe, die sich gar nicht mögen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561223/1795246600/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Termine für eine Woche abgesagt: Manuela Schwesig unterzieht sich operativem Eingriff</title>
+                <description>Nach der erfolgreichen Regierungsbildung und ihrer Wiederwahl als Ministerpräsidentin nimmt sich Manuela Schwesig eine kleine Auszeit. Allerdings ist die Pause nicht ganz freiwillig. Die 52-Jährige muss sich einer ärztlichen Behandlung unterziehen, gibt aber bereits Entwarnung.</description>
+                <link>https://www.n-tv.de/politik/Manuela-Schwesig-unterzieht-sich-operativem-Eingriff-id31561307.html</link>
+                <guid>https://www.n-tv.de/politik/Manuela-Schwesig-unterzieht-sich-operativem-Eingriff-id31561307.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 09:33:22 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561315/1795249624/Img_4_3/250/633374299.jpg" width="250" height="188" align="left" />Nach der erfolgreichen Regierungsbildung und ihrer Wiederwahl als Ministerpräsidentin nimmt sich Manuela Schwesig eine kleine Auszeit. Allerdings ist die Pause nicht ganz freiwillig. Die 52-Jährige muss sich einer ärztlichen Behandlung unterziehen, gibt aber bereits Entwarnung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561315/1795249624/Img_4_3/250/633374299.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Jackery Explorer 1000 Plus v2: Diese Powerstation ist gut, günstig und ausbaufähig</title>
+                <description>Die Jackery Explorer 1000 Plus v2 ist eine günstige, kleine und leichte 1-kWh-Powerstation, die sehr gut für den mobilen Einsatz geeignet ist - speziell mit einem passenden Solarpanel. Für den stationären Einsatz kann sie auf bis zu 11 kWh ausgebaut werden, was sie besonders vielseitig und zukunftssicher macht.</description>
+                <link>https://www.n-tv.de/technik/Diese-Powerstation-ist-gut-guenstig-und-ausbaufaehig-id31557259.html</link>
+                <guid>https://www.n-tv.de/technik/Diese-Powerstation-ist-gut-guenstig-und-ausbaufaehig-id31557259.html</guid>
+                <category>Technik</category>
+                <pubDate>Sat, 21 Nov 2026 15:57:43 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31559867/1795191616/Img_4_3/250/Jackery Explorer 1000 Plus v2 Test (1 von 6).jpg" width="250" height="188" align="left" />Die Jackery Explorer 1000 Plus v2 ist eine günstige, kleine und leichte 1-kWh-Powerstation, die sehr gut für den mobilen Einsatz geeignet ist - speziell mit einem passenden Solarpanel. Für den stationären Einsatz kann sie auf bis zu 11 kWh ausgebaut werden, was sie besonders vielseitig und zukunftssicher macht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31559867/1795191616/Img_4_3/250/Jackery Explorer 1000 Plus v2 Test (1 von 6).jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mitorganisator von Oslo-Abkommen : &quot;Israel macht Frauen und Kindern das Leben in Gaza unerträglich&quot;</title>
+                <description>Für Norwegen und die Vereinten Nationen war Jan Egeland lange auf dem Parkett der Spitzendiplomatie unterwegs. Er schlägt wegen der katastrophalen Lage im Gazastreifen Alarm. Im Interview mit ntv.de spricht Egeland über die &quot;aktive Sabotage&quot; der humanitären Hilfe durch die Netanjahu-Regierung.</description>
+                <link>https://www.n-tv.de/politik/Israel-macht-Frauen-und-Kindern-das-Leben-in-Gaza-unertraeglich-id31548614.html</link>
+                <guid>https://www.n-tv.de/politik/Israel-macht-Frauen-und-Kindern-das-Leben-in-Gaza-unertraeglich-id31548614.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 09:34:52 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31553755/1795095802/Img_4_3/250/3789ee7c-35dc-45b3-babd-38b7a85a358f.jpg" width="250" height="188" align="left" />Für Norwegen und die Vereinten Nationen war Jan Egeland lange auf dem Parkett der Spitzendiplomatie unterwegs. Er schlägt wegen der katastrophalen Lage im Gazastreifen Alarm. Im Interview mit ntv.de spricht Egeland über die "aktive Sabotage" der humanitären Hilfe durch die Netanjahu-Regierung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31553755/1795095802/Img_4_3/250/3789ee7c-35dc-45b3-babd-38b7a85a358f.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Grausame Politik&quot;: Grünen-Vorsitzende Brantner unterstützt Gen-Z-Proteste </title>
+                <description>Vergangene Woche sind tausende junge Menschen auf die Straße gegangen, um gegen die Wehrpflicht und eine bessere Schul- und Hochschulpolitik zu demonstrieren. Sie erhalten weitreichende und prominente Unterstützung: Grünen-Vorsitzende Brantner kritisiert die Politik mit Blick auf die &quot;Gen Z&quot; scharf.</description>
+                <link>https://www.n-tv.de/politik/Gruenen-Vorsitzende-Brantner-unterstuetzt-Gen-Z-Proteste-id31562069.html</link>
+                <guid>https://www.n-tv.de/politik/Gruenen-Vorsitzende-Brantner-unterstuetzt-Gen-Z-Proteste-id31562069.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 15:41:17 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562063/1795269187/Img_4_3/250/634137709.jpg" width="250" height="188" align="left" />Vergangene Woche sind tausende junge Menschen auf die Straße gegangen, um gegen die Wehrpflicht und eine bessere Schul- und Hochschulpolitik zu demonstrieren. Sie erhalten weitreichende und prominente Unterstützung: Grünen-Vorsitzende Brantner kritisiert die Politik mit Blick auf die "Gen Z" scharf.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562063/1795269187/Img_4_3/250/634137709.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>NRW liegt bei Räumungen vorne: Bundesjustizministerium meldet mehr als 27.000 Zwangsräumungen 2025</title>
+                <description>Mehr als 75 Mal am Tag wurden vor allem Wohnungen im vergangenen Jahr zwangsgeräumt. Noch höher ist die Zahl der Räumungsaufträge. Wegen einer Änderung in der Erfassung lassen sich die Zahlen nur eingeschränkt mit denen aus vergangenen Jahren vergleichen. </description>
+                <link>https://www.n-tv.de/politik/Bundesjustizministerium-meldet-mehr-als-27-000-Zwangsraeumungen-2025-id31561648.html</link>
+                <guid>https://www.n-tv.de/politik/Bundesjustizministerium-meldet-mehr-als-27-000-Zwangsraeumungen-2025-id31561648.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 12:27:16 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561650/1795259188/Img_4_3/250/588428636.jpg" width="250" height="188" align="left" />Mehr als 75 Mal am Tag wurden vor allem Wohnungen im vergangenen Jahr zwangsgeräumt. Noch höher ist die Zahl der Räumungsaufträge. Wegen einer Änderung in der Erfassung lassen sich die Zahlen nur eingeschränkt mit denen aus vergangenen Jahren vergleichen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561650/1795259188/Img_4_3/250/588428636.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Muss Parlament zustimmen?: Bundestagsjuristen sehen &quot;rechtliche Hürden&quot; bei Abschiebezentren in Ruanda </title>
+                <description>Deutschland will einige abgelehnte Asylbewerber in Abschiebezentren nach Ruanda ausfliegen. Dem müsste aber unter Umständen der Bundestag zustimmen, urteilen Rechtsexperten des Parlaments. Eine EU-Verordnung allein sei wohl ungenügend. </description>
+                <link>https://www.n-tv.de/politik/Bundestagsjuristen-sehen-rechtliche-Huerden-bei-Abschiebezentren-in-Ruanda-id31561709.html</link>
+                <guid>https://www.n-tv.de/politik/Bundestagsjuristen-sehen-rechtliche-Huerden-bei-Abschiebezentren-in-Ruanda-id31561709.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 13:09:29 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561730/1795260580/Img_4_3/250/GettyImages-2153071760.jpg" width="250" height="188" align="left" />Deutschland will einige abgelehnte Asylbewerber in Abschiebezentren nach Ruanda ausfliegen. Dem müsste aber unter Umständen der Bundestag zustimmen, urteilen Rechtsexperten des Parlaments. Eine EU-Verordnung allein sei wohl ungenügend. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561730/1795260580/Img_4_3/250/GettyImages-2153071760.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zusammenhänge weiterhin unklar: Hackerattacke auf FBI und US-Landwirtschaftsministerium</title>
+                <description>Es ist ein Vorfall, der sich in eine Reihe von Cyberattacken auf die USA einreiht: Berichten zufolge haben sich Hacker Zugang zu Daten weiterer US-Behörden verschafft. Ob die Täter zusammenarbeiten und ob es eine Verbindung zu vergangenen Angriffen gibt, ist noch unklar.</description>
+                <link>https://www.n-tv.de/politik/Hackerattacke-auf-FBI-und-US-Landwirtschaftsministerium-id31561548.html</link>
+                <guid>https://www.n-tv.de/politik/Hackerattacke-auf-FBI-und-US-Landwirtschaftsministerium-id31561548.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 11:44:59 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561562/1795257331/Img_4_3/250/imago0885114925h.jpg" width="250" height="188" align="left" />Es ist ein Vorfall, der sich in eine Reihe von Cyberattacken auf die USA einreiht: Berichten zufolge haben sich Hacker Zugang zu Daten weiterer US-Behörden verschafft. Ob die Täter zusammenarbeiten und ob es eine Verbindung zu vergangenen Angriffen gibt, ist noch unklar.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561562/1795257331/Img_4_3/250/imago0885114925h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Das hatten wir noch nie&quot;: Der rasende Absturz von Schach-Weltmeister Gukesh</title>
+                <description>Dommaraju Gukesh schleppt sich mit gigantischen Problemen zur Schach-WM. Seit Monaten ist der indische Titelverteidiger in desolater Verfassung. Er offenbart ein Kopfproblem. Sein Herausforderer spielt dagegen das beste Schach seines Lebens.</description>
+                <link>https://www.n-tv.de/sport/Schach-Bundestrainer-Jan-Gustafsson-zum-rasenden-Absturz-von-Schach-Weltmeister-Dommaraju-Gukesh-id31556898.html</link>
+                <guid>https://www.n-tv.de/sport/Schach-Bundestrainer-Jan-Gustafsson-zum-rasenden-Absturz-von-Schach-Weltmeister-Dommaraju-Gukesh-id31556898.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 07:14:19 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/6705667/1758010562/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Dommaraju Gukesh schleppt sich mit gigantischen Problemen zur Schach-WM. Seit Monaten ist der indische Titelverteidiger in desolater Verfassung. Er offenbart ein Kopfproblem. Sein Herausforderer spielt dagegen das beste Schach seines Lebens.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/6705667/1758010562/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verzögerung bei Produktion: Hausärzte beklagen Mangel an Grippe-Impfstoff</title>
+                <description>Mitten in der Hochzeit für Grippeimpfungen registriert der Bundesverband der Hausärztinnen und Hausärzte einen Mangel an Impfstoffen. Der Verband sieht die Impfkampagne behindert. Das Paul-Ehrlich-Institut sieht indes keinen bundesweiten Lieferengpass. </description>
+                <link>https://www.n-tv.de/panorama/Hausaerzte-beklagen-Mangel-an-Grippe-Impfstoff-id31561804.html</link>
+                <guid>https://www.n-tv.de/panorama/Hausaerzte-beklagen-Mangel-an-Grippe-Impfstoff-id31561804.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 12:37:14 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561789/1795261568/Img_4_3/250/631774696.jpg" width="250" height="188" align="left" />Mitten in der Hochzeit für Grippeimpfungen registriert der Bundesverband der Hausärztinnen und Hausärzte einen Mangel an Impfstoffen. Der Verband sieht die Impfkampagne behindert. Das Paul-Ehrlich-Institut sieht indes keinen bundesweiten Lieferengpass. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561789/1795261568/Img_4_3/250/631774696.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schwarzer Humor und grüner Anzug: Bestatter verfolgt ungewöhnliche Ansätze</title>
+                <description>Jeremy Reise ist ein fröhlicher, dem Leben zugewandter Mensch - und Bestatter. Im Internet verknüpft er beides in oft skurril-witzigen Videos. Für ihn schließen sich Humor und Trauer nicht aus.</description>
+                <link>https://www.n-tv.de/panorama/Bestatter-verfolgt-ungewoehnliche-Ansaetze-id31531182.html</link>
+                <guid>https://www.n-tv.de/panorama/Bestatter-verfolgt-ungewoehnliche-Ansaetze-id31531182.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 12:28:16 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31531210/1794581487/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Jeremy Reise ist ein fröhlicher, dem Leben zugewandter Mensch - und Bestatter. Im Internet verknüpft er beides in oft skurril-witzigen Videos. Für ihn schließen sich Humor und Trauer nicht aus.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31531210/1794581487/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Unter zehn FBI-Meistgesuchten: Mexikanische Behörden nehmen mutmaßlichen Drogenboss fest</title>
+                <description>Mexikanischen Einsatzkräften ist die Festnahme eines mutmaßlichen Drogenbosses gelungen, der sich unter den zehn meistgesuchten Menschen der US-Bundespolizei FBI befindet. Bei der Festnahme kam es zu heftigen Ausschreitungen. </description>
+                <link>https://www.n-tv.de/panorama/Mexikanische-Behoerden-nehmen-mutmasslichen-Drogenboss-fest-id31561898.html</link>
+                <guid>https://www.n-tv.de/panorama/Mexikanische-Behoerden-nehmen-mutmasslichen-Drogenboss-fest-id31561898.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 13:23:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561917/1795264510/Img_4_3/250/634263163.jpg" width="250" height="188" align="left" />Mexikanischen Einsatzkräften ist die Festnahme eines mutmaßlichen Drogenbosses gelungen, der sich unter den zehn meistgesuchten Menschen der US-Bundespolizei FBI befindet. Bei der Festnahme kam es zu heftigen Ausschreitungen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561917/1795264510/Img_4_3/250/634263163.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Willkommen im &quot;Krähenzimmer&quot;: Er ist bei dir, wenn du schläfst …</title>
+                <description>Lotta braucht eine Auszeit: von ihrem Vater, ihrer Arbeit, ihrem mittlerweile Ex-Freund. Das Ziel ist ein kleines Reetdachhaus an der Küste, ihr Wohlfühlort aus der Kindheit. Doch irgendetwas hat sich verändert. Sie fühlt sich beobachtet, verfolgt - und ein düsteres Echo aus der Vergangenheit bricht sich Bahn.</description>
+                <link>https://www.n-tv.de/leute/hoerbuecher/Er-ist-bei-dir-wenn-du-schlaefst-id31426106.html</link>
+                <guid>https://www.n-tv.de/leute/hoerbuecher/Er-ist-bei-dir-wenn-du-schlaefst-id31426106.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 21 Nov 2026 12:00:16 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31426163/1792158127/Img_4_3/250/87115394.jpg" width="250" height="188" align="left" />Lotta braucht eine Auszeit: von ihrem Vater, ihrer Arbeit, ihrem mittlerweile Ex-Freund. Das Ziel ist ein kleines Reetdachhaus an der Küste, ihr Wohlfühlort aus der Kindheit. Doch irgendetwas hat sich verändert. Sie fühlt sich beobachtet, verfolgt - und ein düsteres Echo aus der Vergangenheit bricht sich Bahn.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31426163/1792158127/Img_4_3/250/87115394.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wieder ein Sehnsuchtsmodell : Mit dem Alfa-Romeo-Concept Cuorerosso keimt Hoffnung auf</title>
+                <description>Alfa Romeo braucht endlich wieder mal richtige Sehnsuchtsmodelle, um die Fans in die Schauräume zu locken und zu unterzeichneten Kaufverträgen zu bringen. Der Cuorerosso hätte das Zeug dazu. Hoffentlich bleibt es nicht bloß bei dieser Studie. </description>
+                <link>https://www.n-tv.de/auto/Mit-dem-Alfa-Romeo-Concept-Cuorerosso-keimt-Hoffnung-auf-id31556856.html</link>
+                <guid>https://www.n-tv.de/auto/Mit-dem-Alfa-Romeo-Concept-Cuorerosso-keimt-Hoffnung-auf-id31556856.html</guid>
+                <category>Auto</category>
+                <pubDate>Sat, 21 Nov 2026 08:45:31 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31556892/1795161408/Img_4_3/250/AR_Cuorerosso_T.jpg" width="250" height="188" align="left" />Alfa Romeo braucht endlich wieder mal richtige Sehnsuchtsmodelle, um die Fans in die Schauräume zu locken und zu unterzeichneten Kaufverträgen zu bringen. Der Cuorerosso hätte das Zeug dazu. Hoffentlich bleibt es nicht bloß bei dieser Studie. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31556892/1795161408/Img_4_3/250/AR_Cuorerosso_T.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Es ist ein volles C-Körbchen&quot;: Jennifer Lawrence erfreut sich an ihren Brustimplantaten</title>
+                <description>Kein Geheimnis um ihren Beauty-Eingriff: Jennifer Lawrence bestätigt in einer US-Talkshow, dass sie neue Brustimplantate hat. Die Oscarpreisträgerin verrät die Größe, nennt ihren Schönheitschirurgen und sorgt mit einem frechen Spruch für Lacher.</description>
+                <link>https://www.n-tv.de/leute/Neue-Brustimplantaten-fuer-Jennifer-Lawrence-id31560867.html</link>
+                <guid>https://www.n-tv.de/leute/Neue-Brustimplantaten-fuer-Jennifer-Lawrence-id31560867.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 21 Nov 2026 01:24:06 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31560868/1795224084/Img_4_3/250/imago0855027567h.jpg" width="250" height="188" align="left" />Kein Geheimnis um ihren Beauty-Eingriff: Jennifer Lawrence bestätigt in einer US-Talkshow, dass sie neue Brustimplantate hat. Die Oscarpreisträgerin verrät die Größe, nennt ihren Schönheitschirurgen und sorgt mit einem frechen Spruch für Lacher.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31560868/1795224084/Img_4_3/250/imago0855027567h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Neue Einblicke in Doku &quot;Heal&quot;: Prinzessin Kate spricht über ihr Leben nach der Krebsdiagnose</title>
+                <description>Unveröffentlichte Aufnahmen zeigen Prinzessin Kate bei einer anspruchsvollen Bergtour durch Großbritannien. In einer neuen BBC-Dokumentation verbindet sie diese körperliche Herausforderung mit ihrer persönlichen Geschichte und spricht darüber, was Heilung nach einer schweren Diagnose wirklich bedeutet.</description>
+                <link>https://www.n-tv.de/leute/Prinzessin-Kate-spricht-ueber-ihr-Leben-nach-der-Krebsdiagnose-id31562093.html</link>
+                <guid>https://www.n-tv.de/leute/Prinzessin-Kate-spricht-ueber-ihr-Leben-nach-der-Krebsdiagnose-id31562093.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 21 Nov 2026 15:11:25 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562108/1795271383/Img_4_3/250/imago0882447666h.jpg" width="250" height="188" align="left" />Unveröffentlichte Aufnahmen zeigen Prinzessin Kate bei einer anspruchsvollen Bergtour durch Großbritannien. In einer neuen BBC-Dokumentation verbindet sie diese körperliche Herausforderung mit ihrer persönlichen Geschichte und spricht darüber, was Heilung nach einer schweren Diagnose wirklich bedeutet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562108/1795271383/Img_4_3/250/imago0882447666h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>McCallister-Spross nun Vater?: &quot;Kevin - Allein zu Haus&quot; soll Fortsetzung mit Macaulay Culkin bekommen</title>
+                <description>Die &quot;Kevin&quot;-Filme sind in den 1990ern Kult. Immer wieder werden Fortsetzungen gedreht, die jedoch nicht an den Erfolg der ersten Blockbuster anknüpfen können. Jetzt verdichten sich die Hinweise auf einen Kinoknaller.</description>
+                <link>https://www.n-tv.de/leute/Kevin-Allein-zu-Haus-soll-Fortsetzung-mit-Macaulay-Culkin-bekommen-id31561262.html</link>
+                <guid>https://www.n-tv.de/leute/Kevin-Allein-zu-Haus-soll-Fortsetzung-mit-Macaulay-Culkin-bekommen-id31561262.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 21 Nov 2026 10:59:53 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561298/1795249266/Img_4_3/250/GettyImages-2295138557.jpg" width="250" height="188" align="left" />Die "Kevin"-Filme sind in den 1990ern Kult. Immer wieder werden Fortsetzungen gedreht, die jedoch nicht an den Erfolg der ersten Blockbuster anknüpfen können. Jetzt verdichten sich die Hinweise auf einen Kinoknaller.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561298/1795249266/Img_4_3/250/GettyImages-2295138557.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Keine offizielle Bestätigung: Probleme mit Harrys US-Visum könnten Grund für Rückkehr nach Großbritannien sein</title>
+                <description>Wenige Monate ist es her, dass Prinz Harry und Herzogin Meghan aus den USA zurück nach Großbritannien gezogen sind. Bislang ist unklar, was hinter der Rückkehr steckt. Insider berichten nun von Problemen mit Harrys US-Visum, die den Umzug verursacht haben könnten. </description>
+                <link>https://www.n-tv.de/leute/Probleme-mit-Harrys-US-Visum-koennten-Grund-fuer-Rueckkehr-nach-Grossbritannien-sein-id31562047.html</link>
+                <guid>https://www.n-tv.de/leute/Probleme-mit-Harrys-US-Visum-koennten-Grund-fuer-Rueckkehr-nach-Grossbritannien-sein-id31562047.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 21 Nov 2026 15:24:52 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562064/1795269232/Img_4_3/250/632194177.jpg" width="250" height="188" align="left" />Wenige Monate ist es her, dass Prinz Harry und Herzogin Meghan aus den USA zurück nach Großbritannien gezogen sind. Bislang ist unklar, was hinter der Rückkehr steckt. Insider berichten nun von Problemen mit Harrys US-Visum, die den Umzug verursacht haben könnten. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562064/1795269232/Img_4_3/250/632194177.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Angst vor Gedränge: Bei Agoraphobie kann Vorweihnachtszeit unangenehm werden</title>
+                <description>Im Vorfeld der Feiertage wird es wieder eng auf Weihnachtsmärkten und in manchen Läden. Die meisten Menschen können damit gut umgehen. Doch bei einigen können solche Situationen zu echter Panik führen. Welche Angst dahintersteckt und wie man ihr begegnen kann.</description>
+                <link>https://www.n-tv.de/wissen/Bei-Agoraphobie-kann-Vorweihnachtszeit-unangenehm-werden-id31551829.html</link>
+                <guid>https://www.n-tv.de/wissen/Bei-Agoraphobie-kann-Vorweihnachtszeit-unangenehm-werden-id31551829.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 21 Nov 2026 06:29:00 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31551835/1795079952/Img_4_3/250/imago0842624356h.jpg" width="250" height="188" align="left" />Im Vorfeld der Feiertage wird es wieder eng auf Weihnachtsmärkten und in manchen Läden. Die meisten Menschen können damit gut umgehen. Doch bei einigen können solche Situationen zu echter Panik führen. Welche Angst dahintersteckt und wie man ihr begegnen kann.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31551835/1795079952/Img_4_3/250/imago0842624356h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auszeit-Dauer ist entscheidend: Wie Väter in Elternzeit glücklicher werden können</title>
+                <description>Viele Väter wünschen sich mehr Zeit mit ihren Kindern, trauen sich aber oft nicht in Elternzeit. Dabei stärkt eine berufliche Auszeit die Bindung zum Kind und schützt vor Depressionen. Doch die Babypause sollte in einem bestimmten Zeitfenster liegen, damit diese Effekte eintreten können. </description>
+                <link>https://www.n-tv.de/wissen/Wie-Vaeter-in-Elternzeit-gluecklicher-werden-koennen-id31561391.html</link>
+                <guid>https://www.n-tv.de/wissen/Wie-Vaeter-in-Elternzeit-gluecklicher-werden-koennen-id31561391.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 21 Nov 2026 11:00:37 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561459/1795254343/Img_4_3/250/imago0869037960h.jpg" width="250" height="188" align="left" />Viele Väter wünschen sich mehr Zeit mit ihren Kindern, trauen sich aber oft nicht in Elternzeit. Dabei stärkt eine berufliche Auszeit die Bindung zum Kind und schützt vor Depressionen. Doch die Babypause sollte in einem bestimmten Zeitfenster liegen, damit diese Effekte eintreten können. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561459/1795254343/Img_4_3/250/imago0869037960h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Reformen reichen nicht: Techniker schließt höheren Zusatzbeiträge ab Mitte 2027 nicht aus</title>
+                <description>Unlängst hat das Gesundheitsministerium den durchschnittlichen Zusatzbeitrag der Krankenkassen festgelegt. Die Techniker liegt darunter, kann das Niveau wohl aber nicht das ganze Jahr halten. 2028 müssen die Kassen dann vermutlich allesamt nachlegen. </description>
+                <link>https://www.n-tv.de/politik/Techniker-schliesst-hoeheren-Zusatzbeitraege-ab-Mitte-2027-nicht-aus-id31561593.html</link>
+                <guid>https://www.n-tv.de/politik/Techniker-schliesst-hoeheren-Zusatzbeitraege-ab-Mitte-2027-nicht-aus-id31561593.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 11:38:37 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561595/1795258165/Img_4_3/250/621241057.jpg" width="250" height="188" align="left" />Unlängst hat das Gesundheitsministerium den durchschnittlichen Zusatzbeitrag der Krankenkassen festgelegt. Die Techniker liegt darunter, kann das Niveau wohl aber nicht das ganze Jahr halten. 2028 müssen die Kassen dann vermutlich allesamt nachlegen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561595/1795258165/Img_4_3/250/621241057.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Nahe an der Ziellinie&quot;: Einigung bei Klimakonferenz nicht absehbar</title>
+                <description>Das Prozedere bei der COP 31 folgt dem Vorgehen bei früheren Klimakonferenzen. Zum festgesetzten Ende haben sich die Teilnehmer noch nicht auf einen gemeinsamen Beschluss verständigt. Und so geht die Pendeldiplomatie für eine Einigung in die Verlängerung.</description>
+                <link>https://www.n-tv.de/politik/Einigung-bei-Klimakonferenz-nicht-absehbar-id31561255.html</link>
+                <guid>https://www.n-tv.de/politik/Einigung-bei-Klimakonferenz-nicht-absehbar-id31561255.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 08:39:41 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561259/1795248147/Img_4_3/250/632347075.jpg" width="250" height="188" align="left" />Das Prozedere bei der COP 31 folgt dem Vorgehen bei früheren Klimakonferenzen. Zum festgesetzten Ende haben sich die Teilnehmer noch nicht auf einen gemeinsamen Beschluss verständigt. Und so geht die Pendeldiplomatie für eine Einigung in die Verlängerung.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561259/1795248147/Img_4_3/250/632347075.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verordnung nicht fertig: Bundes-Depot für Zusatzrente verzögert sich um Monate</title>
+                <description>Im Mai beschließt der Bundestag das Vorsorgedepot. Mit dem Jahreswechsel soll es verfügbar sein. Dutzende private Anbieter haben dafür inzwischen Angebote. Die Einrichtung der staatlich vorgesehenen Variante verzögert sich indes weiter.</description>
+                <link>https://www.n-tv.de/politik/Bundes-Depot-fuer-Zusatzrente-verzoegert-sich-um-Monate-id31561172.html</link>
+                <guid>https://www.n-tv.de/politik/Bundes-Depot-fuer-Zusatzrente-verzoegert-sich-um-Monate-id31561172.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 21 Nov 2026 07:16:12 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561166/1795243220/Img_4_3/250/623155093.jpg" width="250" height="188" align="left" />Im Mai beschließt der Bundestag das Vorsorgedepot. Mit dem Jahreswechsel soll es verfügbar sein. Dutzende private Anbieter haben dafür inzwischen Angebote. Die Einrichtung der staatlich vorgesehenen Variante verzögert sich indes weiter.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561166/1795243220/Img_4_3/250/623155093.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Probleme mit Takata-Airbag: Honda und Toyota rufen 1,6 Millionen Fahrzeuge in die Werkstatt</title>
+                <description>Mal wieder die sind es Airbags von Takata. In den USA müssen Hunderttausende Fahrzeughalter ihre Autos in die Werkstatt bringen. Probleme macht dieses Mal ein Treibmittel.</description>
+                <link>https://www.n-tv.de/wirtschaft/Honda-und-Toyota-rufen-1-6-Millionen-Fahrzeuge-in-die-Werkstatt-id31561221.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Honda-und-Toyota-rufen-1-6-Millionen-Fahrzeuge-in-die-Werkstatt-id31561221.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 21 Nov 2026 07:44:32 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561222/1795247044/Img_4_3/250/85731917.jpg" width="250" height="188" align="left" />Mal wieder die sind es Airbags von Takata. In den USA müssen Hunderttausende Fahrzeughalter ihre Autos in die Werkstatt bringen. Probleme macht dieses Mal ein Treibmittel.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561222/1795247044/Img_4_3/250/85731917.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Er soll zweite Chance kriegen&quot;: Trump will Huang zurück - Börsenaufsicht ermittelt gegen Nvidia</title>
+                <description>Seit Anfang Oktober hat sich der Börsenwert von Nvidia fast halbiert. Die Börsenaufsicht ermittelt, ob der Chiphersteller Anleger getäuscht haben könnte. US-Präsident Trump will den geschassten Chef Huang trotzdem wieder an der Spitze sehen. </description>
+                <link>https://www.n-tv.de/wirtschaft/Trump-will-Huang-zurueck-Boersenaufsicht-ermittelt-gegen-Nvidia-id31560840.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Trump-will-Huang-zurueck-Boersenaufsicht-ermittelt-gegen-Nvidia-id31560840.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 21 Nov 2026 00:34:46 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31560846/1795220990/Img_4_3/250/AP26281674389128.jpg" width="250" height="188" align="left" />Seit Anfang Oktober hat sich der Börsenwert von Nvidia fast halbiert. Die Börsenaufsicht ermittelt, ob der Chiphersteller Anleger getäuscht haben könnte. US-Präsident Trump will den geschassten Chef Huang trotzdem wieder an der Spitze sehen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31560846/1795220990/Img_4_3/250/AP26281674389128.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Indizes rutschen in Korrektur: Wall Street geht tiefrot ins Wochenende</title>
+                <description>Die Wall Street feiert wieder Rekorde, dieses Mal im Negativbereich. Der KI-Ausverkauf weitet sich aus und zieht den Nasdaq für das laufende Jahr ins Minus. Auch der Dow rutscht mit einem Rücksetzer von zehn Prozent in den Korrekturbereich. </description>
+                <link>https://www.n-tv.de/wirtschaft/Wall-Street-geht-tiefrot-ins-Wochenende-id31560776.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Wall-Street-geht-tiefrot-ins-Wochenende-id31560776.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Fri, 20 Nov 2026 23:12:54 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31560780/1795214329/Img_4_3/250/AP26321570999905.jpg" width="250" height="188" align="left" />Die Wall Street feiert wieder Rekorde, dieses Mal im Negativbereich. Der KI-Ausverkauf weitet sich aus und zieht den Nasdaq für das laufende Jahr ins Minus. Auch der Dow rutscht mit einem Rücksetzer von zehn Prozent in den Korrekturbereich. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31560780/1795214329/Img_4_3/250/AP26321570999905.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zündstoff bei Werder und HSV: Zwei schillernde Bundesliga-Manager, die kaum noch jemand kennt</title>
+                <description>Die Geschichte des Nordderbys zwischen dem Hamburger SV und dem SV Werder Bremen ist lang und facettenreich. Vor 50 Jahren konkurrierten die beiden Klubs sogar auf einer außergewöhnlichen Ebene um die Hoheit in Deutschland.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Zwei-schillernde-Bundesliga-Manager-die-kaum-noch-jemand-kennt-id31557431.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Zwei-schillernde-Bundesliga-Manager-die-kaum-noch-jemand-kennt-id31557431.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 07:04:48 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31553043/1795089528/Img_4_3/250/4206625.jpg" width="250" height="188" align="left" />Die Geschichte des Nordderbys zwischen dem Hamburger SV und dem SV Werder Bremen ist lang und facettenreich. Vor 50 Jahren konkurrierten die beiden Klubs sogar auf einer außergewöhnlichen Ebene um die Hoheit in Deutschland.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31553043/1795089528/Img_4_3/250/4206625.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Habe zu viel gechillt&quot;: Aicher wirft nächstes Topergebnis im ersten Durchgang weg</title>
+                <description>Mit einem starken zweiten Lauf repariert Deutschlands Top-Skifahrerin Emma Aicher einen schwachen ersten Durchgang einigermaßen, verpasst aber erstmals in der neuen Saison das &quot;Stockerl&quot;. Hinterher ärgert sich die 23-Jährige über sich selbst.</description>
+                <link>https://www.n-tv.de/sport/Aicher-wirft-naechstes-Topergebnis-im-ersten-Durchgang-weg-id31562308.html</link>
+                <guid>https://www.n-tv.de/sport/Aicher-wirft-naechstes-Topergebnis-im-ersten-Durchgang-weg-id31562308.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 16:18:12 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562309/1795277802/Img_4_3/250/imago1086146479h.jpg" width="250" height="188" align="left" />Mit einem starken zweiten Lauf repariert Deutschlands Top-Skifahrerin Emma Aicher einen schwachen ersten Durchgang einigermaßen, verpasst aber erstmals in der neuen Saison das "Stockerl". Hinterher ärgert sich die 23-Jährige über sich selbst.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562309/1795277802/Img_4_3/250/imago1086146479h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Haaland-Team völlig außer Tritt: ManCity vermeidet peinliche Pleite nur knapp</title>
+                <description>Manchester City verliert in der Premier League den Anschluss: Am 11. Spieltag verhindert das Team um Topstürmer Erling Haaland gegen den FC Fulham zwar eine Heimpleite, ist nach zuvor drei Niederlagen in Serie im vierten Spiel hintereinander sieglos.</description>
+                <link>https://www.n-tv.de/sport/fussball/ManCity-vermeidet-peinliche-Pleite-nur-knapp-id31562242.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/ManCity-vermeidet-peinliche-Pleite-nur-knapp-id31562242.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 15:37:21 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31562241/1795275415/Img_4_3/250/imago1086156044h.jpg" width="250" height="188" align="left" />Manchester City verliert in der Premier League den Anschluss: Am 11. Spieltag verhindert das Team um Topstürmer Erling Haaland gegen den FC Fulham zwar eine Heimpleite, ist nach zuvor drei Niederlagen in Serie im vierten Spiel hintereinander sieglos.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31562241/1795275415/Img_4_3/250/imago1086156044h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>El Mala hadert mit sich: 1. FC Köln lässt den FC Bayern überraschend heftig zittern</title>
+                <description>Überraschend erspielt sich der 1. FC Köln beim favorisierten FC Bayern ein Remis. Trainer René Wagner lobt den Auftritt seiner Mannschaft - und blickt auf wegweisende Spiele in den kommenden Wochen.</description>
+                <link>https://www.n-tv.de/sport/fussball/1-FC-Koeln-laesst-den-FC-Bayern-ueberraschend-heftig-zittern-id31561693.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/1-FC-Koeln-laesst-den-FC-Bayern-ueberraschend-heftig-zittern-id31561693.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 12:03:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561145/1795241829/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Überraschend erspielt sich der 1. FC Köln beim favorisierten FC Bayern ein Remis. Trainer René Wagner lobt den Auftritt seiner Mannschaft - und blickt auf wegweisende Spiele in den kommenden Wochen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561145/1795241829/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Verletzungs-Drama um Kane: &quot;Harry Pain&quot; - Internationale Presse fühlt mit Bayern Münchens Superstar</title>
+                <description>Harry Kane und Michael Olise - zwei verletzte Topstars, und dann nur Remis daheim gegen den 1. FC Köln. Das schreiben internationale Medien nach dem folgenreichen Bayern-Auftritt.</description>
+                <link>https://www.n-tv.de/sport/fussball/Harry-Pain-Internationale-Presse-fuehlt-mit-Bayern-Muenchens-Superstar-id31561294.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Harry-Pain-Internationale-Presse-fuehlt-mit-Bayern-Muenchens-Superstar-id31561294.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 08:52:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561292/1795249100/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Harry Kane und Michael Olise - zwei verletzte Topstars, und dann nur Remis daheim gegen den 1. FC Köln. Das schreiben internationale Medien nach dem folgenreichen Bayern-Auftritt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561292/1795249100/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kampf gegen ewigen Schmerz: Moritz Müller schreibt deutsche Eishockey-Geschichte</title>
+                <description>Erst stellt Moritz Müller die Bestmarke von Mirko Lüdemann ein. Nun bestreitet der 40-Jährige von den Kölner Haien sein 1201. Spiel und ist damit Rekordspieler der Deutschen Eishockey-Liga.</description>
+                <link>https://www.n-tv.de/sport/Moritz-Mueller-schreibt-deutsche-Eishockey-Geschichte-id31561181.html</link>
+                <guid>https://www.n-tv.de/sport/Moritz-Mueller-schreibt-deutsche-Eishockey-Geschichte-id31561181.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 08:12:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561180/1795244031/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Erst stellt Moritz Müller die Bestmarke von Mirko Lüdemann ein. Nun bestreitet der 40-Jährige von den Kölner Haien sein 1201. Spiel und ist damit Rekordspieler der Deutschen Eishockey-Liga.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561180/1795244031/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Antonelli wird aber bestraft: Aussichtsloser Formel-1-Weltmeister fliegt mit sensationeller Aufholjagd auf Pole</title>
+                <description>Die beste Zeit in der Qualifikation fürs Formel-1-Rennen in Las Vegas gelingt Kimi Antonelli. Weil der neue Weltmeister aber eine Strafe verbüßen muss, stehen andere in der ersten Startreihe.</description>
+                <link>https://www.n-tv.de/sport/formel1/Aussichtsloser-Formel-1-Weltmeister-fliegt-mit-sensationeller-Aufholjagd-auf-Pole-id31561161.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Aussichtsloser-Formel-1-Weltmeister-fliegt-mit-sensationeller-Aufholjagd-auf-Pole-id31561161.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 07:46:15 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561159/1795242496/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die beste Zeit in der Qualifikation fürs Formel-1-Rennen in Las Vegas gelingt Kimi Antonelli. Weil der neue Weltmeister aber eine Strafe verbüßen muss, stehen andere in der ersten Startreihe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561159/1795242496/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Wirklich ganz merkwürdig&quot;: Franz Wagner fügt seinem Bruder dramatische Pleite zu</title>
+                <description>Erstmals spielen Franz und Moritz Wagner in der NBA gegeneinander. Das fühlt sich ganz merkwürdig an, gesteht der wieder einmal überragende Franz, der das Duell quasi im Alleingang entscheidet.</description>
+                <link>https://www.n-tv.de/sport/Franz-Wagner-fuegt-seinem-Bruder-dramatische-Pleite-zu-id31561152.html</link>
+                <guid>https://www.n-tv.de/sport/Franz-Wagner-fuegt-seinem-Bruder-dramatische-Pleite-zu-id31561152.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 06:21:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561147/1795241996/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Erstmals spielen Franz und Moritz Wagner in der NBA gegeneinander. Das fühlt sich ganz merkwürdig an, gesteht der wieder einmal überragende Franz, der das Duell quasi im Alleingang entscheidet.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561147/1795241996/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Fühlt sich der Klub betrogen?: Musiala, Kane, Olise: Ein Horrorabend für den FC Bayern</title>
+                <description>Der FC Bayern verspielt in der Fußball-Bundesliga wichtige Punkte gegen den 1. FC Köln. Aber über das Spiel an sich redet nach dem Schlusspfiff kaum einer. Dafür sorgt unter anderem Karl-Heinz Rummenigge mit wahnsinnigen Aussagen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Musiala-Kane-Olise-Ein-Horrorabend-fuer-den-FC-Bayern-id31561103.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Musiala-Kane-Olise-Ein-Horrorabend-fuer-den-FC-Bayern-id31561103.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 21 Nov 2026 06:27:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561206/1795245596/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der FC Bayern verspielt in der Fußball-Bundesliga wichtige Punkte gegen den 1. FC Köln. Aber über das Spiel an sich redet nach dem Schlusspfiff kaum einer. Dafür sorgt unter anderem Karl-Heinz Rummenigge mit wahnsinnigen Aussagen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561206/1795245596/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Katastrophen-Diagnose für Bayern: Harry Kane fällt monatelang aus</title>
+                <description>Der FC Bayern München muss monatelang auf Angreifer Harry Kane verzichten. Der Torjäger reißt sich im Bundesligaspiel gegen Köln bei einem Zweikampf das Syndesmoseband. Für den Rekordmeister ist diese Nachricht ein schwerer Schlag.</description>
+                <link>https://www.n-tv.de/sport/fussball/Harry-Kane-faellt-monatelang-aus-id31560800.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Harry-Kane-faellt-monatelang-aus-id31560800.html</guid>
+                <category>Sport</category>
+                <pubDate>Fri, 20 Nov 2026 23:15:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31560641/1795208333/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Der FC Bayern München muss monatelang auf Angreifer Harry Kane verzichten. Der Torjäger reißt sich im Bundesligaspiel gegen Köln bei einem Zweikampf das Syndesmoseband. Für den Rekordmeister ist diese Nachricht ein schwerer Schlag.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31560641/1795208333/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;GTA&quot;-Welt ohne Konsequenzen: &quot;Hier darf man mal auf jemanden schießen&quot;</title>
+                <description>Kaum ein anderes Videospiel ist so lange und heiß ersehnt worden wie &quot;GTA 6&quot;. Wer es spielt, wird um den Gebrauch von Schusswaffen nicht herumkommen. Warum wollen wir eigentlich so gerne böse sein?</description>
+                <link>https://www.n-tv.de/panorama/Hier-darf-man-mal-auf-jemanden-schiessen-id31556855.html</link>
+                <guid>https://www.n-tv.de/panorama/Hier-darf-man-mal-auf-jemanden-schiessen-id31556855.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 10:13:28 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31556924/1795162183/Img_4_3/250/epi_1107832129_REUTERSFOTO_2026-11-19T093346Z 867701611 RC2VQOAZ2TV4 RTRMADP 3 GAMING-GTA-VI-THAILAND.JPG_'Grand Theft Auto VI.jpg" width="250" height="188" align="left" />Kaum ein anderes Videospiel ist so lange und heiß ersehnt worden wie "GTA 6". Wer es spielt, wird um den Gebrauch von Schusswaffen nicht herumkommen. Warum wollen wir eigentlich so gerne böse sein?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31556924/1795162183/Img_4_3/250/epi_1107832129_REUTERSFOTO_2026-11-19T093346Z 867701611 RC2VQOAZ2TV4 RTRMADP 3 GAMING-GTA-VI-THAILAND.JPG_&apos;Grand Theft Auto VI.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Waldbrände in Los Angeles 2025: US-Gericht: 30-Jähriger der Brandstiftung schuldig gesprochen</title>
+                <description>Das Palisades-Feuer zählt zu den verheerendsten Waldbränden in Los Angeles. Im zweiten Anlauf befinden Geschworene den 30-jährigen Jonathan Rinderknecht in zwei Anklagepunkten für schuldig. Ihm drohen bis zu 40 Jahre Haft.</description>
+                <link>https://www.n-tv.de/panorama/US-Gericht-30-Jaehriger-der-Brandstiftung-schuldig-gesprochen-id31561164.html</link>
+                <guid>https://www.n-tv.de/panorama/US-Gericht-30-Jaehriger-der-Brandstiftung-schuldig-gesprochen-id31561164.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 21 Nov 2026 06:56:21 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31561157/1795242578/Img_4_3/250/imago0793513491h.jpg" width="250" height="188" align="left" />Das Palisades-Feuer zählt zu den verheerendsten Waldbränden in Los Angeles. Im zweiten Anlauf befinden Geschworene den 30-jährigen Jonathan Rinderknecht in zwei Anklagepunkten für schuldig. Ihm drohen bis zu 40 Jahre Haft.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31561157/1795242578/Img_4_3/250/imago0793513491h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>VIP VIP, Hurra!: Von der Freiheit, Rauswürfe zu fordern</title>
+                <description>Während die ARD vor einem Hallodri aus dem Jahr 1983 warnt, fordert Bill Kaulitz in Leipzig den Rauswurf eines städtischen Mitarbeiters. Da möchte man am liebsten mit Harald Schmidt auf einen Berg flüchten und sich nach Herzenslust über den ganzen Irrsinn auskotzen.</description>
+                <link>https://www.n-tv.de/leute/Bill-Kaulitz-Freiheit-predigen-Rauswurf-fordern-id31555473.html</link>
+                <guid>https://www.n-tv.de/leute/Bill-Kaulitz-Freiheit-predigen-Rauswurf-fordern-id31555473.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Fri, 20 Nov 2026 17:15:09 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31555482/1795111188/Img_4_3/250/481984396.jpg" width="250" height="188" align="left" />Während die ARD vor einem Hallodri aus dem Jahr 1983 warnt, fordert Bill Kaulitz in Leipzig den Rauswurf eines städtischen Mitarbeiters. Da möchte man am liebsten mit Harald Schmidt auf einen Berg flüchten und sich nach Herzenslust über den ganzen Irrsinn auskotzen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31555482/1795111188/Img_4_3/250/481984396.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
