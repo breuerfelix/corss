@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+        <channel>
+        	<atom:link href="" rel="self" type="application/rss+xml" />
+        	<title>n-tv.de - Startseite</title>
+        	<link>https://www.n-tv.de/</link>
+            <language>de-de</language>
+            <copyright>n-tv Nachrichtenfernsehen GmbH. RSS Meldungen dürfen nur unverändert wiedergegeben und ausschließlich online verwendet werden. Die eingeräumten Nutzungsrechte beinhalten ausdrücklich nicht das Recht zur Weitergabe an Dritte. Insbesondere ist es nicht gestattet, die Daten auf öffentlichen Screens oder zum Download anzubieten - weder kostenlos noch kostenpflichtig.</copyright>
+            <description>n-tv.de, Nachrichten seriös, schnell und kompetent. Artikel und Videos aus Politik, Wirtschaft, Börse, Sport und aller Welt.</description>
+            <lastBuildDate>Sat, 28 Nov 2026 21:10:26 +0100</lastBuildDate>
+            <ttl>5</ttl>
+            <image>
+                <url>https://www.n-tv.de/stat/rss/head_logo.png</url>
+                <title>n-tv.de - Startseite</title>
+                <link>https://www.n-tv.de/</link>
+            </image>
+           
+            <item>
+                <title>Nicht vor Ausweitung warnen?: CDU-Politiker will Kiew bei seiner Kriegsführung freie Hand lassen</title>
+                <description>Die Ukraine greift russische Schiffe im Mittelmeer und im Finnischen Meerbusen an. Daraufhin richten Außenminister Wadephul und Verteidigungsminister Pistorius Warnungen an Kiew. Ein hochrangiger CDU-Abgeordneter sieht darin das falsche Signal.</description>
+                <link>https://www.n-tv.de/politik/CDU-Politiker-will-Kiew-bei-seiner-Kriegsfuehrung-freie-Hand-lassen-id31589568.html</link>
+                <guid>https://www.n-tv.de/politik/CDU-Politiker-will-Kiew-bei-seiner-Kriegsfuehrung-freie-Hand-lassen-id31589568.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 21:02:11 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31567610/1795601971/Img_4_3/250/634592176.jpg" width="250" height="188" align="left" />Die Ukraine greift russische Schiffe im Mittelmeer und im Finnischen Meerbusen an. Daraufhin richten Außenminister Wadephul und Verteidigungsminister Pistorius Warnungen an Kiew. Ein hochrangiger CDU-Abgeordneter sieht darin das falsche Signal.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31567610/1795601971/Img_4_3/250/634592176.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Milliarden für den Autokauf: Wer von der neuen E-Auto-Prämie profitiert</title>
+                <description>Insgesamt drei Milliarden Euro aus dem Klima- und Transformationsfonds will die Bundesregierung in die Förderung von E-Autos stecken. Aktuelle Marktdaten deuten darauf hin, dass die Kaufprämie Wirkung zeigt. Doch nicht jede staatlich unterstützte Anschaffung ist auch gut fürs Klima.</description>
+                <link>https://www.n-tv.de/wirtschaft/Wer-von-der-neuen-E-Auto-Praemie-profitiert-id31587925.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Wer-von-der-neuen-E-Auto-Praemie-profitiert-id31587925.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 28 Nov 2026 17:17:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31400864/1795865702/Img_4_3/250/619463818.jpg" width="250" height="188" align="left" />Insgesamt drei Milliarden Euro aus dem Klima- und Transformationsfonds will die Bundesregierung in die Förderung von E-Autos stecken. Aktuelle Marktdaten deuten darauf hin, dass die Kaufprämie Wirkung zeigt. Doch nicht jede staatlich unterstützte Anschaffung ist auch gut fürs Klima.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31400864/1795865702/Img_4_3/250/619463818.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Heil stellt sich, Schwesig grüßt: SPD-Nachwuchs sagt Klingbeil offen den Kampf an </title>
+                <description>Wenn die Jusos zusammenkommen, haben es SPD-Vorsitzende immer schwer. Doch so wie Lars Klingbeil ist wohl noch kein Parteichef in Abwesenheit angegangen worden. Stattdessen taucht beim Juso-Kongress Hubertus Heil auf - und die Kandidatin der Herzen schickt vielsagende Grüße.</description>
+                <link>https://www.n-tv.de/politik/SPD-Nachwuchs-sagt-Klingbeil-offen-den-Kampf-an-id31589390.html</link>
+                <guid>https://www.n-tv.de/politik/SPD-Nachwuchs-sagt-Klingbeil-offen-den-Kampf-an-id31589390.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 18:41:09 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589411/1795890116/Img_4_3/250/635970985.jpg" width="250" height="188" align="left" />Wenn die Jusos zusammenkommen, haben es SPD-Vorsitzende immer schwer. Doch so wie Lars Klingbeil ist wohl noch kein Parteichef in Abwesenheit angegangen worden. Stattdessen taucht beim Juso-Kongress Hubertus Heil auf - und die Kandidatin der Herzen schickt vielsagende Grüße.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589411/1795890116/Img_4_3/250/635970985.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Zusammenarbeit mit der AfD	: Im BSW-Richtungsstreit gibt es klare Verlierer - und die treten aus</title>
+                <description>Den Bundesparteitag des BSW in Dresden überschattet die Frage, ob die AfD nun politischer Partner oder Feind sein soll. Die Befürworter einer inhaltlichen Zusammenarbeit um Sahra Wagenknecht gewinnen deutlich. Dutzende Kritiker wollen nun austreten.</description>
+                <link>https://www.n-tv.de/politik/Im-BSW-Richtungsstreit-gibt-es-klare-Verlierer-und-die-treten-aus-id31588380.html</link>
+                <guid>https://www.n-tv.de/politik/Im-BSW-Richtungsstreit-gibt-es-klare-Verlierer-und-die-treten-aus-id31588380.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 17:40:34 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589348/1795886926/Img_4_3/250/636022333.jpg" width="250" height="188" align="left" />Den Bundesparteitag des BSW in Dresden überschattet die Frage, ob die AfD nun politischer Partner oder Feind sein soll. Die Befürworter einer inhaltlichen Zusammenarbeit um Sahra Wagenknecht gewinnen deutlich. Dutzende Kritiker wollen nun austreten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589348/1795886926/Img_4_3/250/636022333.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Netanjahu vor dem Aus?: Arabische Partei in Israel stuft Hamas als Terrororganisation ein</title>
+                <description>Israels Regierungschef Netanjahu sieht seine Felle davonschwimmen und bietet seinem Rivalen Eisenkot die abwechselnde Regierungsführung an. Kurz darauf räumt der Vorsitzende einer arabischen Partei ein wichtiges Hindernis für eine Regierungsbildung gegen Netanjahu aus dem Weg.</description>
+                <link>https://www.n-tv.de/politik/Arabische-Partei-in-Israel-stuft-Hamas-als-Terrororganisation-ein-id31589588.html</link>
+                <guid>https://www.n-tv.de/politik/Arabische-Partei-in-Israel-stuft-Hamas-als-Terrororganisation-ein-id31589588.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 21:02:48 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589594/1795898933/Img_4_3/250/636082771.jpg" width="250" height="188" align="left" />Israels Regierungschef Netanjahu sieht seine Felle davonschwimmen und bietet seinem Rivalen Eisenkot die abwechselnde Regierungsführung an. Kurz darauf räumt der Vorsitzende einer arabischen Partei ein wichtiges Hindernis für eine Regierungsbildung gegen Netanjahu aus dem Weg.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589594/1795898933/Img_4_3/250/636082771.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>AfD hält Partei für &quot;mausetot&quot;: Grüne sehen BSW nicht mehr im demokratischen Spektrum</title>
+                <description>Der Bundesparteitag des BSW endet im Chaos und mit Parteiaustritten. Grund ist ein Beschluss zur Zusammenarbeit mit der AfD. Von den Parteien links der Mitte hagelt es Kritik - und auch die AfD findet vernichtende Worte für die Bewegung von Sahra Wagenknecht.</description>
+                <link>https://www.n-tv.de/politik/Gruene-sehen-BSW-nicht-mehr-im-demokratischen-Spektrum-id31589424.html</link>
+                <guid>https://www.n-tv.de/politik/Gruene-sehen-BSW-nicht-mehr-im-demokratischen-Spektrum-id31589424.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 19:31:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589454/1795892110/Img_4_3/250/635190658.jpg" width="250" height="188" align="left" />Der Bundesparteitag des BSW endet im Chaos und mit Parteiaustritten. Grund ist ein Beschluss zur Zusammenarbeit mit der AfD. Von den Parteien links der Mitte hagelt es Kritik - und auch die AfD findet vernichtende Worte für die Bewegung von Sahra Wagenknecht.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589454/1795892110/Img_4_3/250/635190658.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Union attackiert Gesetzentwurf: Koalitionsstreit über die Rentenreform bekommt neue Härte</title>
+                <description>Sozialminister Schweitzer will seinen nicht abgestimmten Entwurf für die Rentenreform als Diskussionsgrundlage für einen Kompromiss verstanden wissen. Unionsvertreter reagieren dagegen pikiert auf das Vorgehen des Ministers ebenso wie auf den Inhalt des Gesetzentwurfs. </description>
+                <link>https://www.n-tv.de/politik/Koalitionsstreit-ueber-die-Rentenreform-bekommt-neue-Haerte-id31589284.html</link>
+                <guid>https://www.n-tv.de/politik/Koalitionsstreit-ueber-die-Rentenreform-bekommt-neue-Haerte-id31589284.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 18:11:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589294/1795885192/Img_4_3/250/635754508.jpg" width="250" height="188" align="left" />Sozialminister Schweitzer will seinen nicht abgestimmten Entwurf für die Rentenreform als Diskussionsgrundlage für einen Kompromiss verstanden wissen. Unionsvertreter reagieren dagegen pikiert auf das Vorgehen des Ministers ebenso wie auf den Inhalt des Gesetzentwurfs. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589294/1795885192/Img_4_3/250/635754508.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Stimmt was nicht im Verein&quot;: &quot;Dummer&quot; Kimmich wirft Fragen zum FC Bayern auf</title>
+                <description>Nach dem Spiel zeigt sich Joshua Kimmich reuig: Seine Rote Karte nach Haareziehen ist für den Bayern-Interimskapitän selbst &quot;völlig unentschuldbar&quot;. Sein Blackout ist für den Klub der nächste Tiefschlag. Lothar Matthäus fürchtet grundlegende Probleme. </description>
+                <link>https://www.n-tv.de/sport/fussball/Dummer-Kimmich-wirft-Fragen-zum-FC-Bayern-auf-id31589455.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Dummer-Kimmich-wirft-Fragen-zum-FC-Bayern-auf-id31589455.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 19:32:58 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589460/1795892303/Img_4_3/250/imago1086472200h.jpg" width="250" height="188" align="left" />Nach dem Spiel zeigt sich Joshua Kimmich reuig: Seine Rote Karte nach Haareziehen ist für den Bayern-Interimskapitän selbst "völlig unentschuldbar". Sein Blackout ist für den Klub der nächste Tiefschlag. Lothar Matthäus fürchtet grundlegende Probleme. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589460/1795892303/Img_4_3/250/imago1086472200h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Coach rechnet mit Schalkern ab: Brandrede von Muslic: &quot;Schäme mich in Grund und Boden&quot;</title>
+                <description>Nach der 1:8-Pleite beim SC Paderborn nimmt Schalkes Cheftrainer Miron Muslic kein Blatt vor den Mund. Der 44-Jährige schämt sich für den Auftritt seiner Mannschaft, hinterfragt Führungsspieler und warnt schon vor dem Revierderby kommende Woche.</description>
+                <link>https://www.n-tv.de/sport/fussball/Brandrede-von-Muslic-Schaeme-mich-in-Grund-und-Boden-id31589523.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Brandrede-von-Muslic-Schaeme-mich-in-Grund-und-Boden-id31589523.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 20:42:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589492/1795894157/Img_4_3/250/imago1086477827h.jpg" width="250" height="188" align="left" />Nach der 1:8-Pleite beim SC Paderborn nimmt Schalkes Cheftrainer Miron Muslic kein Blatt vor den Mund. Der 44-Jährige schämt sich für den Auftritt seiner Mannschaft, hinterfragt Führungsspieler und warnt schon vor dem Revierderby kommende Woche.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589492/1795894157/Img_4_3/250/imago1086477827h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mit zurückgenommenem Rot: Kein Sieger in Stuttgart: Frankfurt kämpft sich zweimal zurück</title>
+                <description>Unentschieden im Topspiel: Stuttgart und Frankfurt trennen sich in einem hitzigen Duell mit 2:2 (1:1). Beide Teams sind seit vier Spielen ungeschlagen, im Rennen um die europäischen Startplätze hilft das Remis aber kaum.</description>
+                <link>https://www.n-tv.de/sport/fussball/Kein-Sieger-in-Stuttgart-Frankfurt-kaempft-sich-zweimal-zurueck-id31589565.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Kein-Sieger-in-Stuttgart-Frankfurt-kaempft-sich-zweimal-zurueck-id31589565.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 20:27:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589554/1795897096/Img_4_3/250/imago1086488674h.jpg" width="250" height="188" align="left" />Unentschieden im Topspiel: Stuttgart und Frankfurt trennen sich in einem hitzigen Duell mit 2:2 (1:1). Beide Teams sind seit vier Spielen ungeschlagen, im Rennen um die europäischen Startplätze hilft das Remis aber kaum.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589554/1795897096/Img_4_3/250/imago1086488674h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dutzende Mitglieder treten aus: BSW-Parteitag lehnt schärfere Abgrenzung zur AfD ab</title>
+                <description>Mehrere prominente Mitglieder des BSW sind vehement gegen eine Zusammenarbeit mit der AfD, wie sie in Sachsen-Anhalt geplant ist. Doch auf dem Parteitag in Dresden haben sie keine Mehrheit - ihr Antrag wird klar abgelehnt. Nicht nur Mitgründer Klaus Ernst wollen die Partei verlassen.</description>
+                <link>https://www.n-tv.de/politik/BSW-Parteitag-lehnt-schaerfere-Abgrenzung-zur-AfD-ab-id31588868.html</link>
+                <guid>https://www.n-tv.de/politik/BSW-Parteitag-lehnt-schaerfere-Abgrenzung-zur-AfD-ab-id31588868.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 14:00:39 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588851/1795873856/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Mehrere prominente Mitglieder des BSW sind vehement gegen eine Zusammenarbeit mit der AfD, wie sie in Sachsen-Anhalt geplant ist. Doch auf dem Parteitag in Dresden haben sie keine Mehrheit - ihr Antrag wird klar abgelehnt. Nicht nur Mitgründer Klaus Ernst wollen die Partei verlassen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588851/1795873856/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ich bin kein 29-jähriger Obama&quot;: Vorsitzkandidat Hubertus Heil umgarnt den skeptischen SPD-Nachwuchs</title>
+                <description>Hubertus Heil will SPD-Vorsitzender werden, die Jusos wollen vor allem Lars Klingbeil loswerden. Doch bei Heils Bewerbung auf dem Kongress des Parteinachwuchses zeigt sich: Die beiden Begehren passen nicht zwingend zusammen.</description>
+                <link>https://www.n-tv.de/politik/Vorsitzkandidat-Hubertus-Heil-umgarnt-den-skeptischen-SPD-Nachwuchs-id31588940.html</link>
+                <guid>https://www.n-tv.de/politik/Vorsitzkandidat-Hubertus-Heil-umgarnt-den-skeptischen-SPD-Nachwuchs-id31588940.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 16:27:34 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589177/1795882161/Img_4_3/250/635999110.jpg" width="250" height="188" align="left" />Hubertus Heil will SPD-Vorsitzender werden, die Jusos wollen vor allem Lars Klingbeil loswerden. Doch bei Heils Bewerbung auf dem Kongress des Parteinachwuchses zeigt sich: Die beiden Begehren passen nicht zwingend zusammen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589177/1795882161/Img_4_3/250/635999110.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Koalition mit wechselnder Spitze: Netanjahu bietet Eisenkot Vortritt als Regierungschef an</title>
+                <description>Vier Wochen nach der Wahl ringt Israel weiter um eine neue Regierung. Nun bietet Netanjahu seinem Rivalen Eisenkot den Vortritt als Ministerpräsident an. Hintergrund des Zugeständnisses dürfe sein, dass eine mögliche Parlamentsmehrheit gegen Netanjahu konkretere Formen annimmt.</description>
+                <link>https://www.n-tv.de/politik/Netanjahu-bietet-Eisenkot-Vortritt-als-Regierungschef-an-id31589552.html</link>
+                <guid>https://www.n-tv.de/politik/Netanjahu-bietet-Eisenkot-Vortritt-als-Regierungschef-an-id31589552.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 20:43:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589559/1795897251/Img_4_3/250/632255233.jpg" width="250" height="188" align="left" />Vier Wochen nach der Wahl ringt Israel weiter um eine neue Regierung. Nun bietet Netanjahu seinem Rivalen Eisenkot den Vortritt als Ministerpräsident an. Hintergrund des Zugeständnisses dürfe sein, dass eine mögliche Parlamentsmehrheit gegen Netanjahu konkretere Formen annimmt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589559/1795897251/Img_4_3/250/632255233.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Abkommen mit Hamas vor Scheitern: Bericht: Friedensrat droht Netanjahu mit Rückgabe des Gaza-Mandats</title>
+                <description>Das von US-Präsident Trump ins Leben gerufene Board of Peace warnt seit Wochen vor einem Scheitern der Feuerpause im Gazastreifen. Dafür ist laut Friedensrat vor allem die israelische Seite verantwortlich. Das Gremium sieht sich offenbar kaum noch handlungsfähig.</description>
+                <link>https://www.n-tv.de/politik/Bericht-Friedensrat-droht-Netanjahu-mit-Rueckgabe-des-Gaza-Mandats-id31589312.html</link>
+                <guid>https://www.n-tv.de/politik/Bericht-Friedensrat-droht-Netanjahu-mit-Rueckgabe-des-Gaza-Mandats-id31589312.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 18:14:33 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589387/1795888519/Img_4_3/250/634752394.jpg" width="250" height="188" align="left" />Das von US-Präsident Trump ins Leben gerufene Board of Peace warnt seit Wochen vor einem Scheitern der Feuerpause im Gazastreifen. Dafür ist laut Friedensrat vor allem die israelische Seite verantwortlich. Das Gremium sieht sich offenbar kaum noch handlungsfähig.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589387/1795888519/Img_4_3/250/634752394.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Lichterglanz unter Viadukt: Ticket-Hype um Weihnachtsmarkt in der Ravennaschlucht</title>
+                <description>Vor 16 Jahren war dort noch Wildnis. Heute findet in der Ravennaschlucht ein Weihnachtsmarkt statt, der weit über die Landesgrenzen hinaus bekannt ist. Wie kam es dazu?</description>
+                <link>https://www.n-tv.de/panorama/Ticket-Hype-um-Weihnachtsmarkt-in-der-Ravennaschlucht-id31565298.html</link>
+                <guid>https://www.n-tv.de/panorama/Ticket-Hype-um-Weihnachtsmarkt-in-der-Ravennaschlucht-id31565298.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 28 Nov 2026 18:44:51 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31565308/1795425039/Img_4_3/250/Auftakt Weihnachtsmarkt Ravennaschlucht.jpg" width="250" height="188" align="left" />Vor 16 Jahren war dort noch Wildnis. Heute findet in der Ravennaschlucht ein Weihnachtsmarkt statt, der weit über die Landesgrenzen hinaus bekannt ist. Wie kam es dazu?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31565308/1795425039/Img_4_3/250/Auftakt Weihnachtsmarkt Ravennaschlucht.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Rebellen spielen: Warum brave Tech-Milliardäre Lederjacken lieben</title>
+                <description>Im Juli zahlte jemand 960.000 Dollar für eine getragene Lederjacke von Jensen Huang. Vier Monate später ist der Nvidia-Gründer seinen Chefposten kurzzeitig los, und das Internet macht sich über seine Garderobe lustig. Wie wurde aus der Uniform der Aufsässigen ein Statussymbol für Milliardäre?</description>
+                <link>https://www.n-tv.de/panorama/Warum-brave-Tech-Milliardaere-Lederjacken-lieben-id31571967.html</link>
+                <guid>https://www.n-tv.de/panorama/Warum-brave-Tech-Milliardaere-Lederjacken-lieben-id31571967.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 28 Nov 2026 18:15:52 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31569145/1795466875/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Im Juli zahlte jemand 960.000 Dollar für eine getragene Lederjacke von Jensen Huang. Vier Monate später ist der Nvidia-Gründer seinen Chefposten kurzzeitig los, und das Internet macht sich über seine Garderobe lustig. Wie wurde aus der Uniform der Aufsässigen ein Statussymbol für Milliardäre?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31569145/1795466875/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Im Namen von Papà: Berlusconi ist tot, sein Clan mischt weiter munter mit</title>
+                <description>Silvio Berlusconis Kinder verwalten die Partei ihres Vaters, als wäre sie eines ihrer Unternehmen. Allerdings läuft es für Forza Italia längst nicht wie gewünscht. Gut möglich, dass deshalb ein Nachkomme des &quot;Cavaliere&quot; in die politischen Fußstapfen des Vaters tritt.</description>
+                <link>https://www.n-tv.de/politik/Berlusconi-ist-tot-sein-Clan-mischt-weiter-munter-mit-id31542425.html</link>
+                <guid>https://www.n-tv.de/politik/Berlusconi-ist-tot-sein-Clan-mischt-weiter-munter-mit-id31542425.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 16:18:55 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31543075/1794915887/Img_4_3/250/imago0776876803h.jpg" width="250" height="188" align="left" />Silvio Berlusconis Kinder verwalten die Partei ihres Vaters, als wäre sie eines ihrer Unternehmen. Allerdings läuft es für Forza Italia längst nicht wie gewünscht. Gut möglich, dass deshalb ein Nachkomme des "Cavaliere" in die politischen Fußstapfen des Vaters tritt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31543075/1794915887/Img_4_3/250/imago0776876803h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Sex und Liebe im Ukraine-Krieg: &quot;Soldaten kommen zu Sexarbeiterinnen, um zu kuscheln&quot;</title>
+                <description>Die polnischen Journalisten Kaja Puto und Mateusz Lachowski sind 3500 Kilometer durch die Ukraine gereist, um herauszufinden, wie sich der Krieg auf das Intimleben der Menschen auswirkt. Wir haben mit ihnen gesprochen.</description>
+                <link>https://www.n-tv.de/politik/Soldaten-kommen-zu-Sexarbeiterinnen-um-zu-kuscheln-id31580176.html</link>
+                <guid>https://www.n-tv.de/politik/Soldaten-kommen-zu-Sexarbeiterinnen-um-zu-kuscheln-id31580176.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 10:28:43 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31580296/1795695455/Img_4_3/250/_1130590.jpg" width="250" height="188" align="left" />Die polnischen Journalisten Kaja Puto und Mateusz Lachowski sind 3500 Kilometer durch die Ukraine gereist, um herauszufinden, wie sich der Krieg auf das Intimleben der Menschen auswirkt. Wir haben mit ihnen gesprochen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31580296/1795695455/Img_4_3/250/_1130590.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Behörde sieht &quot;schwere Straftat&quot;: Google muss Bau von Rechenzentrum in Belgien stoppen</title>
+                <description>Googles Rechenzentrumspläne sorgen in Europa für Streit mit Behörden. Nun stoppt der Konzern auch ein Bauprojekt in Belgien. Hinter dem Konflikt steckt unter anderem eine folgenreiche Änderung der ursprünglichen Pläne.</description>
+                <link>https://www.n-tv.de/wirtschaft/Google-muss-Bau-von-Rechenzentrum-in-Belgien-stoppen-id31589347.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Google-muss-Bau-von-Rechenzentrum-in-Belgien-stoppen-id31589347.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 28 Nov 2026 18:57:55 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589366/1795887351/Img_4_3/250/603677162.jpg" width="250" height="188" align="left" />Googles Rechenzentrumspläne sorgen in Europa für Streit mit Behörden. Nun stoppt der Konzern auch ein Bauprojekt in Belgien. Hinter dem Konflikt steckt unter anderem eine folgenreiche Änderung der ursprünglichen Pläne.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589366/1795887351/Img_4_3/250/603677162.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Warnung vor Nachbeben: Erdbeben erschüttert Großraum Los Angeles</title>
+                <description>Zunächst gibt es keine Berichte über größere Schäden oder Opfer. Nach einem Beben mit der Stärke 5,0 ist die Feuerwehr von Los Angeles allerdings alarmiert und die Bürgermeisterin warnt die Bevölkerung, sich auf Nachbeben einzustellen. </description>
+                <link>https://www.n-tv.de/panorama/Erdbeben-erschuettert-Grossraum-Los-Angeles-id31589516.html</link>
+                <guid>https://www.n-tv.de/panorama/Erdbeben-erschuettert-Grossraum-Los-Angeles-id31589516.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 28 Nov 2026 20:09:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589515/1795895509/Img_4_3/250/imago0793685346h.jpg" width="250" height="188" align="left" />Zunächst gibt es keine Berichte über größere Schäden oder Opfer. Nach einem Beben mit der Stärke 5,0 ist die Feuerwehr von Los Angeles allerdings alarmiert und die Bürgermeisterin warnt die Bevölkerung, sich auf Nachbeben einzustellen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589515/1795895509/Img_4_3/250/imago0793685346h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Auch Kiew trifft Infrastruktur: Russland greift so viele Brücken an wie seit Kriegsbeginn nicht</title>
+                <description>Im Zermürbungskampf gegen die Ukraine setzt Moskau laut einer Analyse derzeit vermehrt auf Schläge gegen Teile der Infrastruktur, die zuletzt 2022 so stark angegriffen wurden. Das ukrainische Militär konzentriert sich bei ähnlichen Attacken auf die besetzten Gebiete.</description>
+                <link>https://www.n-tv.de/politik/Russland-greift-so-viele-Bruecken-an-wie-seit-Kriegsbeginn-nicht-id31589080.html</link>
+                <guid>https://www.n-tv.de/politik/Russland-greift-so-viele-Bruecken-an-wie-seit-Kriegsbeginn-nicht-id31589080.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 16:58:20 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589088/1795879430/Img_4_3/250/2026-11-17T150446Z_1740431782_RC2MPOAZCM37_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE.jpg" width="250" height="188" align="left" />Im Zermürbungskampf gegen die Ukraine setzt Moskau laut einer Analyse derzeit vermehrt auf Schläge gegen Teile der Infrastruktur, die zuletzt 2022 so stark angegriffen wurden. Das ukrainische Militär konzentriert sich bei ähnlichen Attacken auf die besetzten Gebiete.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589088/1795879430/Img_4_3/250/2026-11-17T150446Z_1740431782_RC2MPOAZCM37_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Schlappe für Berliner Linke: Gericht erlaubt CDU-Minister Redmann Aussagen zu Clankriminalität</title>
+                <description>Ein Instagram-Beitrag des Brandenburger Innenministers über Antisemitismus und Clans sorgt für juristischen Ärger. Die Berliner Linke will Redmann per Eilantrag zum Schweigen bringen - doch vor Gericht scheitert sie damit. Nun will die Partei weitere Schritte prüfen.</description>
+                <link>https://www.n-tv.de/politik/Gericht-erlaubt-CDU-Minister-Redmann-Aussagen-zu-Clankriminalitaet-id31588774.html</link>
+                <guid>https://www.n-tv.de/politik/Gericht-erlaubt-CDU-Minister-Redmann-Aussagen-zu-Clankriminalitaet-id31588774.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 15:08:26 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31441001/1792568672/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Ein Instagram-Beitrag des Brandenburger Innenministers über Antisemitismus und Clans sorgt für juristischen Ärger. Die Berliner Linke will Redmann per Eilantrag zum Schweigen bringen - doch vor Gericht scheitert sie damit. Nun will die Partei weitere Schritte prüfen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31441001/1792568672/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Erfolg per Tippgemeinschaft: Lotto-Millionär &quot;Chico&quot; erspielt erneut Gewinn</title>
+                <description>Der Dortmunder Kürsat Yildirim, bekannt als Chico, räumt erneut beim Lotto ab. Gemeinsam mit 350 Mittippern teilt er sich fast 232.000 Euro. Sein persönlicher Anteil fließt umgehend in neue Lottoscheine.</description>
+                <link>https://www.n-tv.de/leute/Lotto-Millionaer-Chico-erspielt-erneut-Gewinn-id31588679.html</link>
+                <guid>https://www.n-tv.de/leute/Lotto-Millionaer-Chico-erspielt-erneut-Gewinn-id31588679.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 28 Nov 2026 13:29:36 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588705/1795869775/Img_4_3/250/imago1047353409h.jpg" width="250" height="188" align="left" />Der Dortmunder Kürsat Yildirim, bekannt als Chico, räumt erneut beim Lotto ab. Gemeinsam mit 350 Mittippern teilt er sich fast 232.000 Euro. Sein persönlicher Anteil fließt umgehend in neue Lottoscheine.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588705/1795869775/Img_4_3/250/imago1047353409h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;So noch nie erlebt&quot;: Raimund sauer, Hannawald verblüfft: DSV-Adler mit historischem Fehlstart</title>
+                <description>Erst zum dritten Mal in der Weltcup-Geschichte sind die DSV-Adler nach drei Wettbewerben noch ohne eine Platzierung unter den besten Zehn. In Ruka wird Andreas Wellinger als 21. bester Deutscher. Der desaströse Saisonstart bereitet auch einer Skisprung-Legende Kopfzerbrechen.</description>
+                <link>https://www.n-tv.de/sport/Raimund-sauer-Hannawald-verbluefft-DSV-Adler-mit-historischem-Fehlstart-id31589476.html</link>
+                <guid>https://www.n-tv.de/sport/Raimund-sauer-Hannawald-verbluefft-DSV-Adler-mit-historischem-Fehlstart-id31589476.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 19:50:35 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589445/1795891768/Img_4_3/250/imago1084919765h.jpg" width="250" height="188" align="left" />Erst zum dritten Mal in der Weltcup-Geschichte sind die DSV-Adler nach drei Wettbewerben noch ohne eine Platzierung unter den besten Zehn. In Ruka wird Andreas Wellinger als 21. bester Deutscher. Der desaströse Saisonstart bereitet auch einer Skisprung-Legende Kopfzerbrechen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589445/1795891768/Img_4_3/250/imago1084919765h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Großeinsatz in Dresden: Verdacht auf kriminelle Vereinigung: Hausdurchsuchungen in der Dynamo-Szene</title>
+                <description>Großer Polizeieinsatz rund um die Fanszene von Dynamo Dresden: Nach dem Heimspiel gegen St. Pauli werden Anhänger des Zweitligisten im Zuge von Ermittlungen wegen des Verdachts der Beteiligung an einer kriminellen Vereinigung im Stadion festgehalten.</description>
+                <link>https://www.n-tv.de/sport/fussball/Verdacht-auf-kriminelle-Vereinigung-Hausdurchsuchungen-in-der-Dynamo-Szene-id31589389.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Verdacht-auf-kriminelle-Vereinigung-Hausdurchsuchungen-in-der-Dynamo-Szene-id31589389.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 18:16:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589383/1795888034/Img_4_3/250/imago1086460964h.jpg" width="250" height="188" align="left" />Großer Polizeieinsatz rund um die Fanszene von Dynamo Dresden: Nach dem Heimspiel gegen St. Pauli werden Anhänger des Zweitligisten im Zuge von Ermittlungen wegen des Verdachts der Beteiligung an einer kriminellen Vereinigung im Stadion festgehalten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589383/1795888034/Img_4_3/250/imago1086460964h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Es braucht Geld und Manpower&quot;: Crack breitet sich in deutschen Großstädten aus</title>
+                <description>In vielen Städten ist das Elend kaum zu übersehen: Süchtige konsumieren in der U-Bahn oder rauchen Crackpfeifen an Hauseingängen. Experten schlagen Alarm. Die Frage ist nicht mehr, ob gehandelt werden muss, sondern wie.</description>
+                <link>https://www.n-tv.de/panorama/Crack-breitet-sich-in-deutschen-Grossstaedten-aus-id31581512.html</link>
+                <guid>https://www.n-tv.de/panorama/Crack-breitet-sich-in-deutschen-Grossstaedten-aus-id31581512.html</guid>
+                <category>Panorama</category>
+                <pubDate>Sat, 28 Nov 2026 15:16:36 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31581571/1795708179/Img_4_3/250/563833883.jpg" width="250" height="188" align="left" />In vielen Städten ist das Elend kaum zu übersehen: Süchtige konsumieren in der U-Bahn oder rauchen Crackpfeifen an Hauseingängen. Experten schlagen Alarm. Die Frage ist nicht mehr, ob gehandelt werden muss, sondern wie.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31581571/1795708179/Img_4_3/250/563833883.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Winterprobleme für die Tonne: Nur halb geleert? Wenn der Müll in der Tonne gefriert</title>
+                <description>Wieder viel Müll angefallen, aber geleert wurde Ihre Tonne diesmal nur halb? Das könnte an winterlich tiefen Temperaturen und Müll-Frost liegen. Was Entsorger raten.</description>
+                <link>https://www.n-tv.de/ratgeber/Nur-halb-geleert-Wenn-der-Muell-in-der-Tonne-gefriert-id31580986.html</link>
+                <guid>https://www.n-tv.de/ratgeber/Nur-halb-geleert-Wenn-der-Muell-in-der-Tonne-gefriert-id31580986.html</guid>
+                <category>Ratgeber</category>
+                <pubDate>Sat, 28 Nov 2026 19:38:18 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31579725/1795703043/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Wieder viel Müll angefallen, aber geleert wurde Ihre Tonne diesmal nur halb? Das könnte an winterlich tiefen Temperaturen und Müll-Frost liegen. Was Entsorger raten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31579725/1795703043/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Drastischer Gewichtsverlust: Trauer um ihren Vater traf Kelly Osbourne heftiger als Drogensucht</title>
+                <description>In einem Interview schildert Kelly Osbourne, wie dramatisch der Tod ihres Vaters ihre körperliche und seelische Gesundheit erschütterte. Ein Moment vor den Grammy Awards führte ihr das Ausmaß besonders deutlich vor Augen.</description>
+                <link>https://www.n-tv.de/leute/Trauer-um-ihren-Vater-traf-Kelly-Osbourne-heftiger-als-Drogensucht-id31589403.html</link>
+                <guid>https://www.n-tv.de/leute/Trauer-um-ihren-Vater-traf-Kelly-Osbourne-heftiger-als-Drogensucht-id31589403.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 28 Nov 2026 20:49:56 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589425/1795890323/Img_4_3/250/imago0869101672h.jpg" width="250" height="188" align="left" />In einem Interview schildert Kelly Osbourne, wie dramatisch der Tod ihres Vaters ihre körperliche und seelische Gesundheit erschütterte. Ein Moment vor den Grammy Awards führte ihr das Ausmaß besonders deutlich vor Augen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589425/1795890323/Img_4_3/250/imago0869101672h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Geiler Wettkampf&quot;: Obwohl Tränen fließen, können die deutschen Biathleten feiern</title>
+                <description>Erst zwei Strafrunden und bittere Tränen von Janina Hettich-Walz, dann doch noch der gemeinsame Jubel in der Biathlon-Staffel. Beim ersten Weltcup der Saison gibt es gleich mehrere Podestplätze. Dabei sieht es zwischendurch gar nicht gut aus. </description>
+                <link>https://www.n-tv.de/sport/Obwohl-Traenen-fliessen-koennen-die-deutschen-Biathleten-feiern-id31589428.html</link>
+                <guid>https://www.n-tv.de/sport/Obwohl-Traenen-fliessen-koennen-die-deutschen-Biathleten-feiern-id31589428.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 18:35:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589391/1795889123/Img_4_3/250/imago1086464175h.jpg" width="250" height="188" align="left" />Erst zwei Strafrunden und bittere Tränen von Janina Hettich-Walz, dann doch noch der gemeinsame Jubel in der Biathlon-Staffel. Beim ersten Weltcup der Saison gibt es gleich mehrere Podestplätze. Dabei sieht es zwischendurch gar nicht gut aus. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589391/1795889123/Img_4_3/250/imago1086464175h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>WHO: &quot;Empörender&quot; Angriff: Israels Militär tötet zwei Mitarbeiter von Ärzte ohne Grenzen</title>
+                <description>Zum zweiten Mal innerhalb weniger Wochen macht Ärzte ohne Grenzen Israel schwere Vorwürfe. Dessen Armee begründet einen Luftangriff auf eine medizinische Einrichtung im Gazastreifen mit der Hamas-Mitgliedschaft der Getöteten. Im Westjordanland gibt es indes wieder Siedlerangriffe.</description>
+                <link>https://www.n-tv.de/politik/Israels-Militaer-toetet-zwei-Mitarbeiter-von-Aerzte-ohne-Grenzen-id31588932.html</link>
+                <guid>https://www.n-tv.de/politik/Israels-Militaer-toetet-zwei-Mitarbeiter-von-Aerzte-ohne-Grenzen-id31588932.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 16:15:32 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588991/1795877459/Img_4_3/250/635971216.jpg" width="250" height="188" align="left" />Zum zweiten Mal innerhalb weniger Wochen macht Ärzte ohne Grenzen Israel schwere Vorwürfe. Dessen Armee begründet einen Luftangriff auf eine medizinische Einrichtung im Gazastreifen mit der Hamas-Mitgliedschaft der Getöteten. Im Westjordanland gibt es indes wieder Siedlerangriffe.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588991/1795877459/Img_4_3/250/635971216.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Mehr Angriffe am Horn von Afrika: Somalische Piraten kapern Frachter erstmals vom Jemen aus </title>
+                <description>Die Schifffahrt am Horn von Afrika wird wieder gefährlicher. Außer Attacken der jemenitischen Huthis nehmen auch Piratenangriffe wieder zu. Offenbar haben nun somalische Piraten den Jemen als Basis für einen Raubzug genutzt.</description>
+                <link>https://www.n-tv.de/politik/Somalische-Piraten-kapern-Frachter-erstmals-vom-Jemen-aus-id31589156.html</link>
+                <guid>https://www.n-tv.de/politik/Somalische-Piraten-kapern-Frachter-erstmals-vom-Jemen-aus-id31589156.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 17:15:53 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589163/1795881532/Img_4_3/250/594406613.jpg" width="250" height="188" align="left" />Die Schifffahrt am Horn von Afrika wird wieder gefährlicher. Außer Attacken der jemenitischen Huthis nehmen auch Piratenangriffe wieder zu. Offenbar haben nun somalische Piraten den Jemen als Basis für einen Raubzug genutzt.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589163/1795881532/Img_4_3/250/594406613.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Ein bisschen gruselig&quot;: Sarah Kuttner fallen infolge der Krebstherapie die Haare aus</title>
+                <description>Bisher verlief die Chemotherapie von Sarah Kuttner nach eigenen Angaben &quot;supercool&quot;. Doch eine erwartete Nebenwirkung setzt nun ein. Auf Instagram zeigt die krebserkrankte Moderatorin den beginnenden Haarausfall.</description>
+                <link>https://www.n-tv.de/leute/Sarah-Kuttner-fallen-infolge-der-Krebstherapie-die-Haare-aus-id31589116.html</link>
+                <guid>https://www.n-tv.de/leute/Sarah-Kuttner-fallen-infolge-der-Krebstherapie-die-Haare-aus-id31589116.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 28 Nov 2026 16:17:06 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589125/1795880293/Img_4_3/250/imago0840094178h.jpg" width="250" height="188" align="left" />Bisher verlief die Chemotherapie von Sarah Kuttner nach eigenen Angaben "supercool". Doch eine erwartete Nebenwirkung setzt nun ein. Auf Instagram zeigt die krebserkrankte Moderatorin den beginnenden Haarausfall.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589125/1795880293/Img_4_3/250/imago0840094178h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Wegwerfartikel der Adventszeit: Darum überleben Weihnachtssterne meist nicht lange</title>
+                <description>Jedes Jahr werden Millionen Weihnachtssterne in Deutschland gezogen - die Pflanze wird besonders in der Adventszeit gern gekauft. Doch die empfindliche Diva überlebt die Festtage oft nicht einmal. Woran liegt das?</description>
+                <link>https://www.n-tv.de/wissen/Darum-ueberleben-Weihnachtssterne-meist-nicht-lange-id31583711.html</link>
+                <guid>https://www.n-tv.de/wissen/Darum-ueberleben-Weihnachtssterne-meist-nicht-lange-id31583711.html</guid>
+                <category>Wissen</category>
+                <pubDate>Sat, 28 Nov 2026 09:21:08 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31584056/1795771486/Img_4_3/250/560424530.jpg" width="250" height="188" align="left" />Jedes Jahr werden Millionen Weihnachtssterne in Deutschland gezogen - die Pflanze wird besonders in der Adventszeit gern gekauft. Doch die empfindliche Diva überlebt die Festtage oft nicht einmal. Woran liegt das?]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31584056/1795771486/Img_4_3/250/560424530.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Werde ewig dankbar sein&quot;: Als Uli Hoeneß sein großes Herz zeigte</title>
+                <description>Aktuell steht Uli Hoeneß wegen seiner Vorgehensweise im Fall Jamal Musiala in der Kritik. Doch natürlich gab es in der Vergangenheit auch die andere Seite des früheren Bayern-Managers. Eine Geschichte sticht dabei bis heute heraus.</description>
+                <link>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-Uli-Hoeness-sein-grosses-Herz-zeigte-id31584600.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Als-Uli-Hoeness-sein-grosses-Herz-zeigte-id31584600.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 07:40:18 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31584740/1795854976/Img_4_3/250/imago0019629060h.jpg" width="250" height="188" align="left" />Aktuell steht Uli Hoeneß wegen seiner Vorgehensweise im Fall Jamal Musiala in der Kritik. Doch natürlich gab es in der Vergangenheit auch die andere Seite des früheren Bayern-Managers. Eine Geschichte sticht dabei bis heute heraus.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31584740/1795854976/Img_4_3/250/imago0019629060h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Sie hat jegliche Unterstützung&quot;: Bundestrainer findet klare Worte für lange gesperrte Laura Freigang</title>
+                <description>Die Dopingsperre für Laura Freigang ist für das DFB-Team in der WM-Vorbereitung ein harter Schlag. Bundestrainer Christian Wück sieht jedoch auch die menschliche Dimension des Falles: Er will die 28-Jährige trotz ihrer Verfehlungen umfassend stützen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Bundestrainer-findet-klare-Worte-fuer-lange-gesperrte-Laura-Freigang-id31588788.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Bundestrainer-findet-klare-Worte-fuer-lange-gesperrte-Laura-Freigang-id31588788.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 14:44:40 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588777/1795871881/Img_4_3/250/imago1054566424h.jpg" width="250" height="188" align="left" />Die Dopingsperre für Laura Freigang ist für das DFB-Team in der WM-Vorbereitung ein harter Schlag. Bundestrainer Christian Wück sieht jedoch auch die menschliche Dimension des Falles: Er will die 28-Jährige trotz ihrer Verfehlungen umfassend stützen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588777/1795871881/Img_4_3/250/imago1054566424h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Besoffen unterm Weihnachtsbaum&quot;: Alkoholexzesse an Heiligabend gehörten für Nino de Angelo zur Tradition</title>
+                <description>Heute, sagt Schlagerstar Nino de Angelo, könne er nachvollziehen, dass er damit heftige Familienstreits auslöste. Doch früher hätten Kneipenbesuche mit Freunden vor der Berscheerung für ihn zum Heiligabend gehört. Dabei sei es mehrfach zu exzessivem Alkoholkonsum gekommen.</description>
+                <link>https://www.n-tv.de/leute/Alkoholexzesse-an-Heiligabend-gehoerten-fuer-Nino-de-Angelo-zur-Tradition-id31589189.html</link>
+                <guid>https://www.n-tv.de/leute/Alkoholexzesse-an-Heiligabend-gehoerten-fuer-Nino-de-Angelo-zur-Tradition-id31589189.html</guid>
+                <category>Unterhaltung</category>
+                <pubDate>Sat, 28 Nov 2026 17:14:39 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589203/1795882816/Img_4_3/250/imago0869863762h.jpg" width="250" height="188" align="left" />Heute, sagt Schlagerstar Nino de Angelo, könne er nachvollziehen, dass er damit heftige Familienstreits auslöste. Doch früher hätten Kneipenbesuche mit Freunden vor der Berscheerung für ihn zum Heiligabend gehört. Dabei sei es mehrfach zu exzessivem Alkoholkonsum gekommen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589203/1795882816/Img_4_3/250/imago0869863762h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Kein Vergleich zu Vorgängern: Biden-Memoiren floppen bei Verkaufsstart</title>
+                <description>Wegen seiner Krebserkrankung muss der frühere US-Präsident Biden eine PR-Tour für seine Memoiren eindampfen. Das öffentliche Interesse an dem Rückblick des Demokraten auf seine Zeit im Weißen Haus scheint sich ohnehin in Grenzen zu halten.</description>
+                <link>https://www.n-tv.de/politik/Biden-Memoiren-floppen-bei-Verkaufsstart-id31589150.html</link>
+                <guid>https://www.n-tv.de/politik/Biden-Memoiren-floppen-bei-Verkaufsstart-id31589150.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 16:55:39 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589182/1795882396/Img_4_3/250/634006102.jpg" width="250" height="188" align="left" />Wegen seiner Krebserkrankung muss der frühere US-Präsident Biden eine PR-Tour für seine Memoiren eindampfen. Das öffentliche Interesse an dem Rückblick des Demokraten auf seine Zeit im Weißen Haus scheint sich ohnehin in Grenzen zu halten.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589182/1795882396/Img_4_3/250/634006102.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Briten dürfen Öl fördern: Gericht weist argentinischen Antrag im Streit um Falklandinsel ab</title>
+                <description>Bei den Bemühungen, ihren Anspruch auf die Falklandinseln durchzusetzen, erleidet die argentinische Regierung eine Niederlage. Die in Hamburg gefallen Entscheidung soll allerdings &quot;nicht das letzte Wort&quot; in dem Streit sein, sagt Argentiniens Präsident Milei.</description>
+                <link>https://www.n-tv.de/politik/Gericht-weist-argentinischen-Antrag-im-Streit-um-Falklandinsel-ab-id31588996.html</link>
+                <guid>https://www.n-tv.de/politik/Gericht-weist-argentinischen-Antrag-im-Streit-um-Falklandinsel-ab-id31588996.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 15:38:42 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589024/1795878010/Img_4_3/250/552891476.jpg" width="250" height="188" align="left" />Bei den Bemühungen, ihren Anspruch auf die Falklandinseln durchzusetzen, erleidet die argentinische Regierung eine Niederlage. Die in Hamburg gefallen Entscheidung soll allerdings "nicht das letzte Wort" in dem Streit sein, sagt Argentiniens Präsident Milei.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589024/1795878010/Img_4_3/250/552891476.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Vorwürfe gegen Peking: China-Kritiker unterliegt bei Kommunalwahl in Taipeh</title>
+                <description>Die Kommunalwahl in Taiwan wird als Stimmungstest für die regierende DPP angesehen. In der Hauptstadt Taipeh muss die Partei des Präsidenten aber einen Dämpfer hinnehmen: Der China-kritische Kandidat unterliegt. Seine Partei macht dafür auch Peking verantwortlich.</description>
+                <link>https://www.n-tv.de/politik/China-Kritiker-unterliegt-bei-Kommunalwahl-in-Taipeh-id31588939.html</link>
+                <guid>https://www.n-tv.de/politik/China-Kritiker-unterliegt-bei-Kommunalwahl-in-Taipeh-id31588939.html</guid>
+                <category>Politik</category>
+                <pubDate>Sat, 28 Nov 2026 14:34:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588925/1795875986/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Die Kommunalwahl in Taiwan wird als Stimmungstest für die regierende DPP angesehen. In der Hauptstadt Taipeh muss die Partei des Präsidenten aber einen Dämpfer hinnehmen: Der China-kritische Kandidat unterliegt. Seine Partei macht dafür auch Peking verantwortlich.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588925/1795875986/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nicht an Feiertag und Wochenende: Spritpreisdeckel soll ab 4. Januar gelten</title>
+                <description>Mit dem Jahreswechsel sollen in Deutschland Höchstpreise für Benzin und Diesel an den Tankstellen eingeführt werden. Zu den vielen Einschränkungen des Spritpreisdeckels gehört, dass er nicht sofort greifen wird, sondern erst nach einigen Tagen. </description>
+                <link>https://www.n-tv.de/wirtschaft/Spritpreisdeckel-soll-ab-4-Januar-gelten-id31588911.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Spritpreisdeckel-soll-ab-4-Januar-gelten-id31588911.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 28 Nov 2026 14:42:08 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588918/1795876925/Img_4_3/250/579790748.jpg" width="250" height="188" align="left" />Mit dem Jahreswechsel sollen in Deutschland Höchstpreise für Benzin und Diesel an den Tankstellen eingeführt werden. Zu den vielen Einschränkungen des Spritpreisdeckels gehört, dass er nicht sofort greifen wird, sondern erst nach einigen Tagen. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588918/1795876925/Img_4_3/250/579790748.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>100.000 Bewerber in einem Jahr: Ansturm auf Jobs bei Rüstungskonzern KNDS</title>
+                <description>Die Rüstungsausgaben wachsen seit einigen Jahren kräftig. Allein im neuen Bundeshaushalt sind 140 Milliarden Euro für Verteidigung vorgesehen. Für Unternehmen der deutschen Rüstungsindustrie bedeutet das einen Boom - auch bei den Bewerberzahlen.</description>
+                <link>https://www.n-tv.de/wirtschaft/Ansturm-auf-Jobs-bei-Ruestungskonzern-KNDS-id31588887.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Ansturm-auf-Jobs-bei-Ruestungskonzern-KNDS-id31588887.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 28 Nov 2026 15:07:02 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588906/1795875277/Img_4_3/250/608239730.jpg" width="250" height="188" align="left" />Die Rüstungsausgaben wachsen seit einigen Jahren kräftig. Allein im neuen Bundeshaushalt sind 140 Milliarden Euro für Verteidigung vorgesehen. Für Unternehmen der deutschen Rüstungsindustrie bedeutet das einen Boom - auch bei den Bewerberzahlen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588906/1795875277/Img_4_3/250/608239730.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Nur noch eine Frau dabei: Lagardes Abgang macht EZB-Spitze wieder zur Männer-Bastion</title>
+                <description>27 Personen sitzen im EZB-Rat. Es sind 25 Männer - und derzeit zwei Frauen. Wenn Präsidentin Lagarde und die deutsche Direktoriumsvertreterin Schnabel abtreten, rückt nur eine Frau nach. Dabei sorgen vielfältige Gremien für mehr Debatten und eine breitere Themenwahl.</description>
+                <link>https://www.n-tv.de/wirtschaft/Lagardes-Abgang-macht-EZB-Spitze-wieder-zur-Maenner-Bastion-id31588422.html</link>
+                <guid>https://www.n-tv.de/wirtschaft/Lagardes-Abgang-macht-EZB-Spitze-wieder-zur-Maenner-Bastion-id31588422.html</guid>
+                <category>Wirtschaft</category>
+                <pubDate>Sat, 28 Nov 2026 11:49:27 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588438/1795863842/Img_4_3/250/20260909_GovC_FamilyPhoto_Ext_Press_Conference_Berlin_LD-3052-2.jpg" width="250" height="188" align="left" />27 Personen sitzen im EZB-Rat. Es sind 25 Männer - und derzeit zwei Frauen. Wenn Präsidentin Lagarde und die deutsche Direktoriumsvertreterin Schnabel abtreten, rückt nur eine Frau nach. Dabei sorgen vielfältige Gremien für mehr Debatten und eine breitere Themenwahl.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588438/1795863842/Img_4_3/250/20260909_GovC_FamilyPhoto_Ext_Press_Conference_Berlin_LD-3052-2.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Formel-1-Quali mit Überraschung: Weltmeister Antonelli muss sich hinter Teamkollegen anstellen</title>
+                <description>Einmal mehr ist Mercedes das dominierende Team in der Formel 1. Am vorletzten Rennwochenende in Katar stehen beide Silberpfeile in der ersten Startreihe - allerdings in überraschender Reihenfolge. Für Nico Hülkenberg läuft es mal wieder gar nicht. </description>
+                <link>https://www.n-tv.de/sport/formel1/Weltmeister-Antonelli-muss-sich-hinter-Teamkollegen-anstellen-id31589545.html</link>
+                <guid>https://www.n-tv.de/sport/formel1/Weltmeister-Antonelli-muss-sich-hinter-Teamkollegen-anstellen-id31589545.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 20:18:35 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589544/1795896755/Img_4_3/250/636063319.jpg" width="250" height="188" align="left" />Einmal mehr ist Mercedes das dominierende Team in der Formel 1. Am vorletzten Rennwochenende in Katar stehen beide Silberpfeile in der ersten Startreihe - allerdings in überraschender Reihenfolge. Für Nico Hülkenberg läuft es mal wieder gar nicht. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589544/1795896755/Img_4_3/250/636063319.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Köln-Kantersieg gegen Elversberg: Kimmich brennen bei Bayern-Punktverlust die Sicherungen durch</title>
+                <description>Neben all den Verletzten muss der FC Bayern in den kommenden Bundesliga-Spielen auch auf Joshua Kimmich verzichten: Der Kapitän sieht beim Hamburger SV nach einer Tätlichkeit glatt Rot. Die SV Elversberg erlebt beim 1. FC Köln ein Debakel, der 1. FC Union Berlin kassiert den ganz späten K.o.</description>
+                <link>https://www.n-tv.de/sport/fussball/Kimmich-brennen-bei-Bayern-Punktverlust-die-Sicherungen-durch-id31589295.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Kimmich-brennen-bei-Bayern-Punktverlust-die-Sicherungen-durch-id31589295.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 17:22:23 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589313/1795885894/Img_4_3/250/image.jpg" width="250" height="188" align="left" />Neben all den Verletzten muss der FC Bayern in den kommenden Bundesliga-Spielen auch auf Joshua Kimmich verzichten: Der Kapitän sieht beim Hamburger SV nach einer Tätlichkeit glatt Rot. Die SV Elversberg erlebt beim 1. FC Köln ein Debakel, der 1. FC Union Berlin kassiert den ganz späten K.o.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589313/1795885894/Img_4_3/250/image.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Paderborn wie im Rausch: FC Schalke zerfällt beim desaströsen 1:8 in seine Einzelteile</title>
+                <description>Schalke-Torhüter Loris Karius hat am elften Spieltag der Fußball-Bundesliga unglaublich viel zu tun. Andauernd muss er den Ball aus seinem Tor holen. Der SC Paderborn trifft wie am Fließband und Schalke ergibt sich machtlos dem Debakel. </description>
+                <link>https://www.n-tv.de/sport/fussball/FC-Schalke-zerfaellt-beim-desastroesen-1-8-in-seine-Einzelteile-id31589336.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/FC-Schalke-zerfaellt-beim-desastroesen-1-8-in-seine-Einzelteile-id31589336.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 17:28:47 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589329/1795886203/Img_4_3/250/imago1086473731h.jpg" width="250" height="188" align="left" />Schalke-Torhüter Loris Karius hat am elften Spieltag der Fußball-Bundesliga unglaublich viel zu tun. Andauernd muss er den Ball aus seinem Tor holen. Der SC Paderborn trifft wie am Fließband und Schalke ergibt sich machtlos dem Debakel. ]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589329/1795886203/Img_4_3/250/imago1086473731h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Indirekte Spitze gegen Hoeneß: Max Eberl mahnt in &quot;menschlicher Tragödie&quot; um Musiala</title>
+                <description>Das Schicksal von Jamal Musiala und vor allem der Umgang damit wühlen nicht nur den FC Bayern auf. Sportvorstand Max Eberl hofft auf Ruhe - und äußert sich damit in Richtung von Uli Hoeneß und Karl-Heinz Rummenigge, ohne deren Namen zu nennen.</description>
+                <link>https://www.n-tv.de/sport/fussball/Max-Eberl-mahnt-in-menschlicher-Tragoedie-um-Musiala-id31589081.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Max-Eberl-mahnt-in-menschlicher-Tragoedie-um-Musiala-id31589081.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 16:57:15 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31589104/1795879773/Img_4_3/250/imago1086465798h.jpg" width="250" height="188" align="left" />Das Schicksal von Jamal Musiala und vor allem der Umgang damit wühlen nicht nur den FC Bayern auf. Sportvorstand Max Eberl hofft auf Ruhe - und äußert sich damit in Richtung von Uli Hoeneß und Karl-Heinz Rummenigge, ohne deren Namen zu nennen.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31589104/1795879773/Img_4_3/250/imago1086465798h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Dresden-Wahnsinn nach 90. Minute: Hertha BSC überrollt nächsten Gegner und bleibt auf 100-Punkte-Kurs</title>
+                <description>Es ist erst der 13. Spieltag, aber Hertha BSC ist der 2. Bundesliga schon scheinbar uneinholsam enteilt. Mit einem hohen Sieg gegen den Karlsruher SC bauen die Berliner ihren Vorsprung in der Tabelle aus. Im Keller gelingt Holstein Kiel ein Befreiungsschlag, Dynamo Dresden jubelt in letzter Minute.</description>
+                <link>https://www.n-tv.de/sport/fussball/Hertha-BSC-ueberrollt-naechsten-Gegner-und-bleibt-auf-100-Punkte-Kurs-id31588856.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Hertha-BSC-ueberrollt-naechsten-Gegner-und-bleibt-auf-100-Punkte-Kurs-id31588856.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 14:56:07 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588860/1795874027/Img_4_3/250/imago1086461702h.jpg" width="250" height="188" align="left" />Es ist erst der 13. Spieltag, aber Hertha BSC ist der 2. Bundesliga schon scheinbar uneinholsam enteilt. Mit einem hohen Sieg gegen den Karlsruher SC bauen die Berliner ihren Vorsprung in der Tabelle aus. Im Keller gelingt Holstein Kiel ein Befreiungsschlag, Dynamo Dresden jubelt in letzter Minute.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588860/1795874027/Img_4_3/250/imago1086461702h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Favoriten fürs Grand-Prix-Finale: Mauerfall-Kurzprogramm leitet klaren Sieg für Hase/Volodin ein</title>
+                <description>Auf dem Weg zu den Saisonhöhepunkten im Frühjahr sind Minerva Hase und Nikita Volodin in beachtlicher Frühform. Bei ihrem Grand-Prix-Sieg in Tokio lassen sie die Eiskunstlauf-Konkurrenz deutlich hinter sich.</description>
+                <link>https://www.n-tv.de/sport/Mauerfall-Kurzprogramm-leitet-klaren-Sieg-fuer-Hase-Volodin-ein-id31588636.html</link>
+                <guid>https://www.n-tv.de/sport/Mauerfall-Kurzprogramm-leitet-klaren-Sieg-fuer-Hase-Volodin-ein-id31588636.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 12:38:01 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588661/1795868343/Img_4_3/250/imago1086457335h.jpg" width="250" height="188" align="left" />Auf dem Weg zu den Saisonhöhepunkten im Frühjahr sind Minerva Hase und Nikita Volodin in beachtlicher Frühform. Bei ihrem Grand-Prix-Sieg in Tokio lassen sie die Eiskunstlauf-Konkurrenz deutlich hinter sich.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588661/1795868343/Img_4_3/250/imago1086457335h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>&quot;Fuck off, you&apos;re not welcome&quot;: Chelsea-Fans beschimpfen eigenen Profi aufs Übelste</title>
+                <description>Weil er in einem Interview über eine bittere Niederlage seines Klubs gegen den FC Liverpool zu scherzen scheint, zieht Chelsea-Profi Wesley Fofana den Zorn der eigenen Fans auf sich. Bei der nächsten Pleite seines Klubs leistet er sich auch sportlich einen Ausrutscher.</description>
+                <link>https://www.n-tv.de/sport/fussball/Chelsea-Fans-beschimpfen-eigenen-Profi-aufs-Uebelste-id31588418.html</link>
+                <guid>https://www.n-tv.de/sport/fussball/Chelsea-Fans-beschimpfen-eigenen-Profi-aufs-Uebelste-id31588418.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 12:04:37 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588451/1795863977/Img_4_3/250/imago1086456346h.jpg" width="250" height="188" align="left" />Weil er in einem Interview über eine bittere Niederlage seines Klubs gegen den FC Liverpool zu scherzen scheint, zieht Chelsea-Profi Wesley Fofana den Zorn der eigenen Fans auf sich. Bei der nächsten Pleite seines Klubs leistet er sich auch sportlich einen Ausrutscher.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588451/1795863977/Img_4_3/250/imago1086456346h.jpg" length="12555" type="image/jpeg" />
+            </item>
+            <item>
+                <title>Lakers verlieren Topspiel: Doncic kassiert Schweißband-Korb und wird von Zuschauer geschubst</title>
+                <description>Im Duell der NBA-Superstars kassiert Luka Doncic mit den Los Angeles Lakers eine Niederlage gegen die San Antonio Spurs um Victor Wembanyama. Und nach dem Spiel wird der Slowene auch noch von einem Zuschauer geschubst.</description>
+                <link>https://www.n-tv.de/sport/basketball/Doncic-kassiert-Schweissband-Korb-und-wird-von-Zuschauer-geschubst-id31588292.html</link>
+                <guid>https://www.n-tv.de/sport/basketball/Doncic-kassiert-Schweissband-Korb-und-wird-von-Zuschauer-geschubst-id31588292.html</guid>
+                <category>Sport</category>
+                <pubDate>Sat, 28 Nov 2026 10:35:24 +0100</pubDate>
+                <content:encoded><![CDATA[<img src="https://www.n-tv.de/img/31588286/1795859870/Img_4_3/250/imago1086317465h.jpg" width="250" height="188" align="left" />Im Duell der NBA-Superstars kassiert Luka Doncic mit den Los Angeles Lakers eine Niederlage gegen die San Antonio Spurs um Victor Wembanyama. Und nach dem Spiel wird der Slowene auch noch von einem Zuschauer geschubst.]]></content:encoded>
+                <enclosure url="https://www.n-tv.de/img/31588286/1795859870/Img_4_3/250/imago1086317465h.jpg" length="12555" type="image/jpeg" />
+            </item>
+    </channel>
+    </rss>
